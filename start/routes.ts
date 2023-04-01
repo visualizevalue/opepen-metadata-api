@@ -21,5 +21,13 @@
 import Route from '@ioc:Adonis/Core/Route'
 
 Route.get('/', async () => {
-  return { hello: 'world' }
+  return { hello: 'opepensea' }
 })
+
+// General metadata
+Route.get('/opepen.json', 'OpepenMetadataController.contractMetadata')
+Route.get('/base.png', 'OpepenMetadataController.baseImage')
+
+// Token specific metadata
+Route.get('/:id/metadata.json', 'OpepenMetadataController.metadata')
+Route.get('/:id/image.png', 'OpepenMetadataController.image')
