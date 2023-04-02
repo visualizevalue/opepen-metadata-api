@@ -17,7 +17,7 @@ export default class MetadataParser {
     let metadata: MetadataProvenance
 
     if (await Drive.exists('metadata.json')) {
-      metadata = JSON.parse(await Drive.get('metadata.json').toString())
+      metadata = JSON.parse((await Drive.get('metadata.json')).toString())
     } else {
       metadata = template
     }
