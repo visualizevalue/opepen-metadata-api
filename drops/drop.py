@@ -8,22 +8,21 @@ script_dir = os.path.dirname(os.path.abspath(__file__))
 
 def get_owner_tickets(drop='000'):
   file_path = os.path.join(script_dir, f'tickets/{drop}.csv')
-  reader = csv.DictReader(open(file_path, 'r'))
-
-  last_ticket_range = 0
   owner_tickets = {}
 
-  for row in reader:
-    tickets = int(row['tickets'])
-    last_ticket_range += tickets
+  with open(file_path, 'r') as f:
+    reader = csv.DictReader(f)
 
-    owner_tickets[row['address']] = {
-      'address': row['address'],
-      'tickets': tickets,
-      'opepens': set(row['opepens'].split(', ')),
-    }
+    for row in reader:
+      tickets = int(row['tickets'])
 
-  return owner_tickets, last_ticket_range
+      owner_tickets[row['address']] = {
+        'address': row['address'],
+        'tickets': tickets,
+        'opepens': set(row['opepens'].split(', ')),
+      }
+
+    return owner_tickets
 
 def get_ticket_ranges(owner_tickets):
   owners = {}
@@ -42,8 +41,8 @@ if __name__ == '__main__':
   parser.add_argument('--sets', type=int, nargs='*', default=[1, 4, 5, 10, 20, 40], help='The sets in the drop')
   args = parser.parse_args()
 
-  immutable_owner_tickets, _ = get_owner_tickets(args.drop)
-  owner_tickets, _ = get_owner_tickets(args.drop)
+  immutable_owner_tickets = get_owner_tickets(args.drop)
+  owner_tickets = get_owner_tickets(args.drop)
   random.seed(args.seed)
 
   sets = []
