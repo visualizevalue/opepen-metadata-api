@@ -55,7 +55,6 @@ if __name__ == '__main__':
     sets.append({
       'set': set_size,
       'tokens': [],
-      'owners': {},
     })
 
     for _ in range(0, set_size):
