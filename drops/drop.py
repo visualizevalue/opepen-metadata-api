@@ -67,7 +67,9 @@ if __name__ == '__main__':
       owner = next(address for (address, idx) in ranges.items() if idx >= ticket_idx)
 
       # Select random token from owner
-      token = random.sample(list(owner_tickets[owner]['opepens']), 1)[0]
+      available_tokens = list(owner_tickets[owner]['opepens'])
+      available_tokens.sort()
+      token = random.choice(available_tokens)
 
       # Store our set data
       sets[draw_idx]['tokens'].append(token)
