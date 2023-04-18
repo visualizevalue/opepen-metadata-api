@@ -90,9 +90,44 @@ if __name__ == '__main__':
 
   # Save the result
   file_path = os.path.join(script_dir, f'results/{args.drop}.json')
-  with open(file_path, 'w') as fp:
-    json.dump(sets, fp, indent=2)
+  with open(file_path, 'w') as file:
+    json.dump(sets, file, indent=2)
 
   file_path = os.path.join(script_dir, f'results/{args.drop}_stats.json')
-  with open(file_path, 'w') as fp:
-    json.dump(stats, fp, indent=2)
+  with open(file_path, 'w') as file:
+    json.dump(stats, file, indent=2)
+
+  file_path = os.path.join(script_dir, f'results/{args.drop}_stats.csv')
+  with open(file_path, 'w') as file:
+    writer = csv.writer(file)
+    writer.writerow([
+      'winner',
+      'tickets',
+      'reveals',
+      'tokens',
+      'set40',
+      'set20',
+      'set10',
+      'set5',
+      'set4',
+      'set1',
+    ])
+
+    def filterSet(size):
+      tokens = filter(lambda t:t['set'] == size, winner['tokens'])
+
+      return ', '.join(list(map(lambda t:t['token'], tokens)))
+
+    for address, winner in stats['winners'].items():
+      writer.writerow([
+        address,
+        winner['tickets'],
+        len(winner['tokens']),
+        ', '.join(list(map(lambda t:t['token'], winner['tokens']))),
+        filterSet(40),
+        filterSet(20),
+        filterSet(10),
+        filterSet(5),
+        filterSet(4),
+        filterSet(1),
+      ])
