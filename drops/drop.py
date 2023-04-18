@@ -38,7 +38,6 @@ if __name__ == '__main__':
   parser = argparse.ArgumentParser(description='Manages Opepen drops')
   parser.add_argument('--seed', type=str, help='The block hash of the reveal transaction')
   parser.add_argument('--drop', type=str, help='The name of the drop (e.g. 000)')
-  parser.add_argument('--sets', type=int, nargs='*', default=[1, 4, 5, 10, 20, 40], help='The sets in the drop')
   args = parser.parse_args()
 
   immutable_owner_tickets = get_owner_tickets(args.drop)
@@ -50,7 +49,7 @@ if __name__ == '__main__':
     'winners': {}
   }
 
-  for (draw_idx, set_size) in enumerate(args.sets):
+  for (draw_idx, set_size) in enumerate([1, 4, 5, 10, 20, 40]):
     # Initialize the list of tokens in the drop
     sets.append({
       'set': set_size,
