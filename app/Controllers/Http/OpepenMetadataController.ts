@@ -41,8 +41,7 @@ export default class OpepenMetadataController {
     const data = await MetadataParser.forId(params.id)
 
     if (! data.image.startsWith('http') && ! data.image.startsWith('ipfs://')) {
-      // FIXME: replace with correct URI
-      data.image = `https://metadata-service.xyz/${params.id}/image.png`
+      data.image = `https://metadata.opepen.art/${params.id}/image.png`
     }
 
     return data
