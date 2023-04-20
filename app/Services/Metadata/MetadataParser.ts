@@ -1,5 +1,5 @@
 import Drive from '@ioc:Adonis/Core/Drive'
-import template from './MetadataTemplate.json'
+import MetadataDefinition from './metadata.json'
 import { Attribute, MetadataProvenance, ContractMetadata, TokenMetadata } from './MetadataTypes'
 
 /**
@@ -16,10 +16,10 @@ export default class MetadataParser {
   public async initialize (): Promise<MetadataParser> {
     let metadata: MetadataProvenance
 
-    if (await Drive.exists('metadata.json')) {
+    if (await Drive.exists('metadata.json') && false) {
       metadata = JSON.parse((await Drive.get('metadata.json')).toString())
     } else {
-      metadata = template
+      metadata = MetadataDefinition
     }
 
     this.metadata = metadata
