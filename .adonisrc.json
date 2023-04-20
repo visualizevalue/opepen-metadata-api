@@ -24,6 +24,12 @@
   "aceProviders": [
     "@adonisjs/repl"
   ],
+  "metaFiles": [
+    {
+      "pattern": "app/**/*.json",
+      "reloadServer": true
+    }
+  ],
   "tests": {
     "suites": [
       {
