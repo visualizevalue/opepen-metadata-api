@@ -98,7 +98,7 @@ export default class OpepenMetadataController {
   private async validate (data) {
     const validID = schema.create({
       id: schema.number([
-        rules.range(1, 15984),
+        rules.range(1, 16000),
       ]),
     })
 
