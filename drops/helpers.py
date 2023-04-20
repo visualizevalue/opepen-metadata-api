@@ -71,9 +71,15 @@ def filter_set(set_size, token_sets):
   return ', '.join(list(map(lambda t:str(t['token']), tokens)))
 
 def save_collection(sets):
-  file_path = os.path.join(script_directory(), 'results/collection.json')
+  file_path = os.path.join(script_directory(), 'results/sets.json')
   with open(file_path, 'w') as file:
     json.dump(sets, file, indent=2)
+
+  file_path = os.path.join(script_directory(), 'results/tokens.json')
+  with open(file_path, 'w') as file:
+    tokens = {token: set_info['set'] for set_info in sets for token in set_info['tokens']}
+    sorted_tokens = {k: tokens[k] for k in sorted(tokens)}
+    json.dump(sorted_tokens, file, indent=2)
 
 def save_stats(stats):
   file_path = os.path.join(script_directory(), 'results/winner_stats.json')
