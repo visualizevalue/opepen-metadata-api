@@ -3,6 +3,9 @@ import os
 import csv
 import json
 
+TICKETS_PER_OPEPEN = 10
+TICKETS_PER_CHECK = 1
+
 def script_directory():
   return os.path.dirname(os.path.abspath(__file__))
 
@@ -21,23 +24,32 @@ def get_owner_tickets():
   with open(file_path, 'r') as f:
     reader = csv.DictReader(f)
 
-    owner_tickets = {row['address']: {
-      'address': row['address'],
-      'tickets': int(row['tickets']),
-      'opepen_count': int(row['opepen_count']),
-      'opepen_tickets': int(row['opepen_tickets']),
-      'checks_edition_count': int(row['checks_edition_count']),
-      'checks_original_80_count': int(row['checks_original_80_count']),
-      'checks_original_40_count': int(row['checks_original_40_count']),
-      'checks_original_20_count': int(row['checks_original_20_count']),
-      'checks_original_10_count': int(row['checks_original_10_count']),
-      'checks_original_5_count': int(row['checks_original_5_count']),
-      'checks_original_4_count': int(row['checks_original_4_count']),
-      'checks_original_1_count': int(row['checks_original_1_count']),
-      'opepens': set(map(int, row['opepens'].split(', '))),
-    } for row in reader}
+    for row in reader:
+      opepen_count = int(row['opepen_count'])
+      opepen_tickets = opepen_count * TICKETS_PER_OPEPEN
 
-    return owner_tickets
+      checks_count = {k: int(row[k]) for k in row if k.startswith('checks_original_')}
+      checks_tickets = (
+        checks_count['checks_original_80_count'] +
+        checks_count['checks_original_40_count'] * 2 +
+        checks_count['checks_original_20_count'] * 4 +
+        checks_count['checks_original_10_count'] * 8 +
+        checks_count['checks_original_5_count'] * 16 +
+        checks_count['checks_original_4_count'] * 32 +
+        checks_count['checks_original_1_count'] * 64
+      ) * TICKETS_PER_CHECK
+
+      owner_tickets[row['address']] = {
+        'address': row['address'],
+        'opepen_tickets': opepen_tickets,
+        'checks_tickets': checks_tickets,
+        'tickets': opepen_tickets + checks_tickets,
+        'opepen_count': opepen_count,
+        **checks_count,
+        'opepens': set(map(int, row['opepens'].split(', '))),
+      }
+
+  return owner_tickets
 
 def get_ticket_ranges(owner_tickets):
   owners = {}
@@ -52,7 +64,7 @@ def get_ticket_ranges(owner_tickets):
 def mark_token_as_used(owner_tickets, address, token):
   owner = owner_tickets[address]
   owner['opepens'].remove(token)
-  owner['tickets'] -= 1
+  owner['tickets'] -= TICKETS_PER_OPEPEN
   if len(owner['opepens']) == 0: del owner_tickets[address]
 
 def compute_stats(stats, owner, token, set_size):
