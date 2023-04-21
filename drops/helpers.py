@@ -24,6 +24,7 @@ def get_owner_tickets():
     owner_tickets = {row['address']: {
       'address': row['address'],
       'tickets': int(row['tickets']),
+      'opepen_count': int(row['opepen_count']),
       'opepen_tickets': int(row['opepen_tickets']),
       'checks_edition_count': int(row['checks_edition_count']),
       'checks_original_80_count': int(row['checks_original_80_count']),
@@ -57,8 +58,9 @@ def mark_token_as_used(owner_tickets, address, token):
 def compute_stats(stats, owner, token, set_size):
   address = owner['address']
   stats['winners'].setdefault(address, {
-    'tickets': owner['tickets'],
+    'opepen_count': owner['opepen_count'],
     'opepen_tickets': owner['opepen_tickets'],
+    'tickets': owner['tickets'],
   })
   stats['winners'][address].setdefault('tokens', []).append({
     'set': set_size,
@@ -92,7 +94,7 @@ def save_stats(stats):
     writer.writerow([
       'winner',
       'tickets',
-      'opepen_tickets',
+      'opepen_count',
       'checks_tickets',
       'set40',
       'set20',
@@ -107,7 +109,7 @@ def save_stats(stats):
       writer.writerow([
         address,
         winner['tickets'],
-        winner['opepen_tickets'],
+        winner['opepen_count'],
         winner['tickets'] - winner['opepen_tickets'],
         filter_set(40, token_sets),
         filter_set(20, token_sets),
