@@ -13,6 +13,20 @@
     "image": "ipfs://bafybeidhmw3gazojgwqieyhj2ace23qdyt3frmirt4pe25jgzn4veeza3q",
     "attributes": []
   },
-  "editions": {},
-  "tokens": {}
+  "editions": {
+    "rare-test": {
+      "name": "Rare Opepen Test",
+      "description": "This artwork is just a test.",
+      "image": "ipfs://QmNMSrgdn1RNCR83CHwbR5qtJB5XDydEM485vo3d7is5Y7",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack"
+        }
+      ]
+    }
+  },
+  "tokens": {
+    "305": "rare-test"
+  }
 }
