@@ -24,6 +24,66 @@
           "value": "Jack"
         }
       ]
+    },
+    "rare-1": {
+      "name": "Opepen",
+      "image": "ipfs://QmUgUcDnwDQHpcomij9XRYpdD4vY3j4sFpcKe5EuzsGjHb/1.svg",
+      "attributes": [
+        {
+          "trait_type": "Edition",
+          "value": "1"
+        }
+      ]
+    },
+    "rare-4": {
+      "name": "Opepen",
+      "image": "ipfs://QmUgUcDnwDQHpcomij9XRYpdD4vY3j4sFpcKe5EuzsGjHb/4.svg",
+      "attributes": [
+        {
+          "trait_type": "Edition",
+          "value": "4"
+        }
+      ]
+    },
+    "rare-5": {
+      "name": "Opepen",
+      "image": "ipfs://QmUgUcDnwDQHpcomij9XRYpdD4vY3j4sFpcKe5EuzsGjHb/5.svg",
+      "attributes": [
+        {
+          "trait_type": "Edition",
+          "value": "5"
+        }
+      ]
+    },
+    "rare-10": {
+      "name": "Opepen",
+      "image": "ipfs://QmUgUcDnwDQHpcomij9XRYpdD4vY3j4sFpcKe5EuzsGjHb/10.svg",
+      "attributes": [
+        {
+          "trait_type": "Edition",
+          "value": "10"
+        }
+      ]
+    },
+    "rare-20": {
+      "name": "Opepen",
+      "image": "ipfs://QmUgUcDnwDQHpcomij9XRYpdD4vY3j4sFpcKe5EuzsGjHb/20.svg",
+      "attributes": [
+        {
+          "trait_type": "Edition",
+          "value": "20"
+        }
+      ]
+    },
+    "rare-40": {
+      "name": "Opepen",
+      "image": "ipfs://QmUgUcDnwDQHpcomij9XRYpdD4vY3j4sFpcKe5EuzsGjHb/40.svg",
+      "attributes": [
+        {
+          "trait_type": "Edition",
+          "value": "40"
+        }
+      ]
     }
   },
   "tokens": {
