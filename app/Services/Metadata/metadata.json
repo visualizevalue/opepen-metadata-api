@@ -70,323 +70,1809 @@
     },
     "set_001-01": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/1/png-0.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "XVI"
+        }
+      ]
     },
     "set_001-04_01": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/4/png-0.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "XII"
+        }
+      ]
     },
     "set_001-04_02": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/4/png-1.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "XII"
+        }
+      ]
     },
     "set_001-04_03": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/4/png-2.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "XII"
+        }
+      ]
     },
     "set_001-04_04": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/4/png-3.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "XII"
+        }
+      ]
     },
     "set_001-05_01": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/5/png-0.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "IX"
+        }
+      ]
     },
     "set_001-05_02": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/5/png-1.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "IX"
+        }
+      ]
     },
     "set_001-05_03": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/5/png-2.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "IX"
+        }
+      ]
     },
     "set_001-05_04": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/5/png-3.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "IX"
+        }
+      ]
     },
     "set_001-05_05": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/5/png-4.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "IX"
+        }
+      ]
     },
     "set_001-10_01": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-0.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-10_02": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-1.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-10_03": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-2.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-10_04": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-3.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-10_05": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-4.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-10_06": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-5.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-10_07": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-6.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-10_08": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-7.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-10_09": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-8.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-10_10": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/10/png-9.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "V"
+        }
+      ]
     },
     "set_001-20_01": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-0.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_02": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-1.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_03": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-2.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_04": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-3.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_05": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-4.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_06": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-5.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_07": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-6.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_08": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-7.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_09": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-8.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_10": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-9.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_11": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-10.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_12": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-11.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_13": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-12.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_14": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-13.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_15": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-14.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_16": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-15.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_17": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-16.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_18": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-17.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_19": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-18.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-20_20": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/20/png-19.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "III"
+        }
+      ]
     },
     "set_001-40_01": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-0.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_02": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-1.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_03": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-2.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_04": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-3.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_05": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-4.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_06": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-5.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_07": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-6.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_08": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-7.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_09": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-8.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_10": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-9.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_11": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-10.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_12": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-11.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_13": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-12.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_14": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-13.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_15": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-14.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_16": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-15.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_17": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-16.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_18": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-17.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_19": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-18.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_20": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-19.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_21": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-20.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_22": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-21.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_23": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-22.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_24": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-23.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_25": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-24.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_26": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-25.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_27": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-26.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_28": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-27.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_29": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-28.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_30": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-29.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_31": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-30.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_32": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-31.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_33": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-32.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_34": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-33.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_35": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-34.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_36": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-35.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_37": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-36.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_38": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-37.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_39": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-38.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
     },
     "set_001-40_40": {
       "image": "ipfs://QmRTkhrhPoMcLuuFkjWo3CCQjt9BSJKrgD8MA2EUSQnPGf/40/png-39.png",
-      "attributes": []
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "001"
+        },
+        {
+          "trait_type": "Set",
+          "value": "8x8"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "I"
+        }
+      ]
+    },
+    "set_002-01": {
+      "image": "ipfs://QmZ1xUxMB34yAChmggvz4UbVW3yzhCizQorXNwSSmMqyCy/1.jpg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SD 2.1"
+        },
+        {
+          "trait_type": "Release",
+          "value": "002"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Brought to Light"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Chrome"
+        }
+      ]
+    },
+    "set_002-04": {
+      "image": "ipfs://QmZ1xUxMB34yAChmggvz4UbVW3yzhCizQorXNwSSmMqyCy/2.jpg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SD 2.1"
+        },
+        {
+          "trait_type": "Release",
+          "value": "002"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Brought to Light"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Glass"
+        }
+      ]
+    },
+    "set_002-05": {
+      "image": "ipfs://QmZ1xUxMB34yAChmggvz4UbVW3yzhCizQorXNwSSmMqyCy/3.jpg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SD 2.1"
+        },
+        {
+          "trait_type": "Release",
+          "value": "002"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Brought to Light"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Marble"
+        }
+      ]
+    },
+    "set_002-10": {
+      "image": "ipfs://QmZ1xUxMB34yAChmggvz4UbVW3yzhCizQorXNwSSmMqyCy/4.jpg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SD 2.1"
+        },
+        {
+          "trait_type": "Release",
+          "value": "002"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Brought to Light"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Granite"
+        }
+      ]
+    },
+    "set_002-20": {
+      "image": "ipfs://QmZ1xUxMB34yAChmggvz4UbVW3yzhCizQorXNwSSmMqyCy/5.jpg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SD 2.1"
+        },
+        {
+          "trait_type": "Release",
+          "value": "002"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Brought to Light"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Paper"
+        }
+      ]
+    },
+    "set_002-40": {
+      "image": "ipfs://QmZ1xUxMB34yAChmggvz4UbVW3yzhCizQorXNwSSmMqyCy/6.jpg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "SD 2.1"
+        },
+        {
+          "trait_type": "Release",
+          "value": "002"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Brought to Light"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Silkscreen"
+        }
+      ]
     }
   },
   "tokens": {
