@@ -14,8 +14,6 @@ def parse_arguments():
   parser.add_argument('--seed', type=str, help='The block hash of the reveal transaction')
   return parser.parse_args()
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
-
 # Get our ticket and opepen ownership data
 def get_owner_tickets():
   file_path = os.path.join(script_directory(), 'data/tickets.csv')
