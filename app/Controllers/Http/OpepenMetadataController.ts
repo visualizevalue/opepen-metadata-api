@@ -48,6 +48,32 @@ export default class OpepenMetadataController {
   }
 
   /**
+   * Get the image URI for the specified ID
+   *
+   * @param {Object} ctx The HTTP context
+   * @param {Object} ctx.params The HTTP request parameters
+   * @param {Number} ctx.params.id The ID of the metadata to retrieve the image for
+   * @param {Object} ctx.response The HTTP response
+   * @returns {Promise} A promise that resolves to the image URI for the specified ID
+   */
+  public async imageURI (ctx: HttpContextContract) {
+    const { params } = ctx
+    await this.validate(params)
+
+    let { image: uri } = await MetadataParser.forId(params.id)
+
+    if (! uri) {
+      uri = (await MetadataParser.base()).image
+    }
+
+    if (uri.startsWith('ipfs://')) {
+      uri = uri.replace('ipfs://', 'https://ipfs.io/ipfs/')
+    }
+
+    return { uri }
+  }
+
+  /**
    * Get the image for the specified ID
    *
    * @param {Object} ctx The HTTP context
@@ -57,16 +83,11 @@ export default class OpepenMetadataController {
    * @returns {Promise} A promise that resolves to the image for the specified ID
    */
   public async image (ctx: HttpContextContract) {
-    const { params, response } = ctx
-    await this.validate(params)
+    const { response } = ctx
 
-    const data = await MetadataParser.forId(params.id)
+    const { uri } = await this.imageURI(ctx)
 
-    if (! data.image) {
-      data.image = (await MetadataParser.base()).image
-    }
-
-    return this.resolveImage(data.image, response)
+    return this.resolveImage(uri, response)
   }
 
   /**

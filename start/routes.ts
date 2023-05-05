@@ -30,6 +30,7 @@ Route.get('/base.png', 'OpepenMetadataController.baseImage')
 
 // Token specific metadata
 Route.get('/:id/metadata.json', 'OpepenMetadataController.metadata')
+Route.get('/:id/image-uri', 'OpepenMetadataController.imageURI')
 Route.get('/:id/image', 'OpepenMetadataController.image')
 
 // TODO: Deprecate
