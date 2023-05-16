@@ -15,7 +15,7 @@
   },
   "editions": {
     "rare-1": {
-      "image": "ipfs://QmbfMoS958jscQg9nkj3GQ1JzF6onS2PcLSTSHAgvmXGvr/1.png",
+      "image": "ipfs://QmVXvZ5Sp6aSDBrWvtJ5gZ3bwNWRqqY3iPvyF8nveWj5HF/1.png",
       "attributes": [
         {
           "trait_type": "Edition Size",
@@ -24,7 +24,7 @@
       ]
     },
     "rare-4": {
-      "image": "ipfs://QmbfMoS958jscQg9nkj3GQ1JzF6onS2PcLSTSHAgvmXGvr/4.png",
+      "image": "ipfs://QmVXvZ5Sp6aSDBrWvtJ5gZ3bwNWRqqY3iPvyF8nveWj5HF/4.png",
       "attributes": [
         {
           "trait_type": "Edition Size",
@@ -33,7 +33,7 @@
       ]
     },
     "rare-5": {
-      "image": "ipfs://QmbfMoS958jscQg9nkj3GQ1JzF6onS2PcLSTSHAgvmXGvr/5.png",
+      "image": "ipfs://QmVXvZ5Sp6aSDBrWvtJ5gZ3bwNWRqqY3iPvyF8nveWj5HF/5.png",
       "attributes": [
         {
           "trait_type": "Edition Size",
@@ -42,7 +42,7 @@
       ]
     },
     "rare-10": {
-      "image": "ipfs://QmbfMoS958jscQg9nkj3GQ1JzF6onS2PcLSTSHAgvmXGvr/10.png",
+      "image": "ipfs://QmVXvZ5Sp6aSDBrWvtJ5gZ3bwNWRqqY3iPvyF8nveWj5HF/10.png",
       "attributes": [
         {
           "trait_type": "Edition Size",
@@ -51,7 +51,7 @@
       ]
     },
     "rare-20": {
-      "image": "ipfs://QmbfMoS958jscQg9nkj3GQ1JzF6onS2PcLSTSHAgvmXGvr/20.png",
+      "image": "ipfs://QmVXvZ5Sp6aSDBrWvtJ5gZ3bwNWRqqY3iPvyF8nveWj5HF/20.png",
       "attributes": [
         {
           "trait_type": "Edition Size",
@@ -60,7 +60,7 @@
       ]
     },
     "rare-40": {
-      "image": "ipfs://QmbfMoS958jscQg9nkj3GQ1JzF6onS2PcLSTSHAgvmXGvr/40.png",
+      "image": "ipfs://QmVXvZ5Sp6aSDBrWvtJ5gZ3bwNWRqqY3iPvyF8nveWj5HF/40.png",
       "attributes": [
         {
           "trait_type": "Edition Size",
