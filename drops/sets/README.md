@@ -20,4 +20,19 @@ Run the script: `python3 randomize.py --seed 0xc2062ac5c7f8b644a34a884df0c795791
 
 ### Set `003`
 
-- ...
+- [Provenance Tweet](https://twitter.com/jalil_eth/status/1663265479056822272)
+- [Block & Block Hash (17367169)](https://etherscan.io/block/17367169): `0x157dd0a75b72092ae7a2fb5d1268086798febcaddae22e56779ce69d3b388cf4`
+- [Salt](https://twitter.com/jalil_eth/status/1663298169986334721): `consensus is temporary, truth is not.`
+- [Submissions](https://ipfs.io/ipfs/QmX1pANp5oxSbFMQwfd4Zvwg4xoSZ4aGzMKb8VPQBt7KCK)
+
+Full Script: `python3 randomize.py --seed "0x157dd0a75b72092ae7a2fb5d1268086798febcaddae22e56779ce69d3b388cf4_consensus is temporary, truth is not." --set 003`
+
+### Set `004`
+
+- Provenance Tweet (same as `003`)
+- Block & Block Hash (17367169) (same as `003`)
+- `consensus is temporary, truth is not.` (same as `003`)
+- [Submissions](http://ipfs.io/ipfs/QmdqWVuE4a6k7qi2mxPdjVfCReVFKUrgGXeAdKKgZLzWYG)
+
+Full Script: `python3 randomize.py --seed "0x157dd0a75b72092ae7a2fb5d1268086798febcaddae22e56779ce69d3b388cf4_consensus is temporary, truth is not." --set 004`
+
