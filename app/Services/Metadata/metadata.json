@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "contract": {
     "name": "Opepen",
     "description": "This artwork may or may not be handmade.",
@@ -2361,6 +2361,2006 @@
         {
           "trait_type": "Opepen",
           "value": "GMOpepen 6"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-01_01": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/01-alpha/alpha.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Alpha"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_004-04_01": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/02-order/air.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Order"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_004-04_02": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/02-order/earth.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Order"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_004-04_03": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/02-order/fire.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Order"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_004-04_04": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/02-order/water.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Order"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_004-05_01": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/03-isolate/air.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Isolate"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_004-05_02": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/03-isolate/earth.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Isolate"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_004-05_03": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/03-isolate/fire.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Isolate"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_004-05_04": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/03-isolate/void.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Isolate"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_004-05_05": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/03-isolate/water.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Isolate"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_004-10_01": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/air-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-10_02": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/air-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-10_03": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/earth-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-10_04": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/earth-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-10_05": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/fire-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-10_06": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/fire-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-10_07": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/void-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-10_08": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/void-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-10_09": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/water-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-10_10": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/04-composite/water-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Composite"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_004-20_01": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_02": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_03": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/3.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_04": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/4.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_05": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/5.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_06": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/6.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_07": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/7.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_08": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/8.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_09": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/9.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_10": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_11": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/11.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_12": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/12.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_13": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/13.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_14": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/14.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_15": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/15.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_16": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/16.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_17": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/17.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_18": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/18.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_19": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/19.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-20_20": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/05-compound/20.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Compound"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_004-40_01": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_02": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_03": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/3.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_04": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/4.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_05": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/5.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_06": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/6.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_07": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/7.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_08": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/8.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_09": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/9.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_10": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_11": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/11.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_12": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/12.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_13": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/13.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_14": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/14.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_15": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/15.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_16": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/16.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_17": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/17.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_18": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/18.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_19": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/19.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_20": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/20.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_21": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/21.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_22": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/22.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_23": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/23.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_24": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/24.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_25": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/25.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_26": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/26.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_27": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/27.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_28": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/28.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_29": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/29.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_30": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/30.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_31": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/31.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_32": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/32.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_33": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/33.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_34": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/34.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_35": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/35.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_36": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/36.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_37": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/37.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_38": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/38.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_39": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/39.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_004-40_40": {
+      "image": "ipfs://QmWsJ5kVgRFHZ11JrMmACMT45f8mr4DGFPXvZTCG66WvNs/06-complete/40.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "004"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Consensus"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Complete"
         },
         {
           "trait_type": "Edition Size",
