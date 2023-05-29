@@ -2217,6 +2217,156 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_003-01": {
+      "image": "ipfs://QmY5RFhidfbQ22b3RMD9xNhDmXUWewTdPsHRAqB6UMQn5E/GMopepe-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Batz"
+        },
+        {
+          "trait_type": "Release",
+          "value": "003"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Full Circle"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "GMOpepen 1"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_003-04": {
+      "image": "ipfs://QmY5RFhidfbQ22b3RMD9xNhDmXUWewTdPsHRAqB6UMQn5E/GMopepe-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Batz"
+        },
+        {
+          "trait_type": "Release",
+          "value": "003"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Full Circle"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "GMOpepen 2"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_003-05": {
+      "image": "ipfs://QmY5RFhidfbQ22b3RMD9xNhDmXUWewTdPsHRAqB6UMQn5E/GMopepe-3.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Batz"
+        },
+        {
+          "trait_type": "Release",
+          "value": "003"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Full Circle"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "GMOpepen 3"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_003-10": {
+      "image": "ipfs://QmY5RFhidfbQ22b3RMD9xNhDmXUWewTdPsHRAqB6UMQn5E/GMopepe-4.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Batz"
+        },
+        {
+          "trait_type": "Release",
+          "value": "003"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Full Circle"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "GMOpepen 4"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_003-20": {
+      "image": "ipfs://QmY5RFhidfbQ22b3RMD9xNhDmXUWewTdPsHRAqB6UMQn5E/GMopepe-5.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Batz"
+        },
+        {
+          "trait_type": "Release",
+          "value": "003"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Full Circle"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "GMOpepen 5"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_003-40": {
+      "image": "ipfs://QmY5RFhidfbQ22b3RMD9xNhDmXUWewTdPsHRAqB6UMQn5E/GMopepe-6.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Batz"
+        },
+        {
+          "trait_type": "Release",
+          "value": "003"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Full Circle"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "GMOpepen 6"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {
