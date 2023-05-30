@@ -2370,7 +2370,7 @@
     },
     "set_004-01_01": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/01-alpha/alpha.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/01-alpha/alpha.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/01-alpha/alpha.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2396,7 +2396,7 @@
     },
     "set_004-04_01": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/air.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/air.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/air.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2422,7 +2422,7 @@
     },
     "set_004-04_02": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/earth.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/earth.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/earth.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2448,7 +2448,7 @@
     },
     "set_004-04_03": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/fire.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/fire.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/fire.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2474,7 +2474,7 @@
     },
     "set_004-04_04": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/water.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/water.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/02-order/water.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2500,7 +2500,7 @@
     },
     "set_004-05_01": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/air.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/air.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/air.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2526,7 +2526,7 @@
     },
     "set_004-05_02": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/earth.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/earth.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/earth.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2552,7 +2552,7 @@
     },
     "set_004-05_03": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/fire.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/fire.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/fire.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2578,7 +2578,7 @@
     },
     "set_004-05_04": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/void.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/void.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/void.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2604,7 +2604,7 @@
     },
     "set_004-05_05": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/water.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/water.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/03-isolate/water.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2630,7 +2630,7 @@
     },
     "set_004-10_01": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/air-1.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/air-1.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/air-1.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2656,7 +2656,7 @@
     },
     "set_004-10_02": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/air-2.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/air-2.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/air-2.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2682,7 +2682,7 @@
     },
     "set_004-10_03": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/earth-1.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/earth-1.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/earth-1.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2708,7 +2708,7 @@
     },
     "set_004-10_04": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/earth-2.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/earth-2.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/earth-2.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2734,7 +2734,7 @@
     },
     "set_004-10_05": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/fire-1.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/fire-1.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/fire-1.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2760,7 +2760,7 @@
     },
     "set_004-10_06": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/fire-2.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/fire-2.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/fire-2.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2786,7 +2786,7 @@
     },
     "set_004-10_07": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/void-1.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/void-1.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/void-1.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2812,7 +2812,7 @@
     },
     "set_004-10_08": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/void-2.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/void-2.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/void-2.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2838,7 +2838,7 @@
     },
     "set_004-10_09": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/water-1.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/water-1.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/water-1.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2864,7 +2864,7 @@
     },
     "set_004-10_10": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/water-2.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/water-2.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/04-composite/water-2.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2890,7 +2890,7 @@
     },
     "set_004-20_01": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/1.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/1.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/1.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2916,7 +2916,7 @@
     },
     "set_004-20_02": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/2.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/2.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/2.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2942,7 +2942,7 @@
     },
     "set_004-20_03": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/3.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/3.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/3.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2968,7 +2968,7 @@
     },
     "set_004-20_04": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/4.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/4.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/4.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -2994,7 +2994,7 @@
     },
     "set_004-20_05": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/5.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/5.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/5.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3020,7 +3020,7 @@
     },
     "set_004-20_06": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/6.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/6.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/6.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3046,7 +3046,7 @@
     },
     "set_004-20_07": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/7.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/7.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/7.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3072,7 +3072,7 @@
     },
     "set_004-20_08": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/8.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/8.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/8.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3098,7 +3098,7 @@
     },
     "set_004-20_09": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/9.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/9.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/9.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3124,7 +3124,7 @@
     },
     "set_004-20_10": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/10.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/10.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/10.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3150,7 +3150,7 @@
     },
     "set_004-20_11": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/11.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/11.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/11.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3176,7 +3176,7 @@
     },
     "set_004-20_12": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/12.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/12.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/12.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3202,7 +3202,7 @@
     },
     "set_004-20_13": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/13.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/13.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/13.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3228,7 +3228,7 @@
     },
     "set_004-20_14": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/14.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/14.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/14.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3254,7 +3254,7 @@
     },
     "set_004-20_15": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/15.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/15.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/15.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3280,7 +3280,7 @@
     },
     "set_004-20_16": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/16.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/16.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/16.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3306,7 +3306,7 @@
     },
     "set_004-20_17": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/17.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/17.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/17.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3332,7 +3332,7 @@
     },
     "set_004-20_18": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/18.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/18.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/18.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3358,7 +3358,7 @@
     },
     "set_004-20_19": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/19.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/19.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/19.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3384,7 +3384,7 @@
     },
     "set_004-20_20": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/20.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/20.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/05-compound/20.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3410,7 +3410,7 @@
     },
     "set_004-40_01": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/1.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/1.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/1.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3436,7 +3436,7 @@
     },
     "set_004-40_02": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/2.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/2.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/2.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3462,7 +3462,7 @@
     },
     "set_004-40_03": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/3.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/3.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/3.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3488,7 +3488,7 @@
     },
     "set_004-40_04": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/4.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/4.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/4.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3514,7 +3514,7 @@
     },
     "set_004-40_05": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/5.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/5.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/5.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3540,7 +3540,7 @@
     },
     "set_004-40_06": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/6.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/6.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/6.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3566,7 +3566,7 @@
     },
     "set_004-40_07": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/7.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/7.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/7.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3592,7 +3592,7 @@
     },
     "set_004-40_08": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/8.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/8.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/8.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3618,7 +3618,7 @@
     },
     "set_004-40_09": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/9.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/9.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/9.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3644,7 +3644,7 @@
     },
     "set_004-40_10": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/10.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/10.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/10.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3670,7 +3670,7 @@
     },
     "set_004-40_11": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/11.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/11.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/11.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3696,7 +3696,7 @@
     },
     "set_004-40_12": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/12.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/12.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/12.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3722,7 +3722,7 @@
     },
     "set_004-40_13": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/13.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/13.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/13.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3748,7 +3748,7 @@
     },
     "set_004-40_14": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/14.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/14.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/14.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3774,7 +3774,7 @@
     },
     "set_004-40_15": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/15.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/15.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/15.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3800,7 +3800,7 @@
     },
     "set_004-40_16": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/16.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/16.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/16.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3826,7 +3826,7 @@
     },
     "set_004-40_17": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/17.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/17.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/17.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3852,7 +3852,7 @@
     },
     "set_004-40_18": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/18.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/18.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/18.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3878,7 +3878,7 @@
     },
     "set_004-40_19": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/19.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/19.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/19.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3904,7 +3904,7 @@
     },
     "set_004-40_20": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/20.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/20.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/20.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3930,7 +3930,7 @@
     },
     "set_004-40_21": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/21.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/21.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/21.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3956,7 +3956,7 @@
     },
     "set_004-40_22": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/22.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/22.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/22.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -3982,7 +3982,7 @@
     },
     "set_004-40_23": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/23.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/23.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/23.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4008,7 +4008,7 @@
     },
     "set_004-40_24": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/24.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/24.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/24.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4034,7 +4034,7 @@
     },
     "set_004-40_25": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/25.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/25.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/25.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4060,7 +4060,7 @@
     },
     "set_004-40_26": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/26.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/26.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/26.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4086,7 +4086,7 @@
     },
     "set_004-40_27": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/27.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/27.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/27.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4112,7 +4112,7 @@
     },
     "set_004-40_28": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/28.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/28.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/28.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4138,7 +4138,7 @@
     },
     "set_004-40_29": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/29.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/29.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/29.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4164,7 +4164,7 @@
     },
     "set_004-40_30": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/30.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/30.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/30.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4190,7 +4190,7 @@
     },
     "set_004-40_31": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/31.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/31.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/31.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4216,7 +4216,7 @@
     },
     "set_004-40_32": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/32.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/32.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/32.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4242,7 +4242,7 @@
     },
     "set_004-40_33": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/33.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/33.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/33.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4268,7 +4268,7 @@
     },
     "set_004-40_34": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/34.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/34.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/34.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4294,7 +4294,7 @@
     },
     "set_004-40_35": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/35.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/35.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/35.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4320,7 +4320,7 @@
     },
     "set_004-40_36": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/36.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/36.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/36.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4346,7 +4346,7 @@
     },
     "set_004-40_37": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/37.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/37.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/37.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4372,7 +4372,7 @@
     },
     "set_004-40_38": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/38.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/38.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/38.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4398,7 +4398,7 @@
     },
     "set_004-40_39": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/39.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/39.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/39.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -4424,7 +4424,7 @@
     },
     "set_004-40_40": {
       "image": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/40.png",
-      "animation_uri": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/40.svg",
+      "animation_url": "ipfs://QmYPhXMxw7yq9oS8t6FhqfU6dy2e6YGanMnRwfrqD4KUpi/06-complete/40.svg",
       "attributes": [
         {
           "trait_type": "Artist",

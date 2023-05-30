@@ -68,6 +68,7 @@ export default class MetadataParser {
       name: isOneOfOne ? name : name + ` ${id}`,
       description: this.getAttribute('description', definition) as string,
       image: this.getAttribute('image', definition) as string,
+      animation_url: this.getAttribute('animation_url', definition) as string,
       attributes: [
         ...this.getAttribute('attributes', definition) as Attribute[],
         {
