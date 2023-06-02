@@ -24,6 +24,7 @@ export type TokenMetadata = {
   name?: string,
   description?: string,
   image: string,
+  image_dark?: string,
   animation_url?: string,
   attributes?: Attribute[],
 }
