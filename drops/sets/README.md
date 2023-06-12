@@ -44,3 +44,12 @@ Full Script: `python3 randomize.py --seed "0x157dd0a75b72092ae7a2fb5d1268086798f
 - [Submissions](https://ipfs.io/ipfs/QmVxRtypNoykDUbDwbmNzaUygWCuaDB5E1f6BXCYRJT7vK)
 
 Full Script: `python3 randomize.py --seed "0xf165ab3bb4996866cff0bac9e51c0b051243814fde86f611925b0e6f6dfc2293_it's just two cubes" --set 005`
+
+### Set `006`
+
+- [Provenance Tweet](https://twitter.com/jalil_eth/status/1668345585710030852?s=20)
+- [Block & Block Hash (17466200)](https://etherscan.io/block/17466200): `0x672295386f94d6148519ce3841aae5491b17fda0cf9bf6a913ad868a2d110368`
+- [Salt](https://twitter.com/jalil_eth/status/1668351890080292875): `happy birthday punks`
+- [Submissions](http://ipfs.io/ipfs/QmQgWgR3yKzrD5ZYRb7sSyriYiTncuAnFnkVQgKfkEjn4J)
+
+Full Script: `python3 randomize.py --seed "0x672295386f94d6148519ce3841aae5491b17fda0cf9bf6a913ad868a2d110368_happy birthday punks" --set 006`
