@@ -47,9 +47,18 @@ Full Script: `python3 randomize.py --seed "0xf165ab3bb4996866cff0bac9e51c0b05124
 
 ### Set `006`
 
-- [Provenance Tweet](https://twitter.com/jalil_eth/status/1668345585710030852?s=20)
+- [Provenance Tweet](https://twitter.com/jalil_eth/status/1668345585710030852)
 - [Block & Block Hash (17466200)](https://etherscan.io/block/17466200): `0x672295386f94d6148519ce3841aae5491b17fda0cf9bf6a913ad868a2d110368`
 - [Salt](https://twitter.com/jalil_eth/status/1668351890080292875): `happy birthday punks`
 - [Submissions](http://ipfs.io/ipfs/QmQgWgR3yKzrD5ZYRb7sSyriYiTncuAnFnkVQgKfkEjn4J)
 
 Full Script: `python3 randomize.py --seed "0x672295386f94d6148519ce3841aae5491b17fda0cf9bf6a913ad868a2d110368_happy birthday punks" --set 006`
+
+### Set `007`
+
+- [Provenance Tweet](https://twitter.com/jalil_eth/status/1674170487360962560)
+- [Block & Block Hash (17580655)](https://etherscan.io/block/17580655): `0x020d6b1df2581d0198bcd49b6d64cfacbf1c426f11f83ccca1ec8021e298ad73`
+- [Salt](https://twitter.com/jalil_eth/status/1674170492192686080): `Needs eyes?`
+- [Submissions](http://ipfs.io/ipfs/QmW34w5H8LLu5UxZSzNm3dJUWAT8S9tnZxZVi7gikoLqQj)
+
+Full Script: `python3 randomize.py --seed "0x020d6b1df2581d0198bcd49b6d64cfacbf1c426f11f83ccca1ec8021e298ad73_Needs eyes?" --set 007`
