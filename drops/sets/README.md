@@ -62,3 +62,12 @@ Full Script: `python3 randomize.py --seed "0x672295386f94d6148519ce3841aae5491b1
 - [Submissions](http://ipfs.io/ipfs/QmW34w5H8LLu5UxZSzNm3dJUWAT8S9tnZxZVi7gikoLqQj)
 
 Full Script: `python3 randomize.py --seed "0x020d6b1df2581d0198bcd49b6d64cfacbf1c426f11f83ccca1ec8021e298ad73_Needs eyes?" --set 007`
+
+### Set `008`
+
+- [Provenance Tweet](https://twitter.com/jalil_eth/status/1676286079823912960)
+- [Block & Block Hash (17622347)](https://etherscan.io/block/17622347): `0x538e4a5ed1f00744047cedf266d21126e8cc143c8514f6fb343df90bce9b2f8a`
+- [Salt](https://twitter.com/jalil_eth/status/1676286084622196738): `∞∞∞∞ The Beginning Of Infinity ∞∞∞∞`
+- [Submissions](http://ipfs.io/ipfs/QmRxXP12fz73gcThSA8b33uD6qnmvQNpzkQ9ThmWUFCPby)
+
+Full Script: `python3 randomize.py --seed "0x538e4a5ed1f00744047cedf266d21126e8cc143c8514f6fb343df90bce9b2f8a_∞∞∞∞ The Beginning Of Infinity ∞∞∞∞" --set 008`
