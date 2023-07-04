@@ -6909,162 +6909,161 @@
       ]
     }
   },
-    "set_008-01": {
-      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
-      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Jack Butcher"
-        },
-        {
-          "trait_type": "Release",
-          "value": "008"
-        },
-        {
-          "trait_type": "Set",
-          "value": "Infinite"
-        },
-        {
-          "trait_type": "Opepen",
-          "value": "∞/1"
-        },
-        {
-          "trait_type": "Edition Size",
-          "value": "One"
-        }
-      ]
-    },
-    "set_008-04": {
-      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
-      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Jack Butcher"
-        },
-        {
-          "trait_type": "Release",
-          "value": "008"
-        },
-        {
-          "trait_type": "Set",
-          "value": "Infinite"
-        },
-        {
-          "trait_type": "Opepen",
-          "value": "∞/4"
-        },
-        {
-          "trait_type": "Edition Size",
-          "value": "Four"
-        }
-      ]
-    },
-    "set_008-05": {
-      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
-      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Jack Butcher"
-        },
-        {
-          "trait_type": "Release",
-          "value": "008"
-        },
-        {
-          "trait_type": "Set",
-          "value": "Infinite"
-        },
-        {
-          "trait_type": "Opepen",
-          "value": "∞/5"
-        },
-        {
-          "trait_type": "Edition Size",
-          "value": "Five"
-        }
-      ]
-    },
-    "set_008-10": {
-      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
-      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Jack Butcher"
-        },
-        {
-          "trait_type": "Release",
-          "value": "008"
-        },
-        {
-          "trait_type": "Set",
-          "value": "Infinite"
-        },
-        {
-          "trait_type": "Opepen",
-          "value": "∞/10"
-        },
-        {
-          "trait_type": "Edition Size",
-          "value": "Ten"
-        }
-      ]
-    },
-    "set_008-20": {
-      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
-      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Jack Butcher"
-        },
-        {
-          "trait_type": "Release",
-          "value": "008"
-        },
-        {
-          "trait_type": "Set",
-          "value": "Infinite"
-        },
-        {
-          "trait_type": "Opepen",
-          "value": "∞/20"
-        },
-        {
-          "trait_type": "Edition Size",
-          "value": "Twenty"
-        }
-      ]
-    },
-    "set_008-40": {
-      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
-      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
-      "attributes": [
-        {
-          "trait_type": "Artist",
-          "value": "Jack Butcher"
-        },
-        {
-          "trait_type": "Release",
-          "value": "008"
-        },
-        {
-          "trait_type": "Set",
-          "value": "Infinite"
-        },
-        {
-          "trait_type": "Opepen",
-          "value": "∞/40"
-        },
-        {
-          "trait_type": "Edition Size",
-          "value": "Forty"
-        }
-      ]
-    }
+  "set_008-01": {
+    "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+    "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jack Butcher"
+      },
+      {
+        "trait_type": "Release",
+        "value": "008"
+      },
+      {
+        "trait_type": "Set",
+        "value": "Infinite"
+      },
+      {
+        "trait_type": "Opepen",
+        "value": "∞/1"
+      },
+      {
+        "trait_type": "Edition Size",
+        "value": "One"
+      }
+    ]
+  },
+  "set_008-04": {
+    "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+    "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jack Butcher"
+      },
+      {
+        "trait_type": "Release",
+        "value": "008"
+      },
+      {
+        "trait_type": "Set",
+        "value": "Infinite"
+      },
+      {
+        "trait_type": "Opepen",
+        "value": "∞/4"
+      },
+      {
+        "trait_type": "Edition Size",
+        "value": "Four"
+      }
+    ]
+  },
+  "set_008-05": {
+    "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+    "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jack Butcher"
+      },
+      {
+        "trait_type": "Release",
+        "value": "008"
+      },
+      {
+        "trait_type": "Set",
+        "value": "Infinite"
+      },
+      {
+        "trait_type": "Opepen",
+        "value": "∞/5"
+      },
+      {
+        "trait_type": "Edition Size",
+        "value": "Five"
+      }
+    ]
+  },
+  "set_008-10": {
+    "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+    "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jack Butcher"
+      },
+      {
+        "trait_type": "Release",
+        "value": "008"
+      },
+      {
+        "trait_type": "Set",
+        "value": "Infinite"
+      },
+      {
+        "trait_type": "Opepen",
+        "value": "∞/10"
+      },
+      {
+        "trait_type": "Edition Size",
+        "value": "Ten"
+      }
+    ]
+  },
+  "set_008-20": {
+    "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+    "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jack Butcher"
+      },
+      {
+        "trait_type": "Release",
+        "value": "008"
+      },
+      {
+        "trait_type": "Set",
+        "value": "Infinite"
+      },
+      {
+        "trait_type": "Opepen",
+        "value": "∞/20"
+      },
+      {
+        "trait_type": "Edition Size",
+        "value": "Twenty"
+      }
+    ]
+  },
+  "set_008-40": {
+    "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+    "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+    "attributes": [
+      {
+        "trait_type": "Artist",
+        "value": "Jack Butcher"
+      },
+      {
+        "trait_type": "Release",
+        "value": "008"
+      },
+      {
+        "trait_type": "Set",
+        "value": "Infinite"
+      },
+      {
+        "trait_type": "Opepen",
+        "value": "∞/40"
+      },
+      {
+        "trait_type": "Edition Size",
+        "value": "Forty"
+      }
+    ]
   },
   "tokens": {
     "1": "rare-5",
@@ -7322,7 +7321,7 @@
     "253": "rare-10",
     "254": "rare-20",
     "255": "rare-1",
-    "256": "rare-20",
+    "256": "set_008-20",
     "257": "rare-20",
     "258": "rare-10",
     "259": "rare-40",
@@ -7447,7 +7446,7 @@
     "378": "rare-40",
     "379": "rare-40",
     "380": "rare-40",
-    "381": "rare-20",
+    "381": "set_008-20",
     "382": "rare-20",
     "383": "rare-4",
     "384": "rare-20",
@@ -7741,7 +7740,7 @@
     "672": "rare-1",
     "673": "rare-40",
     "674": "rare-40",
-    "675": "rare-40",
+    "675": "set_008-40",
     "676": "rare-40",
     "677": "rare-40",
     "678": "rare-20",
@@ -7874,7 +7873,7 @@
     "805": "rare-5",
     "806": "rare-10",
     "807": "rare-40",
-    "808": "rare-20",
+    "808": "set_008-20",
     "809": "rare-4",
     "810": "rare-10",
     "811": "rare-5",
@@ -7896,7 +7895,7 @@
     "827": "rare-10",
     "828": "rare-10",
     "829": "rare-10",
-    "830": "rare-20",
+    "830": "set_008-20",
     "831": "rare-40",
     "832": "rare-5",
     "833": "rare-40",
@@ -7924,7 +7923,7 @@
     "855": "rare-40",
     "856": "rare-5",
     "857": "rare-10",
-    "858": "rare-40",
+    "858": "set_008-40",
     "859": "rare-40",
     "860": "rare-20",
     "861": "rare-20",
@@ -8000,7 +7999,7 @@
     "931": "rare-40",
     "932": "rare-20",
     "933": "rare-20",
-    "934": "rare-40",
+    "934": "set_008-40",
     "935": "rare-4",
     "936": "rare-4",
     "937": "rare-40",
@@ -8023,7 +8022,7 @@
     "954": "rare-40",
     "955": "rare-1",
     "956": "rare-4",
-    "957": "rare-10",
+    "957": "set_008-10",
     "958": "set_007-20",
     "959": "rare-40",
     "960": "rare-1",
@@ -8567,7 +8566,7 @@
     "1498": "rare-20",
     "1499": "rare-40",
     "1500": "rare-40",
-    "1501": "rare-1",
+    "1501": "set_008-01",
     "1502": "rare-40",
     "1503": "rare-40",
     "1504": "set_001-40_31",
@@ -9007,7 +9006,7 @@
     "1938": "rare-4",
     "1939": "rare-20",
     "1940": "rare-10",
-    "1941": "rare-40",
+    "1941": "set_008-40",
     "1942": "rare-40",
     "1943": "rare-10",
     "1944": "rare-40",
@@ -9138,7 +9137,7 @@
     "2069": "rare-20",
     "2070": "rare-20",
     "2071": "rare-20",
-    "2072": "rare-40",
+    "2072": "set_008-40",
     "2073": "rare-20",
     "2074": "rare-40",
     "2075": "rare-40",
@@ -9401,7 +9400,7 @@
     "2332": "rare-40",
     "2333": "rare-20",
     "2334": "rare-4",
-    "2335": "rare-40",
+    "2335": "set_008-40",
     "2336": "rare-40",
     "2337": "rare-40",
     "2338": "rare-4",
@@ -9980,10 +9979,10 @@
     "2911": "rare-40",
     "2912": "set_001-04_01",
     "2913": "rare-40",
-    "2914": "rare-40",
+    "2914": "set_008-40",
     "2915": "rare-20",
     "2916": "rare-5",
-    "2917": "rare-20",
+    "2917": "set_008-20",
     "2918": "rare-20",
     "2919": "rare-10",
     "2920": "rare-40",
@@ -10053,7 +10052,7 @@
     "2984": "rare-40",
     "2985": "rare-40",
     "2986": "rare-10",
-    "2987": "rare-20",
+    "2987": "set_008-20",
     "2988": "rare-10",
     "2989": "rare-5",
     "2990": "rare-40",
@@ -10218,7 +10217,7 @@
     "3149": "rare-5",
     "3150": "rare-10",
     "3151": "rare-40",
-    "3152": "rare-40",
+    "3152": "set_008-40",
     "3153": "rare-40",
     "3154": "rare-20",
     "3155": "rare-40",
@@ -10510,7 +10509,7 @@
     "3441": "rare-20",
     "3442": "rare-40",
     "3443": "rare-20",
-    "3444": "rare-10",
+    "3444": "set_008-10",
     "3445": "rare-10",
     "3446": "rare-20",
     "3447": "rare-40",
@@ -10530,7 +10529,7 @@
     "3461": "rare-20",
     "3462": "rare-10",
     "3463": "rare-40",
-    "3464": "rare-40",
+    "3464": "set_008-40",
     "3465": "rare-4",
     "3466": "rare-40",
     "3467": "rare-40",
@@ -10796,7 +10795,7 @@
     "3727": "rare-10",
     "3728": "rare-40",
     "3729": "rare-20",
-    "3730": "rare-40",
+    "3730": "set_008-40",
     "3731": "rare-40",
     "3732": "rare-40",
     "3733": "rare-40",
@@ -11050,7 +11049,7 @@
     "3981": "rare-10",
     "3982": "rare-40",
     "3983": "rare-10",
-    "3984": "rare-4",
+    "3984": "set_008-04",
     "3985": "rare-10",
     "3986": "rare-40",
     "3987": "rare-40",
@@ -11076,7 +11075,7 @@
     "4007": "set_006-40",
     "4008": "rare-40",
     "4009": "rare-40",
-    "4010": "rare-40",
+    "4010": "set_008-40",
     "4011": "rare-40",
     "4012": "rare-40",
     "4013": "rare-40",
@@ -11312,7 +11311,7 @@
     "4243": "rare-40",
     "4244": "rare-20",
     "4245": "rare-40",
-    "4246": "rare-4",
+    "4246": "set_008-04",
     "4247": "rare-10",
     "4248": "rare-40",
     "4249": "rare-40",
@@ -11496,7 +11495,7 @@
     "4427": "rare-5",
     "4428": "rare-10",
     "4429": "rare-40",
-    "4430": "rare-40",
+    "4430": "set_008-40",
     "4431": "rare-10",
     "4432": "rare-10",
     "4433": "rare-20",
@@ -11633,7 +11632,7 @@
     "4564": "rare-40",
     "4565": "rare-40",
     "4566": "rare-40",
-    "4567": "rare-40",
+    "4567": "set_008-40",
     "4568": "rare-40",
     "4569": "rare-40",
     "4570": "rare-5",
@@ -12077,7 +12076,7 @@
     "5008": "rare-5",
     "5009": "rare-10",
     "5010": "rare-40",
-    "5011": "rare-20",
+    "5011": "set_008-20",
     "5012": "rare-40",
     "5013": "rare-40",
     "5014": "rare-10",
@@ -12180,7 +12179,7 @@
     "5111": "rare-40",
     "5112": "rare-40",
     "5113": "rare-20",
-    "5114": "rare-40",
+    "5114": "set_008-40",
     "5115": "rare-10",
     "5116": "rare-40",
     "5117": "rare-40",
@@ -12248,7 +12247,7 @@
     "5179": "rare-20",
     "5180": "rare-10",
     "5181": "rare-4",
-    "5182": "rare-20",
+    "5182": "set_008-20",
     "5183": "rare-10",
     "5184": "rare-40",
     "5185": "set_001-20_09",
@@ -12354,7 +12353,7 @@
     "5285": "rare-20",
     "5286": "rare-20",
     "5287": "rare-40",
-    "5288": "rare-5",
+    "5288": "set_008-05",
     "5289": "rare-40",
     "5290": "rare-40",
     "5291": "rare-20",
@@ -12694,7 +12693,7 @@
     "5625": "rare-10",
     "5626": "rare-40",
     "5627": "rare-20",
-    "5628": "rare-40",
+    "5628": "set_008-40",
     "5629": "rare-20",
     "5630": "rare-40",
     "5631": "rare-40",
@@ -12826,7 +12825,7 @@
     "5757": "rare-4",
     "5758": "rare-20",
     "5759": "rare-4",
-    "5760": "rare-20",
+    "5760": "set_008-20",
     "5761": "rare-10",
     "5762": "rare-20",
     "5763": "rare-40",
@@ -12859,10 +12858,10 @@
     "5790": "rare-10",
     "5791": "rare-4",
     "5792": "rare-10",
-    "5793": "rare-40",
+    "5793": "set_008-40",
     "5794": "rare-40",
     "5795": "rare-20",
-    "5796": "rare-20",
+    "5796": "set_008-20",
     "5797": "rare-10",
     "5798": "rare-40",
     "5799": "rare-40",
@@ -13047,7 +13046,7 @@
     "5978": "rare-40",
     "5979": "rare-40",
     "5980": "rare-10",
-    "5981": "rare-40",
+    "5981": "set_008-40",
     "5982": "rare-40",
     "5983": "rare-40",
     "5984": "rare-40",
@@ -13399,7 +13398,7 @@
     "6330": "rare-20",
     "6331": "rare-40",
     "6332": "rare-4",
-    "6333": "rare-40",
+    "6333": "set_008-40",
     "6334": "rare-10",
     "6335": "rare-5",
     "6336": "rare-40",
@@ -13560,7 +13559,7 @@
     "6491": "rare-40",
     "6492": "rare-40",
     "6493": "rare-40",
-    "6494": "rare-20",
+    "6494": "set_008-20",
     "6495": "rare-40",
     "6496": "rare-10",
     "6497": "rare-40",
@@ -14210,7 +14209,7 @@
     "7141": "rare-10",
     "7142": "rare-20",
     "7143": "rare-20",
-    "7144": "rare-40",
+    "7144": "set_008-40",
     "7145": "rare-5",
     "7146": "rare-40",
     "7147": "rare-40",
@@ -14220,7 +14219,7 @@
     "7151": "rare-40",
     "7152": "rare-20",
     "7153": "rare-20",
-    "7154": "rare-5",
+    "7154": "set_008-05",
     "7155": "rare-10",
     "7156": "rare-20",
     "7157": "rare-40",
@@ -14306,7 +14305,7 @@
     "7237": "rare-40",
     "7238": "rare-20",
     "7239": "rare-40",
-    "7240": "rare-40",
+    "7240": "set_008-40",
     "7241": "rare-20",
     "7242": "rare-40",
     "7243": "rare-40",
@@ -14567,7 +14566,7 @@
     "7498": "rare-40",
     "7499": "rare-40",
     "7500": "rare-40",
-    "7501": "rare-40",
+    "7501": "set_008-40",
     "7502": "rare-40",
     "7503": "rare-40",
     "7504": "rare-10",
@@ -14709,7 +14708,7 @@
     "7640": "rare-20",
     "7641": "rare-20",
     "7642": "rare-20",
-    "7643": "rare-10",
+    "7643": "set_008-10",
     "7644": "rare-40",
     "7645": "rare-10",
     "7646": "rare-40",
@@ -14757,7 +14756,7 @@
     "7688": "rare-5",
     "7689": "rare-40",
     "7690": "rare-20",
-    "7691": "rare-10",
+    "7691": "set_008-10",
     "7692": "rare-40",
     "7693": "rare-40",
     "7694": "rare-20",
@@ -14818,7 +14817,7 @@
     "7749": "rare-20",
     "7750": "rare-20",
     "7751": "rare-20",
-    "7752": "rare-40",
+    "7752": "set_008-40",
     "7753": "rare-5",
     "7754": "rare-40",
     "7755": "rare-20",
@@ -14926,7 +14925,7 @@
     "7857": "rare-40",
     "7858": "rare-20",
     "7859": "rare-20",
-    "7860": "rare-20",
+    "7860": "set_008-20",
     "7861": "rare-40",
     "7862": "rare-40",
     "7863": "rare-20",
@@ -14946,7 +14945,7 @@
     "7877": "rare-40",
     "7878": "rare-40",
     "7879": "rare-20",
-    "7880": "rare-20",
+    "7880": "set_008-20",
     "7881": "rare-5",
     "7882": "rare-20",
     "7883": "rare-20",
@@ -14990,7 +14989,7 @@
     "7921": "rare-20",
     "7922": "rare-20",
     "7923": "rare-4",
-    "7924": "rare-40",
+    "7924": "set_008-40",
     "7925": "rare-10",
     "7926": "rare-20",
     "7927": "rare-10",
@@ -15012,7 +15011,7 @@
     "7943": "rare-4",
     "7944": "rare-10",
     "7945": "rare-40",
-    "7946": "rare-40",
+    "7946": "set_008-40",
     "7947": "rare-20",
     "7948": "rare-40",
     "7949": "rare-40",
@@ -15059,7 +15058,7 @@
     "7990": "rare-20",
     "7991": "rare-20",
     "7992": "rare-20",
-    "7993": "rare-4",
+    "7993": "set_008-04",
     "7994": "rare-40",
     "7995": "rare-10",
     "7996": "rare-20",
@@ -15231,7 +15230,7 @@
     "8162": "rare-40",
     "8163": "rare-20",
     "8164": "rare-20",
-    "8165": "rare-40",
+    "8165": "set_008-40",
     "8166": "rare-20",
     "8167": "rare-20",
     "8168": "rare-20",
@@ -15289,7 +15288,7 @@
     "8220": "rare-10",
     "8221": "rare-40",
     "8222": "rare-20",
-    "8223": "rare-20",
+    "8223": "set_008-20",
     "8224": "rare-10",
     "8225": "rare-40",
     "8226": "rare-40",
@@ -15618,7 +15617,7 @@
     "8549": "rare-20",
     "8550": "rare-10",
     "8551": "rare-10",
-    "8552": "rare-10",
+    "8552": "set_008-10",
     "8553": "rare-40",
     "8554": "rare-10",
     "8555": "rare-40",
@@ -15668,7 +15667,7 @@
     "8599": "rare-20",
     "8600": "rare-4",
     "8601": "rare-40",
-    "8602": "rare-20",
+    "8602": "set_008-20",
     "8603": "rare-20",
     "8604": "rare-40",
     "8605": "rare-20",
@@ -16328,7 +16327,7 @@
     "9259": "rare-40",
     "9260": "rare-20",
     "9261": "rare-20",
-    "9262": "rare-40",
+    "9262": "set_008-40",
     "9263": "rare-40",
     "9264": "rare-20",
     "9265": "rare-10",
@@ -16650,7 +16649,7 @@
     "9581": "rare-20",
     "9582": "rare-40",
     "9583": "rare-5",
-    "9584": "rare-40",
+    "9584": "set_008-40",
     "9585": "rare-40",
     "9586": "rare-40",
     "9587": "rare-20",
@@ -16883,7 +16882,7 @@
     "9814": "rare-10",
     "9815": "rare-20",
     "9816": "rare-10",
-    "9817": "rare-40",
+    "9817": "set_008-40",
     "9818": "rare-10",
     "9819": "rare-10",
     "9820": "rare-10",
@@ -17009,7 +17008,7 @@
     "9940": "rare-40",
     "9941": "rare-40",
     "9942": "rare-40",
-    "9943": "rare-40",
+    "9943": "set_008-40",
     "9944": "rare-20",
     "9945": "rare-40",
     "9946": "rare-20",
@@ -17469,7 +17468,7 @@
     "10400": "rare-1",
     "10401": "rare-20",
     "10402": "rare-40",
-    "10403": "rare-5",
+    "10403": "set_008-05",
     "10404": "rare-40",
     "10405": "rare-40",
     "10406": "rare-40",
@@ -17638,7 +17637,7 @@
     "10569": "rare-10",
     "10570": "rare-40",
     "10571": "rare-40",
-    "10572": "rare-40",
+    "10572": "set_008-40",
     "10573": "rare-40",
     "10574": "rare-40",
     "10575": "rare-40",
@@ -18240,14 +18239,14 @@
     "11171": "rare-40",
     "11172": "rare-10",
     "11173": "rare-40",
-    "11174": "rare-40",
+    "11174": "set_008-40",
     "11175": "rare-40",
     "11176": "rare-20",
     "11177": "set_006-40",
     "11178": "rare-10",
     "11179": "rare-20",
     "11180": "set_007-40",
-    "11181": "rare-10",
+    "11181": "set_008-10",
     "11182": "rare-40",
     "11183": "rare-40",
     "11184": "rare-40",
@@ -18314,7 +18313,7 @@
     "11245": "rare-40",
     "11246": "rare-4",
     "11247": "set_003-10",
-    "11248": "rare-40",
+    "11248": "set_008-40",
     "11249": "rare-40",
     "11250": "rare-40",
     "11251": "rare-40",
@@ -18453,7 +18452,7 @@
     "11384": "rare-5",
     "11385": "rare-20",
     "11386": "rare-40",
-    "11387": "rare-5",
+    "11387": "set_008-05",
     "11388": "rare-5",
     "11389": "rare-4",
     "11390": "set_006-20",
@@ -18915,7 +18914,7 @@
     "11846": "rare-10",
     "11847": "rare-20",
     "11848": "rare-4",
-    "11849": "rare-40",
+    "11849": "set_008-40",
     "11850": "rare-40",
     "11851": "rare-40",
     "11852": "rare-20",
@@ -18948,7 +18947,7 @@
     "11879": "rare-10",
     "11880": "rare-10",
     "11881": "rare-40",
-    "11882": "rare-40",
+    "11882": "set_008-40",
     "11883": "rare-4",
     "11884": "rare-40",
     "11885": "rare-40",
@@ -19453,7 +19452,7 @@
     "12384": "rare-40",
     "12385": "rare-40",
     "12386": "rare-20",
-    "12387": "rare-40",
+    "12387": "set_008-40",
     "12388": "rare-40",
     "12389": "rare-40",
     "12390": "rare-40",
@@ -19504,7 +19503,7 @@
     "12435": "rare-20",
     "12436": "rare-20",
     "12437": "rare-20",
-    "12438": "rare-5",
+    "12438": "set_008-05",
     "12439": "rare-20",
     "12440": "rare-10",
     "12441": "rare-20",
@@ -19856,7 +19855,7 @@
     "12787": "rare-20",
     "12788": "rare-40",
     "12789": "rare-5",
-    "12790": "rare-10",
+    "12790": "set_008-10",
     "12791": "rare-40",
     "12792": "rare-40",
     "12793": "rare-40",
@@ -19962,7 +19961,7 @@
     "12893": "rare-20",
     "12894": "rare-20",
     "12895": "rare-40",
-    "12896": "rare-40",
+    "12896": "set_008-40",
     "12897": "rare-20",
     "12898": "rare-5",
     "12899": "rare-20",
@@ -20052,7 +20051,7 @@
     "12983": "rare-40",
     "12984": "rare-4",
     "12985": "rare-40",
-    "12986": "rare-20",
+    "12986": "set_008-20",
     "12987": "rare-20",
     "12988": "rare-20",
     "12989": "rare-1",
@@ -20240,7 +20239,7 @@
     "13171": "rare-20",
     "13172": "rare-4",
     "13173": "rare-5",
-    "13174": "rare-10",
+    "13174": "set_008-10",
     "13175": "rare-40",
     "13176": "rare-1",
     "13177": "rare-20",
@@ -20502,7 +20501,7 @@
     "13433": "rare-20",
     "13434": "rare-20",
     "13435": "rare-4",
-    "13436": "rare-10",
+    "13436": "set_008-10",
     "13437": "rare-20",
     "13438": "rare-5",
     "13439": "rare-20",
@@ -20543,7 +20542,7 @@
     "13474": "rare-40",
     "13475": "rare-10",
     "13476": "rare-40",
-    "13477": "rare-40",
+    "13477": "set_008-40",
     "13478": "rare-40",
     "13479": "rare-40",
     "13480": "rare-40",
@@ -20890,7 +20889,7 @@
     "13821": "rare-40",
     "13822": "rare-40",
     "13823": "rare-40",
-    "13824": "rare-20",
+    "13824": "set_008-20",
     "13825": "rare-5",
     "13826": "rare-40",
     "13827": "rare-20",
@@ -21333,7 +21332,7 @@
     "14264": "rare-5",
     "14265": "rare-40",
     "14266": "rare-20",
-    "14267": "rare-4",
+    "14267": "set_008-04",
     "14268": "rare-5",
     "14269": "rare-5",
     "14270": "set_007-20",
@@ -21569,7 +21568,7 @@
     "14500": "rare-40",
     "14501": "rare-10",
     "14502": "rare-40",
-    "14503": "rare-40",
+    "14503": "set_008-40",
     "14504": "rare-20",
     "14505": "rare-10",
     "14506": "rare-40",
@@ -21644,7 +21643,7 @@
     "14575": "rare-40",
     "14576": "rare-40",
     "14577": "rare-20",
-    "14578": "rare-40",
+    "14578": "set_008-40",
     "14579": "rare-10",
     "14580": "rare-4",
     "14581": "rare-20",
@@ -21987,7 +21986,7 @@
     "14918": "rare-10",
     "14919": "rare-40",
     "14920": "rare-5",
-    "14921": "rare-20",
+    "14921": "set_008-20",
     "14922": "rare-40",
     "14923": "rare-20",
     "14924": "rare-40",
@@ -22063,7 +22062,7 @@
     "14994": "rare-20",
     "14995": "rare-10",
     "14996": "set_002-20",
-    "14997": "rare-20",
+    "14997": "set_008-20",
     "14998": "set_002-40",
     "14999": "rare-20",
     "15000": "rare-40",
@@ -22077,7 +22076,7 @@
     "15008": "rare-40",
     "15009": "rare-40",
     "15010": "rare-10",
-    "15011": "rare-20",
+    "15011": "set_008-20",
     "15012": "rare-40",
     "15013": "rare-20",
     "15014": "rare-40",
@@ -22548,7 +22547,7 @@
     "15479": "rare-40",
     "15480": "rare-40",
     "15481": "rare-40",
-    "15482": "rare-40",
+    "15482": "set_008-40",
     "15483": "rare-40",
     "15484": "rare-40",
     "15485": "rare-40",
@@ -22659,7 +22658,7 @@
     "15590": "rare-40",
     "15591": "rare-20",
     "15592": "rare-40",
-    "15593": "rare-10",
+    "15593": "set_008-10",
     "15594": "rare-40",
     "15595": "rare-40",
     "15596": "rare-5",
