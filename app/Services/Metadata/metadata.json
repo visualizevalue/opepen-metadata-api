@@ -6909,6 +6909,163 @@
       ]
     }
   },
+    "set_008-01": {
+      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "008"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Infinite"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "∞/1"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_008-04": {
+      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "008"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Infinite"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "∞/4"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_008-05": {
+      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "008"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Infinite"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "∞/5"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_008-10": {
+      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "008"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Infinite"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "∞/10"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_008-20": {
+      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "008"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Infinite"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "∞/20"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_008-40": {
+      "image": "ipfs://QmWdriMVFUtVHCf1N3GMa4apuEAZtu4w1PzbU5xaWT9uYx",
+      "animation_url": "ipfs://QmWj5c3LsdtzuqxPUHAYAHkVf3vhoB2wnkeSu6NqxxPGRZ",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "008"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Infinite"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "∞/40"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    }
+  },
   "tokens": {
     "1": "rare-5",
     "2": "rare-40",
