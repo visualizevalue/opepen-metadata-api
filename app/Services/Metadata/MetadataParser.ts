@@ -56,7 +56,6 @@ export default class MetadataParser {
 
     const isOneOfOne = typeof tokenDefinition === 'object'
     const isEditioned = typeof tokenDefinition === 'string'
-    const isBase = !isOneOfOne && !isEditioned
     const isUnRevealed = isEditioned && tokenDefinition.startsWith('rare-')
 
     const definition = isOneOfOne
