@@ -71,3 +71,12 @@ Full Script: `python3 randomize.py --seed "0x020d6b1df2581d0198bcd49b6d64cfacbf1
 - [Submissions](http://ipfs.io/ipfs/QmRxXP12fz73gcThSA8b33uD6qnmvQNpzkQ9ThmWUFCPby)
 
 Full Script: `python3 randomize.py --seed "0x538e4a5ed1f00744047cedf266d21126e8cc143c8514f6fb343df90bce9b2f8a_∞∞∞∞ The Beginning Of Infinity ∞∞∞∞" --set 008`
+
+### Set `009`
+
+- [Provenance Tweet](https://twitter.com/jalil_eth/status/1678128401188634624)
+- [Block & Block Hash (17658380)](https://etherscan.io/block/17658380): `0xac3b9c00e4a3365f782942f3748f619c1c3033203b2923e24d191bedb57df53f`
+- [Salt](https://twitter.com/jalil_eth/status/1676286084622196738): `the fruits of one tree, and the leaves of one branch`
+- [Submissions](http://ipfs.io/ipfs/QmPBjXsZMiinZrLJqtrAMTA54sTfsoXHu5mTWX1xS7YVBk)
+
+Full Script: `python3 randomize.py --seed "0xac3b9c00e4a3365f782942f3748f619c1c3033203b2923e24d191bedb57df53f_the fruits of one tree, and the leaves of one branch" --set 009`
