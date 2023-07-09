@@ -55,10 +55,13 @@ export default class MetadataParser {
     const tokenDefinition = this.metadata.tokens[id]
 
     const isOneOfOne = typeof tokenDefinition === 'object'
+    const isEditioned = typeof tokenDefinition === 'string'
+    const isBase = !isOneOfOne && !isEditioned
+    const isUnRevealed = isEditioned && tokenDefinition.startsWith('rare-')
 
     const definition = isOneOfOne
       ? tokenDefinition
-      : typeof tokenDefinition === 'string'
+      : isEditioned
         ? this.metadata.editions[tokenDefinition]
         : this.metadata.base
 
@@ -72,6 +75,10 @@ export default class MetadataParser {
       animation_url: this.getAttribute('animation_url', definition) as string,
       attributes: [
         ...this.getAttribute('attributes', definition) as Attribute[],
+        {
+          trait_type: 'Revealed',
+          value: isUnRevealed ? 'No' : 'Yes'
+        },
         {
           trait_type: 'Number',
           value: parseInt(`${id}`)
