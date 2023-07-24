@@ -7213,6 +7213,162 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_010-01": {
+      "image": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/1.png",
+      "animation_url": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/1.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "010"
+        },
+        {
+          "trait_type": "Set",
+          "value": "1/0"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "100/0"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_010-04": {
+      "image": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/4.png",
+      "animation_url": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/4.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "010"
+        },
+        {
+          "trait_type": "Set",
+          "value": "1/0"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "80/20"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_010-05": {
+      "image": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/5.png",
+      "animation_url": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/5.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "010"
+        },
+        {
+          "trait_type": "Set",
+          "value": "1/0"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "60/40"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_010-10": {
+      "image": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/10.png",
+      "animation_url": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/10.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "010"
+        },
+        {
+          "trait_type": "Set",
+          "value": "1/0"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40/60"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_010-20": {
+      "image": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/20.png",
+      "animation_url": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/20.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "010"
+        },
+        {
+          "trait_type": "Set",
+          "value": "1/0"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20/80"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_010-40": {
+      "image": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/40.png",
+      "animation_url": "ipfs://QmPFnsdaGKe4kgqm7UvA25yPasRQTeHAyr5crepQKvrfS2/40.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "010"
+        },
+        {
+          "trait_type": "Set",
+          "value": "1/0"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "0/100"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {
