@@ -35,7 +35,7 @@ Full Script: `python3 randomize.py --seed "0x157dd0a75b72092ae7a2fb5d1268086798f
 - Provenance Tweet (same as `003`)
 - Block & Block Hash (17367169) (same as `003`)
 - `consensus is temporary, truth is not.` (same as `003`)
-- [Submissions](http://ipfs.io/ipfs/QmdqWVuE4a6k7qi2mxPdjVfCReVFKUrgGXeAdKKgZLzWYG)
+- [Submissions](https://ipfs.io/ipfs/QmdqWVuE4a6k7qi2mxPdjVfCReVFKUrgGXeAdKKgZLzWYG)
 - [Script Version v1.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v1.0.0)
 
 Full Script: `python3 randomize.py --seed "0x157dd0a75b72092ae7a2fb5d1268086798febcaddae22e56779ce69d3b388cf4_consensus is temporary, truth is not." --set 004`
@@ -55,7 +55,7 @@ Full Script: `python3 randomize.py --seed "0xf165ab3bb4996866cff0bac9e51c0b05124
 - [Provenance Tweet](https://twitter.com/jalil_eth/status/1668345585710030852)
 - [Block & Block Hash (17466200)](https://etherscan.io/block/17466200): `0x672295386f94d6148519ce3841aae5491b17fda0cf9bf6a913ad868a2d110368`
 - [Salt](https://twitter.com/jalil_eth/status/1668351890080292875): `happy birthday punks`
-- [Submissions](http://ipfs.io/ipfs/QmQgWgR3yKzrD5ZYRb7sSyriYiTncuAnFnkVQgKfkEjn4J)
+- [Submissions](https://ipfs.io/ipfs/QmQgWgR3yKzrD5ZYRb7sSyriYiTncuAnFnkVQgKfkEjn4J)
 - [Script Version v1.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v1.0.0)
 
 Full Script: `python3 randomize.py --seed "0x672295386f94d6148519ce3841aae5491b17fda0cf9bf6a913ad868a2d110368_happy birthday punks" --set 006`
@@ -65,7 +65,7 @@ Full Script: `python3 randomize.py --seed "0x672295386f94d6148519ce3841aae5491b1
 - [Provenance Tweet](https://twitter.com/jalil_eth/status/1674170487360962560)
 - [Block & Block Hash (17580655)](https://etherscan.io/block/17580655): `0x020d6b1df2581d0198bcd49b6d64cfacbf1c426f11f83ccca1ec8021e298ad73`
 - [Salt](https://twitter.com/jalil_eth/status/1674170492192686080): `Needs eyes?`
-- [Submissions](http://ipfs.io/ipfs/QmW34w5H8LLu5UxZSzNm3dJUWAT8S9tnZxZVi7gikoLqQj)
+- [Submissions](https://ipfs.io/ipfs/QmW34w5H8LLu5UxZSzNm3dJUWAT8S9tnZxZVi7gikoLqQj)
 - [Script Version v1.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v1.0.0)
 
 Full Script: `python3 randomize.py --seed "0x020d6b1df2581d0198bcd49b6d64cfacbf1c426f11f83ccca1ec8021e298ad73_Needs eyes?" --set 007`
@@ -75,7 +75,7 @@ Full Script: `python3 randomize.py --seed "0x020d6b1df2581d0198bcd49b6d64cfacbf1
 - [Provenance Tweet](https://twitter.com/jalil_eth/status/1676286079823912960)
 - [Block & Block Hash (17622347)](https://etherscan.io/block/17622347): `0x538e4a5ed1f00744047cedf266d21126e8cc143c8514f6fb343df90bce9b2f8a`
 - [Salt](https://twitter.com/jalil_eth/status/1676286084622196738): `∞∞∞∞ The Beginning Of Infinity ∞∞∞∞`
-- [Submissions](http://ipfs.io/ipfs/QmRxXP12fz73gcThSA8b33uD6qnmvQNpzkQ9ThmWUFCPby)
+- [Submissions](https://ipfs.io/ipfs/QmRxXP12fz73gcThSA8b33uD6qnmvQNpzkQ9ThmWUFCPby)
 - [Script Version v1.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v1.0.0)
 
 Full Script: `python3 randomize.py --seed "0x538e4a5ed1f00744047cedf266d21126e8cc143c8514f6fb343df90bce9b2f8a_∞∞∞∞ The Beginning Of Infinity ∞∞∞∞" --set 008`
@@ -85,7 +85,17 @@ Full Script: `python3 randomize.py --seed "0x538e4a5ed1f00744047cedf266d21126e8c
 - [Provenance Tweet](https://twitter.com/jalil_eth/status/1678128401188634624)
 - [Block & Block Hash (17658380)](https://etherscan.io/block/17658380): `0xac3b9c00e4a3365f782942f3748f619c1c3033203b2923e24d191bedb57df53f`
 - [Salt](https://twitter.com/jalil_eth/status/1676286084622196738): `the fruits of one tree, and the leaves of one branch`
-- [Submissions](http://ipfs.io/ipfs/QmPBjXsZMiinZrLJqtrAMTA54sTfsoXHu5mTWX1xS7YVBk)
+- [Submissions](https://ipfs.io/ipfs/QmPBjXsZMiinZrLJqtrAMTA54sTfsoXHu5mTWX1xS7YVBk)
 - [Script Version v1.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v1.0.0)
 
 Full Script: `python3 randomize.py --seed "0xac3b9c00e4a3365f782942f3748f619c1c3033203b2923e24d191bedb57df53f_the fruits of one tree, and the leaves of one branch" --set 009`
+
+### Set `010`
+
+- [Provenance Tweet](https://twitter.com/jalil_eth/status/1683517833920094233)
+- [Block & Block Hash (17764313)](https://etherscan.io/block/17764313): `0x2fd941033f965575fc61e4e2c17b6223650729c86fd837f55e9c29de9b445f88`
+- [Salt](https://twitter.com/jalil_eth/status/1683517841021050882): `you can't have more yang cubes than ying cubes`
+- [Submissions](https://ipfs.io/ipfs/QmQa52RP16toitrqsYBYmzjtuncNnALA4oSAn2KMHs2iPW)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x2fd941033f965575fc61e4e2c17b6223650729c86fd837f55e9c29de9b445f88_you can't have more yang cubes than ying cubes" --set 010`
