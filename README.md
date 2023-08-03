@@ -8,8 +8,8 @@ Once all sets are revealed, metadata will move to a more permanent storage solut
 The Opepen project consists of three code repositories:
 
 1. This Metadata Service powering the reveals
-2. [An API + database powering the site](https://github.com/visualizevalue-dev/opepen-api)
-3. [A web application powering the opepen.art site](https://github.com/visualizevalue-dev/opepen-app)
+2. [An API + database powering the opepen.art website](https://github.com/visualizevalue-dev/opepen-api)
+3. [A web application powering the opepen.art website](https://github.com/visualizevalue-dev/opepen-app)
 
 ## Metadata Renderer
 
