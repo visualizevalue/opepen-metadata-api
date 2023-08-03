@@ -14,12 +14,11 @@ export default class MetadataParser {
    * @returns {Promise} A promise that resolves to an instance of MetadataParser
    */
   public async initialize (): Promise<MetadataParser> {
-    let metadata: MetadataProvenance
+    let metadata: MetadataProvenance = MetadataDefinition
 
-    if (await Drive.exists('metadata.json') && false) {
+    // Read config file from s3 storage. Currently disabled.
+    if (false && await Drive.exists('metadata.json')) {
       metadata = JSON.parse((await Drive.get('metadata.json')).toString())
-    } else {
-      metadata = MetadataDefinition
     }
 
     this.metadata = metadata
