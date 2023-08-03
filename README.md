@@ -11,6 +11,13 @@ The Opepen project consists of three code repositories:
 2. [An API + database powering the opepen.art website](https://github.com/visualizevalue-dev/opepen-api)
 3. [A web application powering the opepen.art website](https://github.com/visualizevalue-dev/opepen-app)
 
+## Reveal Scripts
+
+The script that distributed Opepen Rarities is found here: [`rare-opepens.py`](drops/rare).
+
+The script that distributes Opepen sets can be found here: [`randomize.py`](drops/sets).
+It is currently in [version 2](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0).
+
 ## Metadata Renderer
 
 At the heart of this repo is a simple [`metadata.json`](app/Services/Metadata/metadata.json) config file and a [`MetadataParser`](app/Services/Metadata/MetadataParser.ts) service.
