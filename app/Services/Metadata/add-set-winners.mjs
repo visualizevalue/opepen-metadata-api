@@ -13,7 +13,7 @@ const pad = (num = 0, size = 3) => {
 
 Object.keys(winners).forEach(edition => {
   winners[edition].forEach((token, idx) => {
-    metadata.tokens[token] = `set_${set}-${pad(edition, 2)}`
+    metadata.tokens[token] = `set_${set}-${pad(edition, 2)}_${pad(idx + 1, 2)}`
   })
 })
 
