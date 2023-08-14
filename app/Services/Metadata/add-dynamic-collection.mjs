@@ -20,7 +20,7 @@ const metadata = JSON.parse(fs.readFileSync('metadata.json').toString())
 
 Object.keys(CONFIG.sets).forEach(edition => {
   CONFIG.sets[edition].forEach((file, idx) => {
-    metadata.editions[`set_${CONFIG.set}-${pad(edition, 2)}_${pad(idx + 1, 2)}`] = {
+    metadata.editions[`set_${CONFIG.release}-${pad(edition, 2)}_${pad(idx + 1, 2)}`] = {
       "image": `ipfs://${CONFIG.hash}/${file}`,
       "attributes": [
         {
