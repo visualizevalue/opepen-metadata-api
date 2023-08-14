@@ -99,3 +99,13 @@ Full Script: `python3 randomize.py --seed "0xac3b9c00e4a3365f782942f3748f619c1c3
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x2fd941033f965575fc61e4e2c17b6223650729c86fd837f55e9c29de9b445f88_you can't have more yang cubes than ying cubes" --set 010`
+
+### Set `011`
+
+- [Provenance Tweet](https://twitter.com/jalil_eth/status/1691100754482761729)
+- [Block & Block Hash (17913843)](https://etherscan.io/block/17913843): `0x446d1ba943b1909ad61e33f20a024661d2674acc7419dbea9f9520eef54e8e6b`
+- [Salt](https://twitter.com/jalil_eth/status/1691100992065150976): `these penguins are not black and white`
+- [Submissions](./data//011.json)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x446d1ba943b1909ad61e33f20a024661d2674acc7419dbea9f9520eef54e8e6b_these penguins are not black and white" --set 011`
