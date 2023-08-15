@@ -1,6 +1,8 @@
 import fs from 'fs'
 
+// TODO: Refactor into /commands
 const set = '011'
+const dynamic = true
 
 const metadata = JSON.parse(fs.readFileSync('metadata.json').toString())
 const winners = JSON.parse(fs.readFileSync(`../../../drops/sets/results/${set}.json`).toString())
@@ -13,7 +15,10 @@ const pad = (num = 0, size = 3) => {
 
 Object.keys(winners).forEach(edition => {
   winners[edition].forEach((token, idx) => {
-    metadata.tokens[token] = `set_${set}-${pad(edition, 2)}_${pad(idx + 1, 2)}`
+    let key = `set_${set}-${pad(edition, 2)}`
+    if (dynamic) key += `_${pad(idx + 1, 2)}`
+
+    metadata.tokens[token] = key
   })
 })
 
