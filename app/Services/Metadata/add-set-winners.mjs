@@ -1,11 +1,11 @@
 import fs from 'fs'
 
 // TODO: Refactor into /commands
-const set = '011'
-const dynamic = true
+const SET = process.argv[2]
+const DYNAMIC = process.argv[3] === 'dynamic' ? true : false
 
 const metadata = JSON.parse(fs.readFileSync('metadata.json').toString())
-const winners = JSON.parse(fs.readFileSync(`../../../drops/sets/results/${set}.json`).toString())
+const winners = JSON.parse(fs.readFileSync(`../../../drops/sets/results/${SET}.json`).toString())
 
 const pad = (num = 0, size = 3) => {
   let padded = num?.toString() || '0'
@@ -15,8 +15,8 @@ const pad = (num = 0, size = 3) => {
 
 Object.keys(winners).forEach(edition => {
   winners[edition].forEach((token, idx) => {
-    let key = `set_${set}-${pad(edition, 2)}`
-    if (dynamic) key += `_${pad(idx + 1, 2)}`
+    let key = `set_${SET}-${pad(edition, 2)}`
+    if (DYNAMIC) key += `_${pad(idx + 1, 2)}`
 
     metadata.tokens[token] = key
   })

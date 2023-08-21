@@ -1,0 +1,22 @@
+{
+  "hash": "Qmc2U8g4BXvZVLdp6biphf7xGSju3muiLFzF9cafa91TkY",
+  "artist": "Jack Butcher",
+  "release": "012",
+  "set": "Kairos",
+  "names": {
+    "1": "In 0°",
+    "4": "In 18°",
+    "5": "In 22.5°",
+    "10": "In 45°",
+    "20": "In 90°",
+    "40": "In 180°"
+  },
+  "sets": {
+    "1": "01.png",
+    "4": "04.png",
+    "5": "05.png",
+    "10": "10.png",
+    "20": "20.png",
+    "40": "40.png"
+  }
+}
