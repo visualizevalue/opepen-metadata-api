@@ -119,3 +119,13 @@ Full Script: `python3 randomize.py --seed "0x446d1ba943b1909ad61e33f20a024661d26
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x53c088211aa7870d914c73b7f243f4283b994b12f497b390ebdc693d874cdd71_check the time" --set 012`
+
+### Set `013`
+
+- [Provenance Tweet](https://twitter.com/jalil_eth/status/1694027305033642311)
+- [Block & Block Hash (17971619)](https://etherscan.io/block/17971619): `0x4346a7f8a000cb13c5ed872361fa300b3db391f162cbc9a30a6298036aca2705`
+- [Salt](https://twitter.com/jalil_eth/status/1694027308200276031): `all the riVVers run into the sea; yet the sea is not full`
+- [Submissions](https://ipfs.io/ipfs/)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x4346a7f8a000cb13c5ed872361fa300b3db391f162cbc9a30a6298036aca2705_all the riVVers run into the sea; yet the sea is not full" --set 013`
