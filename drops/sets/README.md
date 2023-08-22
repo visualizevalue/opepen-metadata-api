@@ -118,4 +118,4 @@ Full Script: `python3 randomize.py --seed "0x446d1ba943b1909ad61e33f20a024661d26
 - [Submissions](https://ipfs.io/ipfs/QmTx3DtcVxK3kvKgYo6DrmFX6X3QAv9LcQ2MN69bUBwiPY)
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
-Full Script: `python3 randomize.py --seed "0x..._check the time" --set 012`
+Full Script: `python3 randomize.py --seed "0x53c088211aa7870d914c73b7f243f4283b994b12f497b390ebdc693d874cdd71_check the time" --set 012`
