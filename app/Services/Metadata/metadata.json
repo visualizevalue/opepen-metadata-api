@@ -11669,6 +11669,2006 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_015-01_01": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/1/1-check.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "〇"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_015-04_01": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/4/4-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "+ RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_015-04_02": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/4/4-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "+ RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_015-04_03": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/4/4-3.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "+ RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_015-04_04": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/4/4-4.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "+ RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_015-05_01": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/5/5-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "+ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_015-05_02": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/5/5-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "+ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_015-05_03": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/5/5-3.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "+ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_015-05_04": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/5/5-4.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "+ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_015-05_05": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/5/5-5.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "+ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_015-10_01": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-10_02": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-10_03": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-3.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-10_04": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-4.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-10_05": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-5.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-10_06": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-6.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-10_07": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-7.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-10_08": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-8.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-10_09": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-9.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-10_10": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/10/10-10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "/ DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_015-20_01": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_02": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_03": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-3.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_04": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-4.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_05": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-5.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_06": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-6.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_07": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-7.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_08": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-8.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_09": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-9.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_10": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_11": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-11.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_12": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-12.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_13": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-13.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_14": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-14.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_15": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-15.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_16": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-16.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_17": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-17.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_18": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-18.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_19": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-19.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-20_20": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/20/20-20.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "RHOMBI"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_015-40_01": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-1.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_02": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-2.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_03": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-3.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_04": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-4.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_05": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-5.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_06": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-6.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_07": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-7.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_08": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-8.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_09": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-9.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_10": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_11": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-11.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_12": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-12.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_13": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-13.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_14": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-14.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_15": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-15.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_16": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-16.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_17": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-17.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_18": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-18.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_19": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-19.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_20": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-20.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_21": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-21.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_22": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-22.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_23": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-23.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_24": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-24.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_25": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-25.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_26": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-26.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_27": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-27.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_28": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-28.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_29": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-29.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_30": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-30.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_31": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-31.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_32": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-32.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_33": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-33.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_34": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-34.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_35": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-35.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_36": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-36.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_37": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-37.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_38": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-38.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_39": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-39.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_015-40_40": {
+      "image": "ipfs://QmZHrmXUFu57aKHVTzNN1y2LokCUS5HoxdkVcpYdb1j2Nm/40/40-40.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "gillesdc"
+        },
+        {
+          "trait_type": "Release",
+          "value": "015"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Divina Proportione"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "DODECA"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {
@@ -11700,7 +13700,7 @@
     "26": "rare-20",
     "27": "rare-40",
     "28": "rare-40",
-    "29": "rare-40",
+    "29": "set_015-40_10",
     "30": "rare-20",
     "31": "rare-40",
     "32": "set_013-40",
@@ -11767,7 +13767,7 @@
     "93": "rare-20",
     "94": "rare-10",
     "95": "rare-40",
-    "96": "rare-10",
+    "96": "set_015-10_01",
     "97": "rare-20",
     "98": "rare-20",
     "99": "rare-40",
@@ -11940,7 +13940,7 @@
     "266": "set_007-40",
     "267": "rare-40",
     "268": "rare-20",
-    "269": "rare-4",
+    "269": "set_015-04_02",
     "270": "rare-20",
     "271": "rare-5",
     "272": "rare-5",
@@ -12077,7 +14077,7 @@
     "403": "rare-20",
     "404": "rare-40",
     "405": "rare-20",
-    "406": "rare-4",
+    "406": "set_015-04_03",
     "407": "rare-20",
     "408": "rare-1",
     "409": "rare-20",
@@ -12266,7 +14266,7 @@
     "592": "rare-20",
     "593": "rare-4",
     "594": "rare-4",
-    "595": "rare-40",
+    "595": "set_015-40_24",
     "596": "rare-20",
     "597": "rare-10",
     "598": "rare-40",
@@ -12290,7 +14290,7 @@
     "616": "rare-10",
     "617": "rare-40",
     "618": "rare-10",
-    "619": "rare-20",
+    "619": "set_015-20_18",
     "620": "rare-40",
     "621": "rare-40",
     "622": "rare-10",
@@ -12306,7 +14306,7 @@
     "632": "rare-5",
     "633": "rare-40",
     "634": "rare-10",
-    "635": "rare-20",
+    "635": "set_015-20_16",
     "636": "rare-20",
     "637": "rare-40",
     "638": "rare-5",
@@ -12339,7 +14339,7 @@
     "665": "rare-40",
     "666": "rare-5",
     "667": "rare-20",
-    "668": "rare-40",
+    "668": "set_015-40_09",
     "669": "rare-10",
     "670": "rare-40",
     "671": "rare-40",
@@ -12371,7 +14371,7 @@
     "697": "rare-40",
     "698": "set_004-20_10",
     "699": "rare-20",
-    "700": "rare-10",
+    "700": "set_015-10_09",
     "701": "rare-5",
     "702": "rare-20",
     "703": "rare-40",
@@ -13029,7 +15029,7 @@
     "1355": "rare-4",
     "1356": "rare-10",
     "1357": "rare-40",
-    "1358": "rare-40",
+    "1358": "set_015-40_22",
     "1359": "rare-1",
     "1360": "rare-40",
     "1361": "rare-20",
@@ -13240,7 +15240,7 @@
     "1566": "rare-40",
     "1567": "rare-40",
     "1568": "rare-20",
-    "1569": "rare-40",
+    "1569": "set_015-40_11",
     "1570": "rare-20",
     "1571": "rare-40",
     "1572": "rare-5",
@@ -13568,7 +15568,7 @@
     "1894": "rare-20",
     "1895": "rare-20",
     "1896": "rare-40",
-    "1897": "rare-5",
+    "1897": "set_015-05_03",
     "1898": "rare-20",
     "1899": "rare-20",
     "1900": "rare-40",
@@ -13579,7 +15579,7 @@
     "1905": "rare-1",
     "1906": "rare-4",
     "1907": "rare-40",
-    "1908": "rare-20",
+    "1908": "set_015-20_19",
     "1909": "rare-20",
     "1910": "rare-40",
     "1911": "rare-40",
@@ -13618,7 +15618,7 @@
     "1944": "rare-40",
     "1945": "rare-40",
     "1946": "rare-20",
-    "1947": "rare-40",
+    "1947": "set_015-40_08",
     "1948": "rare-20",
     "1949": "rare-20",
     "1950": "set_011-20_07",
@@ -13694,7 +15694,7 @@
     "2020": "rare-40",
     "2021": "set_007-40",
     "2022": "rare-40",
-    "2023": "rare-20",
+    "2023": "set_015-20_15",
     "2024": "rare-20",
     "2025": "rare-20",
     "2026": "rare-40",
@@ -13955,7 +15955,7 @@
     "2281": "rare-40",
     "2282": "rare-1",
     "2283": "rare-4",
-    "2284": "rare-4",
+    "2284": "set_015-04_04",
     "2285": "rare-40",
     "2286": "rare-40",
     "2287": "set_013-40",
@@ -14222,7 +16222,7 @@
     "2548": "rare-40",
     "2549": "rare-40",
     "2550": "rare-40",
-    "2551": "rare-40",
+    "2551": "set_015-40_12",
     "2552": "rare-40",
     "2553": "rare-10",
     "2554": "rare-40",
@@ -14238,7 +16238,7 @@
     "2564": "rare-40",
     "2565": "rare-40",
     "2566": "rare-10",
-    "2567": "rare-40",
+    "2567": "set_015-40_03",
     "2568": "rare-4",
     "2569": "set_001-10_04",
     "2570": "rare-20",
@@ -14551,7 +16551,7 @@
     "2877": "rare-40",
     "2878": "rare-40",
     "2879": "rare-40",
-    "2880": "rare-40",
+    "2880": "set_015-40_17",
     "2881": "rare-20",
     "2882": "rare-20",
     "2883": "rare-40",
@@ -14791,7 +16791,7 @@
     "3117": "rare-20",
     "3118": "rare-10",
     "3119": "rare-4",
-    "3120": "rare-20",
+    "3120": "set_015-20_07",
     "3121": "rare-20",
     "3122": "rare-4",
     "3123": "rare-10",
@@ -15037,7 +17037,7 @@
     "3363": "rare-40",
     "3364": "rare-40",
     "3365": "rare-4",
-    "3366": "rare-40",
+    "3366": "set_015-40_13",
     "3367": "rare-40",
     "3368": "rare-4",
     "3369": "rare-40",
@@ -15635,7 +17635,7 @@
     "3961": "rare-20",
     "3962": "rare-40",
     "3963": "rare-10",
-    "3964": "rare-40",
+    "3964": "set_015-40_40",
     "3965": "rare-40",
     "3966": "rare-40",
     "3967": "rare-20",
@@ -16018,7 +18018,7 @@
     "4344": "rare-20",
     "4345": "rare-40",
     "4346": "rare-40",
-    "4347": "rare-40",
+    "4347": "set_015-40_39",
     "4348": "rare-10",
     "4349": "set_007-40",
     "4350": "rare-20",
@@ -16216,7 +18216,7 @@
     "4542": "rare-40",
     "4543": "rare-40",
     "4544": "rare-40",
-    "4545": "rare-20",
+    "4545": "set_015-20_08",
     "4546": "rare-10",
     "4547": "rare-10",
     "4548": "rare-40",
@@ -16235,7 +18235,7 @@
     "4561": "rare-40",
     "4562": "set_012-10",
     "4563": "rare-5",
-    "4564": "rare-40",
+    "4564": "set_015-40_25",
     "4565": "rare-40",
     "4566": "rare-40",
     "4567": "set_008-40",
@@ -16296,7 +18296,7 @@
     "4622": "rare-40",
     "4623": "rare-10",
     "4624": "rare-10",
-    "4625": "rare-20",
+    "4625": "set_015-20_02",
     "4626": "rare-5",
     "4627": "rare-20",
     "4628": "rare-20",
@@ -16472,7 +18472,7 @@
     "4798": "rare-40",
     "4799": "rare-10",
     "4800": "rare-20",
-    "4801": "rare-5",
+    "4801": "set_015-05_01",
     "4802": "rare-4",
     "4803": "rare-10",
     "4804": "rare-40",
@@ -16507,7 +18507,7 @@
     "4833": "rare-40",
     "4834": "set_002-20",
     "4835": "rare-40",
-    "4836": "rare-20",
+    "4836": "set_015-20_14",
     "4837": "rare-4",
     "4838": "rare-40",
     "4839": "rare-20",
@@ -16826,7 +18826,7 @@
     "5152": "rare-20",
     "5153": "rare-20",
     "5154": "rare-20",
-    "5155": "rare-20",
+    "5155": "set_015-20_03",
     "5156": "rare-40",
     "5157": "rare-40",
     "5158": "rare-40",
@@ -16879,7 +18879,7 @@
     "5205": "rare-40",
     "5206": "rare-40",
     "5207": "rare-40",
-    "5208": "rare-20",
+    "5208": "set_015-20_13",
     "5209": "rare-40",
     "5210": "rare-40",
     "5211": "rare-10",
@@ -16965,7 +18965,7 @@
     "5291": "rare-20",
     "5292": "rare-10",
     "5293": "rare-10",
-    "5294": "rare-20",
+    "5294": "set_015-20_06",
     "5295": "rare-20",
     "5296": "rare-40",
     "5297": "rare-20",
@@ -17241,7 +19241,7 @@
     "5567": "rare-40",
     "5568": "rare-10",
     "5569": "rare-40",
-    "5570": "rare-40",
+    "5570": "set_015-40_20",
     "5571": "rare-20",
     "5572": "rare-40",
     "5573": "set_007-20",
@@ -17306,7 +19306,7 @@
     "5632": "rare-40",
     "5633": "rare-20",
     "5634": "rare-40",
-    "5635": "rare-10",
+    "5635": "set_015-10_03",
     "5636": "rare-40",
     "5637": "rare-40",
     "5638": "rare-40",
@@ -17477,7 +19477,7 @@
     "5803": "rare-40",
     "5804": "rare-40",
     "5805": "rare-10",
-    "5806": "rare-40",
+    "5806": "set_015-40_15",
     "5807": "rare-40",
     "5808": "rare-40",
     "5809": "rare-40",
@@ -17550,7 +19550,7 @@
     "5876": "set_013-10",
     "5877": "rare-5",
     "5878": "rare-4",
-    "5879": "rare-40",
+    "5879": "set_015-40_35",
     "5880": "rare-40",
     "5881": "rare-20",
     "5882": "rare-20",
@@ -17559,7 +19559,7 @@
     "5885": "rare-10",
     "5886": "rare-40",
     "5887": "rare-40",
-    "5888": "rare-40",
+    "5888": "set_015-40_01",
     "5889": "rare-40",
     "5890": "rare-4",
     "5891": "rare-20",
@@ -18322,7 +20322,7 @@
     "6648": "rare-40",
     "6649": "rare-40",
     "6650": "set_002-40",
-    "6651": "rare-20",
+    "6651": "set_015-20_20",
     "6652": "rare-20",
     "6653": "rare-20",
     "6654": "rare-20",
@@ -18366,7 +20366,7 @@
     "6692": "rare-40",
     "6693": "rare-10",
     "6694": "rare-40",
-    "6695": "rare-20",
+    "6695": "set_015-20_04",
     "6696": "rare-20",
     "6697": "rare-20",
     "6698": "rare-40",
@@ -18569,7 +20569,7 @@
     "6895": "rare-20",
     "6896": "rare-20",
     "6897": "rare-40",
-    "6898": "rare-40",
+    "6898": "set_015-40_33",
     "6899": "rare-40",
     "6900": "rare-40",
     "6901": "rare-40",
@@ -18732,7 +20732,7 @@
     "7058": "rare-40",
     "7059": "rare-20",
     "7060": "rare-40",
-    "7061": "rare-40",
+    "7061": "set_015-40_05",
     "7062": "rare-40",
     "7063": "rare-40",
     "7064": "rare-1",
@@ -18941,10 +20941,10 @@
     "7267": "rare-1",
     "7268": "rare-20",
     "7269": "rare-10",
-    "7270": "rare-10",
+    "7270": "set_015-10_04",
     "7271": "rare-10",
     "7272": "rare-40",
-    "7273": "rare-10",
+    "7273": "set_015-10_05",
     "7274": "rare-20",
     "7275": "rare-20",
     "7276": "rare-10",
@@ -19033,7 +21033,7 @@
     "7359": "rare-20",
     "7360": "set_013-04",
     "7361": "rare-10",
-    "7362": "rare-40",
+    "7362": "set_015-40_19",
     "7363": "rare-40",
     "7364": "rare-20",
     "7365": "rare-10",
@@ -19599,7 +21599,7 @@
     "7925": "rare-10",
     "7926": "rare-20",
     "7927": "rare-10",
-    "7928": "rare-40",
+    "7928": "set_015-40_36",
     "7929": "rare-40",
     "7930": "rare-40",
     "7931": "rare-40",
@@ -19906,7 +21906,7 @@
     "8232": "rare-40",
     "8233": "rare-40",
     "8234": "rare-40",
-    "8235": "rare-10",
+    "8235": "set_015-10_07",
     "8236": "rare-20",
     "8237": "rare-4",
     "8238": "rare-20",
@@ -19928,7 +21928,7 @@
     "8254": "rare-40",
     "8255": "rare-20",
     "8256": "rare-40",
-    "8257": "rare-40",
+    "8257": "set_015-40_18",
     "8258": "rare-20",
     "8259": "rare-1",
     "8260": "rare-40",
@@ -20067,7 +22067,7 @@
     "8393": "rare-4",
     "8394": "rare-40",
     "8395": "rare-20",
-    "8396": "rare-20",
+    "8396": "set_015-20_12",
     "8397": "rare-5",
     "8398": "rare-10",
     "8399": "rare-10",
@@ -20515,7 +22515,7 @@
     "8841": "rare-40",
     "8842": "rare-20",
     "8843": "rare-40",
-    "8844": "rare-40",
+    "8844": "set_015-40_04",
     "8845": "rare-40",
     "8846": "rare-40",
     "8847": "rare-10",
@@ -20875,7 +22875,7 @@
     "9201": "rare-40",
     "9202": "rare-40",
     "9203": "set_009-20",
-    "9204": "rare-5",
+    "9204": "set_015-05_05",
     "9205": "rare-20",
     "9206": "rare-20",
     "9207": "set_001-40_39",
@@ -20994,7 +22994,7 @@
     "9320": "rare-40",
     "9321": "rare-20",
     "9322": "rare-10",
-    "9323": "rare-10",
+    "9323": "set_015-10_06",
     "9324": "rare-40",
     "9325": "set_002-40",
     "9326": "set_013-05",
@@ -21231,7 +23231,7 @@
     "9557": "rare-40",
     "9558": "rare-40",
     "9559": "rare-40",
-    "9560": "rare-40",
+    "9560": "set_015-40_28",
     "9561": "set_004-40_32",
     "9562": "rare-5",
     "9563": "rare-20",
@@ -21612,7 +23612,7 @@
     "9938": "rare-20",
     "9939": "rare-40",
     "9940": "rare-40",
-    "9941": "rare-40",
+    "9941": "set_015-40_26",
     "9942": "rare-40",
     "9943": "set_008-40",
     "9944": "rare-20",
@@ -21945,7 +23945,7 @@
     "10271": "rare-40",
     "10272": "rare-20",
     "10273": "rare-10",
-    "10274": "rare-10",
+    "10274": "set_015-10_02",
     "10275": "rare-20",
     "10276": "rare-40",
     "10277": "rare-20",
@@ -21979,7 +23979,7 @@
     "10305": "rare-40",
     "10306": "rare-40",
     "10307": "rare-40",
-    "10308": "rare-4",
+    "10308": "set_015-04_01",
     "10309": "rare-5",
     "10310": "rare-40",
     "10311": "rare-40",
@@ -22042,7 +24042,7 @@
     "10368": "rare-20",
     "10369": "rare-40",
     "10370": "rare-4",
-    "10371": "rare-40",
+    "10371": "set_015-40_02",
     "10372": "rare-40",
     "10373": "set_002-40",
     "10374": "rare-40",
@@ -22364,7 +24364,7 @@
     "10690": "rare-40",
     "10691": "set_010-40",
     "10692": "rare-40",
-    "10693": "rare-20",
+    "10693": "set_015-20_09",
     "10694": "rare-40",
     "10695": "rare-40",
     "10696": "rare-40",
@@ -22623,7 +24623,7 @@
     "10949": "rare-20",
     "10950": "rare-10",
     "10951": "rare-40",
-    "10952": "rare-20",
+    "10952": "set_015-20_11",
     "10953": "rare-5",
     "10954": "rare-40",
     "10955": "rare-20",
@@ -23184,7 +25184,7 @@
     "11510": "rare-40",
     "11511": "rare-20",
     "11512": "rare-10",
-    "11513": "rare-40",
+    "11513": "set_015-40_37",
     "11514": "rare-10",
     "11515": "rare-20",
     "11516": "rare-40",
@@ -23280,7 +25280,7 @@
     "11606": "rare-20",
     "11607": "rare-40",
     "11608": "rare-40",
-    "11609": "rare-40",
+    "11609": "set_015-40_30",
     "11610": "rare-40",
     "11611": "rare-20",
     "11612": "rare-40",
@@ -23568,7 +25568,7 @@
     "11894": "rare-20",
     "11895": "rare-40",
     "11896": "rare-5",
-    "11897": "rare-40",
+    "11897": "set_015-40_23",
     "11898": "rare-40",
     "11899": "rare-40",
     "11900": "rare-5",
@@ -24263,7 +26263,7 @@
     "12589": "rare-40",
     "12590": "rare-40",
     "12591": "rare-40",
-    "12592": "rare-40",
+    "12592": "set_015-40_16",
     "12593": "rare-40",
     "12594": "rare-20",
     "12595": "rare-40",
@@ -24516,7 +26516,7 @@
     "12842": "rare-40",
     "12843": "rare-20",
     "12844": "set_013-05",
-    "12845": "rare-40",
+    "12845": "set_015-40_14",
     "12846": "rare-20",
     "12847": "rare-20",
     "12848": "rare-4",
@@ -24615,7 +26615,7 @@
     "12941": "rare-10",
     "12942": "set_004-40_09",
     "12943": "rare-40",
-    "12944": "rare-5",
+    "12944": "set_015-05_04",
     "12945": "rare-40",
     "12946": "set_006-10",
     "12947": "rare-40",
@@ -24660,7 +26660,7 @@
     "12986": "set_008-20",
     "12987": "rare-20",
     "12988": "rare-20",
-    "12989": "rare-1",
+    "12989": "set_015-01_01",
     "12990": "rare-40",
     "12991": "rare-40",
     "12992": "rare-5",
@@ -24811,7 +26811,7 @@
     "13137": "rare-40",
     "13138": "rare-5",
     "13139": "rare-20",
-    "13140": "rare-40",
+    "13140": "set_015-40_27",
     "13141": "rare-5",
     "13142": "rare-40",
     "13143": "rare-40",
@@ -24884,7 +26884,7 @@
     "13210": "set_012-20",
     "13211": "rare-40",
     "13212": "rare-10",
-    "13213": "rare-10",
+    "13213": "set_015-10_10",
     "13214": "rare-10",
     "13215": "rare-5",
     "13216": "rare-10",
@@ -24897,7 +26897,7 @@
     "13223": "rare-40",
     "13224": "rare-20",
     "13225": "rare-4",
-    "13226": "rare-20",
+    "13226": "set_015-20_05",
     "13227": "rare-40",
     "13228": "rare-20",
     "13229": "rare-20",
@@ -25260,7 +27260,7 @@
     "13586": "rare-40",
     "13587": "rare-40",
     "13588": "set_009-40",
-    "13589": "rare-40",
+    "13589": "set_015-40_06",
     "13590": "rare-40",
     "13591": "rare-40",
     "13592": "rare-40",
@@ -25512,7 +27512,7 @@
     "13838": "rare-10",
     "13839": "rare-4",
     "13840": "set_007-20",
-    "13841": "rare-20",
+    "13841": "set_015-20_01",
     "13842": "rare-5",
     "13843": "rare-40",
     "13844": "rare-10",
@@ -25711,7 +27711,7 @@
     "14037": "rare-40",
     "14038": "rare-40",
     "14039": "rare-40",
-    "14040": "rare-40",
+    "14040": "set_015-40_29",
     "14041": "rare-40",
     "14042": "rare-20",
     "14043": "rare-40",
@@ -25960,7 +27960,7 @@
     "14286": "rare-20",
     "14287": "rare-5",
     "14288": "rare-40",
-    "14289": "rare-10",
+    "14289": "set_015-10_08",
     "14290": "rare-20",
     "14291": "rare-40",
     "14292": "rare-40",
@@ -26302,7 +28302,7 @@
     "14628": "rare-40",
     "14629": "rare-20",
     "14630": "rare-20",
-    "14631": "rare-5",
+    "14631": "set_015-05_02",
     "14632": "rare-40",
     "14633": "rare-40",
     "14634": "rare-40",
@@ -26371,7 +28371,7 @@
     "14697": "rare-20",
     "14698": "rare-20",
     "14699": "rare-4",
-    "14700": "rare-40",
+    "14700": "set_015-40_32",
     "14701": "rare-5",
     "14702": "rare-10",
     "14703": "rare-40",
@@ -26492,7 +28492,7 @@
     "14818": "rare-40",
     "14819": "rare-40",
     "14820": "rare-40",
-    "14821": "rare-40",
+    "14821": "set_015-40_31",
     "14822": "rare-40",
     "14823": "rare-10",
     "14824": "rare-10",
@@ -26633,7 +28633,7 @@
     "14959": "rare-40",
     "14960": "rare-40",
     "14961": "rare-20",
-    "14962": "rare-40",
+    "14962": "set_015-40_34",
     "14963": "rare-40",
     "14964": "rare-4",
     "14965": "rare-5",
@@ -26641,7 +28641,7 @@
     "14967": "rare-40",
     "14968": "rare-40",
     "14969": "rare-40",
-    "14970": "rare-40",
+    "14970": "set_015-40_38",
     "14971": "rare-20",
     "14972": "rare-40",
     "14973": "rare-10",
@@ -26928,7 +28928,7 @@
     "15254": "set_006-40",
     "15255": "set_006-40",
     "15256": "rare-5",
-    "15257": "rare-40",
+    "15257": "set_015-40_07",
     "15258": "rare-40",
     "15259": "rare-20",
     "15260": "rare-40",
@@ -26980,7 +28980,7 @@
     "15306": "rare-5",
     "15307": "rare-5",
     "15308": "rare-40",
-    "15309": "rare-40",
+    "15309": "set_015-40_21",
     "15310": "rare-10",
     "15311": "set_006-05",
     "15312": "rare-4",
@@ -27026,7 +29026,7 @@
     "15352": "rare-40",
     "15353": "rare-20",
     "15354": "rare-40",
-    "15355": "rare-20",
+    "15355": "set_015-20_10",
     "15356": "set_009-20",
     "15357": "rare-10",
     "15358": "rare-40",
@@ -27521,7 +29521,7 @@
     "15847": "rare-40",
     "15848": "rare-40",
     "15849": "rare-20",
-    "15850": "rare-20",
+    "15850": "set_015-20_17",
     "15851": "rare-10",
     "15852": "rare-40",
     "15853": "rare-40",

@@ -132,10 +132,20 @@ Full Script: `python3 randomize.py --seed "0x4346a7f8a000cb13c5ed872361fa300b3db
 
 ### Set `014`
 
-- [Provenance Post](https://twitter.com/jalil_eth/status/1694392177051283484)
+- [Provenance Post](https://x.com/jalil_eth/status/1694392177051283484)
 - [Block & Block Hash (17979069)](https://etherscan.io/block/17979069): `0x9e9281690076cd9a1b697e96e38460e85b75234eb2a903b4ed9ca55572dc9d0a`
-- [Salt](https://twitter.com/jalil_eth/status/1694392178464756207): `eNjoY ETHereum`
+- [Salt](https://x.com/jalil_eth/status/1694392178464756207): `eNjoY ETHereum`
 - [Submissions](https://ipfs.io/ipfs/QmS6dF3s8HCQqkkSYZ5rfePoRrkb7Rig4PuwWfUe2VFRCV)
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x9e9281690076cd9a1b697e96e38460e85b75234eb2a903b4ed9ca55572dc9d0a_eNjoY ETHereum" --set 014`
+
+### Set `015`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1696579005472702844)
+- [Block & Block Hash (17979069)](https://etherscan.io/block/): `0x0fb03aabca3c5ccb3b3338846eb8e366739684c60274063f9b75d12a78caeb7a`
+- [Salt](https://x.com/jalil_eth/status/1696579005472702844): `time stays loong enough for anyone who vvill use it.`
+- [Submissions](https://ipfs.io/ipfs/Qma2VHGVpF6GNTFh8ZkckqX9ReAe2hVn4AjJEYuMvzdNU1)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x0fb03aabca3c5ccb3b3338846eb8e366739684c60274063f9b75d12a78caeb7a_time stays loong enough for anyone who vvill use it." --set 015`
