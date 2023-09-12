@@ -149,3 +149,13 @@ Full Script: `python3 randomize.py --seed "0x9e9281690076cd9a1b697e96e38460e85b7
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x0fb03aabca3c5ccb3b3338846eb8e366739684c60274063f9b75d12a78caeb7a_time stays loong enough for anyone who vvill use it." --set 015`
+
+### Set `016`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1701661266811486594)
+- [Block & Block Hash (18122202)](https://etherscan.io/block/18122202): `0xe336307e840aea28998e7f1384db413d16edd9fea48ccae793ce39571f81d1b0`
+- [Salt](https://x.com/jalil_eth/status/1701661266811486594): `Secrets of the Univverse`
+- [Submissions](https://ipfs.io/ipfs/QmbBroMgGkkRySwkKDBFqyRoaLWmt8jif9H1KQBVsHXV2G)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0xe336307e840aea28998e7f1384db413d16edd9fea48ccae793ce39571f81d1b0_Secrets of the Univverse" --set 016`
