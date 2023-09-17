@@ -1,0 +1,22 @@
+{
+  "hash": "QmT4pDenXgm3NMiAXpCxyWmx8teYsjtsXhYsxK7mGNAJxp",
+  "artist": "VVD",
+  "release": "018",
+  "set": "Nopepen",
+  "names": {
+    "1": "Midnight",
+    "4": "Snowstorm",
+    "5": "Cornflower",
+    "10": "Watermelon",
+    "20": "Sahara",
+    "40": "Mint"
+  },
+  "sets": {
+    "1": "midnight.png",
+    "4": "snowstorm.png",
+    "5": "cornflower.png",
+    "10": "watermelon.png",
+    "20": "sahara.png",
+    "40": "mint.png"
+  }
+}

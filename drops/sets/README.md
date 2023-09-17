@@ -169,3 +169,13 @@ Full Script: `python3 randomize.py --seed "0xe336307e840aea28998e7f1384db413d16e
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0xc263f99c088de4000379461e216102f9e3e5ddb36c1d220cdfa01529d925003f_less is m0re" --set 017`
+
+### Set `018`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1703495516137443508)
+- [Block & Block Hash (18157980)](https://etherscan.io/block/18157980): `0x4990215ec954b163a3c7c66d52b9ea0f59335547f2e0e2f6a084aaeb967c7a3b`
+- [Salt](https://x.com/jalil_eth/status/1703495516137443508): `judge vvith care`
+- [Submissions](https://ipfs.io/ipfs/QmP5xQrLFxbRTn7wryAartqejyZQLANghzpR7FJB7RSdUT)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x4990215ec954b163a3c7c66d52b9ea0f59335547f2e0e2f6a084aaeb967c7a3b_judge vvith care" --set 018`
