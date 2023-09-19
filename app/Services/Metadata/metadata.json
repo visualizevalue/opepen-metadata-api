@@ -17921,7 +17921,7 @@
       ]
     },
     "set_020-20": {
-      "image": "ipfs://QmQvCHorKNQJBjitw7Vzv42dSjWRj4qrroZ8BDtfNoPQrz/Normal.png",
+      "image": "ipfs://QmQvCHorKNQJBjitw7Vzv42dSjWRj4qrroZ8BDtfNoPQrz/Standard.png",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -17937,7 +17937,7 @@
         },
         {
           "trait_type": "Opepen",
-          "value": "Normal"
+          "value": "Standard"
         },
         {
           "trait_type": "Edition Size",
