@@ -1,0 +1,22 @@
+{
+  "hash": "QmQvCHorKNQJBjitw7Vzv42dSjWRj4qrroZ8BDtfNoPQrz",
+  "artist": "Jack Butcher",
+  "release": "020",
+  "set": "Synopepen",
+  "names": {
+    "1": "Classic",
+    "4": "Regular",
+    "5": "Typical",
+    "10": "Normal",
+    "20": "Normal",
+    "40": "Basic"
+  },
+  "sets": {
+    "1": "Classic.png",
+    "4": "Regular.png",
+    "5": "Typical.png",
+    "10": "Normal.png",
+    "20": "Normal.png",
+    "40": "Basic.png"
+  }
+}

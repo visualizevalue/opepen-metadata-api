@@ -179,3 +179,23 @@ Full Script: `python3 randomize.py --seed "0xc263f99c088de4000379461e216102f9e3e
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x4990215ec954b163a3c7c66d52b9ea0f59335547f2e0e2f6a084aaeb967c7a3b_judge vvith care" --set 018`
+
+### Set `019`
+
+<!-- - [Provenance Post](https://x.com/jalil_eth/status/1703495516137443508)
+- [Block & Block Hash (18157980)](https://etherscan.io/block/18157980): `0x4990215ec954b163a3c7c66d52b9ea0f59335547f2e0e2f6a084aaeb967c7a3b`
+- [Salt](https://x.com/jalil_eth/status/1703495516137443508): `judge vvith care`
+- [Submissions](https://ipfs.io/ipfs/QmP5xQrLFxbRTn7wryAartqejyZQLANghzpR7FJB7RSdUT)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x4990215ec954b163a3c7c66d52b9ea0f59335547f2e0e2f6a084aaeb967c7a3b_judge vvith care" --set 018` -->
+
+### Set `020`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1704237539505455245)
+- [Block & Block Hash (18172512)](https://etherscan.io/block/18172512): `0x9410821012a24dc00a545a8c5af3391a7e20159e36da3d932cbd67cc6d7bb83c`
+- [Salt](https://x.com/jalil_eth/status/1704237541484892570): ``
+- [Submissions](https://ipfs.io/ipfs/QmPRkuwJ8gN1KoMRK5sXyxviPLdHZePoh81igaMFLTgifu)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x9410821012a24dc00a545a8c5af3391a7e20159e36da3d932cbd67cc6d7bb83c_make it more unique please" --set 020`
