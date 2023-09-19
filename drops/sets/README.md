@@ -194,7 +194,7 @@ Full Script: `python3 randomize.py --seed "0x4990215ec954b163a3c7c66d52b9ea0f593
 
 - [Provenance Post](https://x.com/jalil_eth/status/1704237539505455245)
 - [Block & Block Hash (18172512)](https://etherscan.io/block/18172512): `0x9410821012a24dc00a545a8c5af3391a7e20159e36da3d932cbd67cc6d7bb83c`
-- [Salt](https://x.com/jalil_eth/status/1704237541484892570): ``
+- [Salt](https://x.com/jalil_eth/status/1704237541484892570): `make it more unique please`
 - [Submissions](https://ipfs.io/ipfs/QmPRkuwJ8gN1KoMRK5sXyxviPLdHZePoh81igaMFLTgifu)
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
