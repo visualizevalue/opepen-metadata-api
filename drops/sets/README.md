@@ -182,13 +182,13 @@ Full Script: `python3 randomize.py --seed "0x4990215ec954b163a3c7c66d52b9ea0f593
 
 ### Set `019`
 
-<!-- - [Provenance Post](https://x.com/jalil_eth/status/1703495516137443508)
-- [Block & Block Hash (18157980)](https://etherscan.io/block/18157980): `0x4990215ec954b163a3c7c66d52b9ea0f59335547f2e0e2f6a084aaeb967c7a3b`
-- [Salt](https://x.com/jalil_eth/status/1703495516137443508): `judge vvith care`
-- [Submissions](https://ipfs.io/ipfs/QmP5xQrLFxbRTn7wryAartqejyZQLANghzpR7FJB7RSdUT)
+- [Provenance Post](https://x.com/jalil_eth/status/1704281905326112946)
+- [Block & Block Hash (18173402)](https://etherscan.io/block/18173402): `0x11344c534f66e7786c42e8cb2b89faef11adb5990bb9af64e87b41e9be2e2267`
+- [Salt](https://x.com/jalil_eth/status/1704281906739662880): `prompt typevvriter`
+- [Submissions](https://ipfs.io/ipfs/QmW4uca8pb6SZgMLHaiYzr44vCuAPiwEAmY4JVvHDZtp1S)
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
-Full Script: `python3 randomize.py --seed "0x4990215ec954b163a3c7c66d52b9ea0f59335547f2e0e2f6a084aaeb967c7a3b_judge vvith care" --set 018` -->
+Full Script: `python3 randomize.py --seed "0x11344c534f66e7786c42e8cb2b89faef11adb5990bb9af64e87b41e9be2e2267_prompt typevvriter" --set 019`
 
 ### Set `020`
 
