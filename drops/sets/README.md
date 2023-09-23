@@ -199,3 +199,13 @@ Full Script: `python3 randomize.py --seed "0x11344c534f66e7786c42e8cb2b89faef11a
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x9410821012a24dc00a545a8c5af3391a7e20159e36da3d932cbd67cc6d7bb83c_make it more unique please" --set 020`
+
+### Set `021`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1705593293575200914)
+- [Block & Block Hash (18199283)](https://etherscan.io/block/18199283): `0xd5901167048f6aa75fad552982ca4d5d41c01352020f8693b7f4a26b1545d557`
+- [Salt](https://x.com/jalil_eth/status/1705593295022305693): `vve propose a solution to the double-spending problem using a peer-to-peer network`
+- [Submissions](https://ipfs.io/ipfs/)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0xd5901167048f6aa75fad552982ca4d5d41c01352020f8693b7f4a26b1545d557_vve propose a solution to the double-spending problem using a peer-to-peer network" --set 021`
