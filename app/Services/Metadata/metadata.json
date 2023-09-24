@@ -25969,6 +25969,2006 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_024-01_01": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/01-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Home"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_024-04_01": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/04-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Celestial"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_024-04_02": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/04-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Celestial"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_024-04_03": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/04-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Celestial"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_024-04_04": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/04-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Celestial"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_024-05_01": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/05-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Dawn – Dusk"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_024-05_02": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/05-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Dawn – Dusk"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_024-05_03": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/05-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Dawn – Dusk"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_024-05_04": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/05-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Dawn – Dusk"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_024-05_05": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/05-05.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Dawn – Dusk"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_024-10_01": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-10_02": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-10_03": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-10_04": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-10_05": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-05.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-10_06": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-06.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-10_07": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-07.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-10_08": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-08.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-10_09": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-09.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-10_10": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/10-10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cloud"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_024-20_01": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_02": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_03": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_04": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_05": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-05.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_06": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-06.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_07": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-07.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_08": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-08.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_09": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-09.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_10": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_11": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-11.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_12": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-12.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_13": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-13.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_14": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-14.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_15": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-15.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_16": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-16.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_17": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-17.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_18": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-18.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_19": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-19.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-20_20": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/20-20.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Thing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_024-40_01": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_02": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_03": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_04": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_05": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-05.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_06": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-06.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_07": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-07.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_08": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-08.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_09": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-09.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_10": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_11": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-11.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_12": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-12.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_13": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-13.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_14": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-14.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_15": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-15.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_16": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-16.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_17": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-17.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_18": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-18.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_19": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-19.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_20": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-20.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_21": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-21.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_22": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-22.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_23": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-23.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_24": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-24.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_25": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-25.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_26": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-26.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_27": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-27.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_28": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-28.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_29": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-29.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_30": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-30.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_31": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-31.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_32": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-32.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_33": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-33.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_34": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-34.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_35": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-35.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_36": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-36.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_37": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-37.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_38": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-38.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_39": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-39.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_024-40_40": {
+      "image": "ipfs://QmSYGK3Jdn69RitqKTo76untfZw5ZBMJjLwXjxwzznGioK/40-40.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "jalil"
+        },
+        {
+          "trait_type": "Release",
+          "value": "024"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Scapepe"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Land"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {
@@ -26113,7 +28113,7 @@
     "139": "rare-20",
     "140": "set_006-40",
     "141": "rare-20",
-    "142": "rare-40",
+    "142": "set_024-40_02",
     "143": "rare-10",
     "144": "rare-20",
     "145": "rare-1",
@@ -26218,7 +28218,7 @@
     "244": "rare-20",
     "245": "rare-10",
     "246": "rare-4",
-    "247": "rare-5",
+    "247": "set_024-05_04",
     "248": "rare-20",
     "249": "rare-20",
     "250": "rare-40",
@@ -26306,7 +28306,7 @@
     "332": "rare-10",
     "333": "rare-20",
     "334": "rare-20",
-    "335": "rare-20",
+    "335": "set_024-20_12",
     "336": "rare-20",
     "337": "rare-40",
     "338": "rare-40",
@@ -26663,7 +28663,7 @@
     "689": "rare-40",
     "690": "rare-40",
     "691": "rare-40",
-    "692": "rare-40",
+    "692": "set_024-40_19",
     "693": "rare-40",
     "694": "rare-40",
     "695": "rare-40",
@@ -26684,7 +28684,7 @@
     "710": "rare-20",
     "711": "rare-20",
     "712": "rare-4",
-    "713": "rare-40",
+    "713": "set_024-40_24",
     "714": "rare-20",
     "715": "rare-40",
     "716": "set_004-40_26",
@@ -26920,7 +28920,7 @@
     "946": "rare-20",
     "947": "rare-40",
     "948": "rare-40",
-    "949": "rare-40",
+    "949": "set_024-40_17",
     "950": "rare-20",
     "951": "set_005-20_09",
     "952": "rare-40",
@@ -27142,7 +29142,7 @@
     "1168": "rare-20",
     "1169": "rare-20",
     "1170": "rare-40",
-    "1171": "rare-10",
+    "1171": "set_024-10_09",
     "1172": "rare-10",
     "1173": "rare-40",
     "1174": "rare-10",
@@ -27203,7 +29203,7 @@
     "1229": "rare-40",
     "1230": "set_022-20_12",
     "1231": "rare-20",
-    "1232": "rare-20",
+    "1232": "set_024-20_13",
     "1233": "rare-40",
     "1234": "rare-20",
     "1235": "rare-40",
@@ -27632,7 +29632,7 @@
     "1658": "rare-10",
     "1659": "rare-5",
     "1660": "rare-5",
-    "1661": "rare-20",
+    "1661": "set_024-20_19",
     "1662": "set_002-40",
     "1663": "rare-40",
     "1664": "set_003-40",
@@ -28452,7 +30452,7 @@
     "2478": "set_017-40_20",
     "2479": "rare-20",
     "2480": "set_006-10",
-    "2481": "rare-10",
+    "2481": "set_024-10_06",
     "2482": "rare-40",
     "2483": "rare-20",
     "2484": "rare-20",
@@ -28716,7 +30716,7 @@
     "2742": "rare-5",
     "2743": "rare-40",
     "2744": "rare-20",
-    "2745": "rare-20",
+    "2745": "set_024-20_09",
     "2746": "rare-10",
     "2747": "rare-10",
     "2748": "rare-4",
@@ -29604,7 +31604,7 @@
     "3630": "set_004-40_19",
     "3631": "rare-20",
     "3632": "rare-20",
-    "3633": "rare-40",
+    "3633": "set_024-40_15",
     "3634": "set_001-40_11",
     "3635": "rare-40",
     "3636": "rare-10",
@@ -29760,7 +31760,7 @@
     "3786": "rare-40",
     "3787": "rare-40",
     "3788": "rare-40",
-    "3789": "rare-4",
+    "3789": "set_024-04_04",
     "3790": "rare-4",
     "3791": "rare-20",
     "3792": "rare-20",
@@ -29900,7 +31900,7 @@
     "3926": "rare-20",
     "3927": "rare-20",
     "3928": "rare-40",
-    "3929": "rare-20",
+    "3929": "set_024-20_15",
     "3930": "rare-40",
     "3931": "rare-40",
     "3932": "rare-40",
@@ -30106,7 +32106,7 @@
     "4132": "rare-40",
     "4133": "rare-40",
     "4134": "rare-20",
-    "4135": "rare-40",
+    "4135": "set_024-40_10",
     "4136": "rare-40",
     "4137": "rare-10",
     "4138": "rare-40",
@@ -30660,7 +32660,7 @@
     "4686": "rare-40",
     "4687": "rare-40",
     "4688": "rare-40",
-    "4689": "rare-40",
+    "4689": "set_024-40_27",
     "4690": "rare-20",
     "4691": "set_011-04_03",
     "4692": "rare-40",
@@ -31159,7 +33159,7 @@
     "5185": "set_001-20_09",
     "5186": "rare-40",
     "5187": "rare-4",
-    "5188": "rare-20",
+    "5188": "set_024-20_10",
     "5189": "rare-10",
     "5190": "rare-40",
     "5191": "rare-10",
@@ -31269,7 +33269,7 @@
     "5295": "set_018-20",
     "5296": "rare-40",
     "5297": "rare-20",
-    "5298": "rare-10",
+    "5298": "set_024-10_07",
     "5299": "rare-10",
     "5300": "rare-20",
     "5301": "rare-20",
@@ -31434,7 +33434,7 @@
     "5460": "rare-40",
     "5461": "rare-10",
     "5462": "rare-20",
-    "5463": "rare-20",
+    "5463": "set_024-20_14",
     "5464": "rare-40",
     "5465": "rare-40",
     "5466": "rare-40",
@@ -31526,7 +33526,7 @@
     "5552": "set_020-40",
     "5553": "rare-20",
     "5554": "rare-4",
-    "5555": "rare-10",
+    "5555": "set_024-10_08",
     "5556": "rare-4",
     "5557": "set_012-04",
     "5558": "rare-40",
@@ -31621,7 +33621,7 @@
     "5647": "rare-40",
     "5648": "rare-40",
     "5649": "rare-20",
-    "5650": "rare-40",
+    "5650": "set_024-40_05",
     "5651": "set_023-40_10",
     "5652": "rare-20",
     "5653": "rare-40",
@@ -31876,7 +33876,7 @@
     "5902": "set_013-20",
     "5903": "rare-40",
     "5904": "set_012-40",
-    "5905": "rare-5",
+    "5905": "set_024-05_03",
     "5906": "rare-20",
     "5907": "rare-4",
     "5908": "set_013-40",
@@ -31886,7 +33886,7 @@
     "5912": "rare-20",
     "5913": "rare-20",
     "5914": "rare-40",
-    "5915": "rare-40",
+    "5915": "set_024-40_08",
     "5916": "rare-10",
     "5917": "rare-40",
     "5918": "rare-40",
@@ -32041,7 +34041,7 @@
     "6067": "rare-4",
     "6068": "rare-40",
     "6069": "rare-40",
-    "6070": "rare-40",
+    "6070": "set_024-40_18",
     "6071": "rare-4",
     "6072": "rare-10",
     "6073": "rare-40",
@@ -32091,7 +34091,7 @@
     "6117": "rare-40",
     "6118": "rare-20",
     "6119": "rare-40",
-    "6120": "rare-20",
+    "6120": "set_024-20_17",
     "6121": "set_007-40",
     "6122": "rare-20",
     "6123": "rare-20",
@@ -32121,7 +34121,7 @@
     "6147": "rare-4",
     "6148": "rare-4",
     "6149": "rare-20",
-    "6150": "rare-20",
+    "6150": "set_024-20_02",
     "6151": "rare-10",
     "6152": "rare-40",
     "6153": "rare-40",
@@ -32192,7 +34192,7 @@
     "6218": "rare-40",
     "6219": "rare-20",
     "6220": "rare-40",
-    "6221": "rare-40",
+    "6221": "set_024-40_25",
     "6222": "rare-10",
     "6223": "rare-40",
     "6224": "rare-1",
@@ -32314,7 +34314,7 @@
     "6340": "rare-10",
     "6341": "rare-40",
     "6342": "rare-40",
-    "6343": "rare-20",
+    "6343": "set_024-20_11",
     "6344": "rare-40",
     "6345": "set_017-20_12",
     "6346": "rare-20",
@@ -32344,7 +34344,7 @@
     "6370": "rare-1",
     "6371": "rare-20",
     "6372": "rare-20",
-    "6373": "rare-10",
+    "6373": "set_024-10_02",
     "6374": "set_022-05_01",
     "6375": "rare-10",
     "6376": "rare-5",
@@ -32549,7 +34549,7 @@
     "6575": "rare-5",
     "6576": "rare-5",
     "6577": "rare-40",
-    "6578": "rare-40",
+    "6578": "set_024-40_14",
     "6579": "rare-40",
     "6580": "rare-40",
     "6581": "rare-40",
@@ -32653,7 +34653,7 @@
     "6679": "rare-40",
     "6680": "rare-5",
     "6681": "rare-4",
-    "6682": "rare-40",
+    "6682": "set_024-40_07",
     "6683": "rare-20",
     "6684": "rare-1",
     "6685": "rare-10",
@@ -32745,7 +34745,7 @@
     "6771": "rare-40",
     "6772": "rare-40",
     "6773": "rare-40",
-    "6774": "rare-20",
+    "6774": "set_024-20_18",
     "6775": "rare-4",
     "6776": "rare-10",
     "6777": "rare-10",
@@ -32852,13 +34852,13 @@
     "6878": "rare-20",
     "6879": "rare-40",
     "6880": "rare-10",
-    "6881": "rare-40",
+    "6881": "set_024-40_31",
     "6882": "rare-40",
     "6883": "rare-40",
     "6884": "rare-10",
     "6885": "rare-4",
     "6886": "rare-40",
-    "6887": "rare-20",
+    "6887": "set_024-20_16",
     "6888": "set_018-40",
     "6889": "rare-20",
     "6890": "rare-20",
@@ -32992,7 +34992,7 @@
     "7018": "rare-10",
     "7019": "rare-40",
     "7020": "rare-10",
-    "7021": "rare-40",
+    "7021": "set_024-40_34",
     "7022": "rare-10",
     "7023": "rare-40",
     "7024": "rare-40",
@@ -33029,7 +35029,7 @@
     "7055": "rare-20",
     "7056": "rare-40",
     "7057": "rare-40",
-    "7058": "rare-40",
+    "7058": "set_024-40_03",
     "7059": "rare-20",
     "7060": "rare-40",
     "7061": "set_015-40_05",
@@ -33277,7 +35277,7 @@
     "7303": "rare-5",
     "7304": "rare-20",
     "7305": "rare-40",
-    "7306": "rare-20",
+    "7306": "set_024-20_03",
     "7307": "rare-20",
     "7308": "rare-20",
     "7309": "rare-40",
@@ -33337,7 +35337,7 @@
     "7363": "rare-40",
     "7364": "rare-20",
     "7365": "rare-10",
-    "7366": "rare-40",
+    "7366": "set_024-40_23",
     "7367": "rare-5",
     "7368": "set_001-40_22",
     "7369": "rare-5",
@@ -33346,7 +35346,7 @@
     "7372": "set_018-05",
     "7373": "rare-5",
     "7374": "rare-40",
-    "7375": "rare-40",
+    "7375": "set_024-40_26",
     "7376": "set_023-01_01",
     "7377": "rare-40",
     "7378": "set_022-40_26",
@@ -33707,7 +35707,7 @@
     "7733": "rare-4",
     "7734": "rare-20",
     "7735": "set_005-40_20",
-    "7736": "rare-40",
+    "7736": "set_024-40_20",
     "7737": "set_012-40",
     "7738": "set_017-10_10",
     "7739": "rare-20",
@@ -33823,7 +35823,7 @@
     "7849": "set_001-05_03",
     "7850": "rare-40",
     "7851": "rare-10",
-    "7852": "rare-10",
+    "7852": "set_024-10_05",
     "7853": "rare-20",
     "7854": "rare-20",
     "7855": "rare-40",
@@ -34043,7 +36043,7 @@
     "8069": "rare-10",
     "8070": "rare-40",
     "8071": "set_014-40_06",
-    "8072": "rare-10",
+    "8072": "set_024-10_04",
     "8073": "rare-20",
     "8074": "rare-40",
     "8075": "rare-5",
@@ -34062,7 +36062,7 @@
     "8088": "rare-20",
     "8089": "rare-10",
     "8090": "rare-20",
-    "8091": "rare-20",
+    "8091": "set_024-20_05",
     "8092": "rare-40",
     "8093": "rare-40",
     "8094": "rare-20",
@@ -34078,7 +36078,7 @@
     "8104": "rare-20",
     "8105": "rare-40",
     "8106": "rare-40",
-    "8107": "rare-40",
+    "8107": "set_024-40_12",
     "8108": "set_020-20",
     "8109": "rare-20",
     "8110": "rare-40",
@@ -34511,7 +36511,7 @@
     "8537": "rare-40",
     "8538": "rare-4",
     "8539": "rare-40",
-    "8540": "rare-40",
+    "8540": "set_024-40_28",
     "8541": "rare-4",
     "8542": "rare-10",
     "8543": "rare-40",
@@ -34549,7 +36549,7 @@
     "8575": "set_019-20_20",
     "8576": "set_004-10_03",
     "8577": "rare-40",
-    "8578": "rare-10",
+    "8578": "set_024-10_01",
     "8579": "rare-20",
     "8580": "rare-10",
     "8581": "rare-40",
@@ -34570,7 +36570,7 @@
     "8596": "rare-40",
     "8597": "rare-40",
     "8598": "set_017-40_07",
-    "8599": "rare-20",
+    "8599": "set_024-20_04",
     "8600": "rare-4",
     "8601": "rare-40",
     "8602": "set_008-20",
@@ -34583,7 +36583,7 @@
     "8609": "rare-4",
     "8610": "rare-40",
     "8611": "rare-20",
-    "8612": "rare-20",
+    "8612": "set_024-20_06",
     "8613": "rare-40",
     "8614": "rare-40",
     "8615": "rare-40",
@@ -35232,7 +37232,7 @@
     "9258": "rare-40",
     "9259": "rare-40",
     "9260": "rare-20",
-    "9261": "rare-20",
+    "9261": "set_024-20_08",
     "9262": "set_008-40",
     "9263": "rare-40",
     "9264": "rare-20",
@@ -35291,7 +37291,7 @@
     "9317": "rare-40",
     "9318": "rare-20",
     "9319": "rare-1",
-    "9320": "rare-40",
+    "9320": "set_024-40_32",
     "9321": "rare-20",
     "9322": "rare-10",
     "9323": "set_015-10_06",
@@ -35806,7 +37806,7 @@
     "9832": "rare-5",
     "9833": "rare-40",
     "9834": "rare-40",
-    "9835": "rare-40",
+    "9835": "set_024-40_33",
     "9836": "rare-40",
     "9837": "rare-40",
     "9838": "rare-5",
@@ -36031,7 +38031,7 @@
     "10057": "rare-20",
     "10058": "rare-4",
     "10059": "rare-10",
-    "10060": "rare-5",
+    "10060": "set_024-05_02",
     "10061": "set_004-40_27",
     "10062": "rare-4",
     "10063": "rare-40",
@@ -36102,7 +38102,7 @@
     "10128": "rare-20",
     "10129": "rare-40",
     "10130": "set_009-40",
-    "10131": "rare-4",
+    "10131": "set_024-04_03",
     "10132": "rare-10",
     "10133": "rare-40",
     "10134": "rare-20",
@@ -36277,7 +38277,7 @@
     "10303": "rare-5",
     "10304": "rare-40",
     "10305": "rare-40",
-    "10306": "rare-40",
+    "10306": "set_024-40_22",
     "10307": "rare-40",
     "10308": "set_015-04_01",
     "10309": "rare-5",
@@ -36357,7 +38357,7 @@
     "10383": "rare-40",
     "10384": "rare-20",
     "10385": "rare-40",
-    "10386": "rare-40",
+    "10386": "set_024-40_06",
     "10387": "rare-20",
     "10388": "rare-40",
     "10389": "rare-20",
@@ -36600,7 +38600,7 @@
     "10626": "rare-40",
     "10627": "rare-5",
     "10628": "rare-40",
-    "10629": "rare-40",
+    "10629": "set_024-40_01",
     "10630": "rare-40",
     "10631": "rare-40",
     "10632": "rare-20",
@@ -36614,7 +38614,7 @@
     "10640": "rare-5",
     "10641": "rare-20",
     "10642": "rare-40",
-    "10643": "rare-40",
+    "10643": "set_024-40_04",
     "10644": "rare-10",
     "10645": "rare-40",
     "10646": "rare-40",
@@ -36638,7 +38638,7 @@
     "10664": "rare-10",
     "10665": "rare-40",
     "10666": "rare-10",
-    "10667": "rare-40",
+    "10667": "set_024-40_11",
     "10668": "rare-40",
     "10669": "rare-40",
     "10670": "rare-40",
@@ -36691,7 +38691,7 @@
     "10717": "rare-40",
     "10718": "rare-40",
     "10719": "rare-40",
-    "10720": "rare-1",
+    "10720": "set_024-01_01",
     "10721": "rare-20",
     "10722": "rare-40",
     "10723": "rare-20",
@@ -36965,7 +38965,7 @@
     "10991": "rare-4",
     "10992": "set_001-40_37",
     "10993": "rare-40",
-    "10994": "rare-40",
+    "10994": "set_024-40_36",
     "10995": "set_010-10",
     "10996": "set_002-40",
     "10997": "rare-40",
@@ -37093,7 +39093,7 @@
     "11119": "rare-40",
     "11120": "rare-20",
     "11121": "set_009-40",
-    "11122": "rare-40",
+    "11122": "set_024-40_37",
     "11123": "rare-40",
     "11124": "rare-20",
     "11125": "rare-20",
@@ -37158,7 +39158,7 @@
     "11184": "rare-40",
     "11185": "rare-20",
     "11186": "rare-20",
-    "11187": "rare-40",
+    "11187": "set_024-40_16",
     "11188": "rare-40",
     "11189": "rare-40",
     "11190": "rare-20",
@@ -37236,7 +39236,7 @@
     "11262": "rare-40",
     "11263": "rare-40",
     "11264": "rare-5",
-    "11265": "rare-20",
+    "11265": "set_024-20_01",
     "11266": "rare-20",
     "11267": "set_002-40",
     "11268": "rare-40",
@@ -37534,7 +39534,7 @@
     "11560": "rare-20",
     "11561": "rare-5",
     "11562": "rare-40",
-    "11563": "rare-20",
+    "11563": "set_024-20_07",
     "11564": "set_007-40",
     "11565": "rare-20",
     "11566": "rare-10",
@@ -37717,7 +39717,7 @@
     "11743": "set_012-40",
     "11744": "rare-10",
     "11745": "rare-20",
-    "11746": "rare-5",
+    "11746": "set_024-05_01",
     "11747": "set_017-40_33",
     "11748": "rare-40",
     "11749": "rare-40",
@@ -38257,7 +40257,7 @@
     "12283": "rare-40",
     "12284": "rare-40",
     "12285": "set_022-40_39",
-    "12286": "rare-20",
+    "12286": "set_024-20_20",
     "12287": "rare-40",
     "12288": "rare-20",
     "12289": "rare-20",
@@ -38384,7 +40384,7 @@
     "12410": "rare-4",
     "12411": "rare-20",
     "12412": "rare-40",
-    "12413": "rare-40",
+    "12413": "set_024-40_40",
     "12414": "rare-20",
     "12415": "rare-5",
     "12416": "rare-40",
@@ -38763,7 +40763,7 @@
     "12789": "rare-5",
     "12790": "set_008-10",
     "12791": "rare-40",
-    "12792": "rare-40",
+    "12792": "set_024-40_39",
     "12793": "rare-40",
     "12794": "rare-40",
     "12795": "rare-40",
@@ -38809,7 +40809,7 @@
     "12835": "rare-20",
     "12836": "rare-10",
     "12837": "rare-40",
-    "12838": "rare-40",
+    "12838": "set_024-40_09",
     "12839": "set_003-40",
     "12840": "rare-40",
     "12841": "rare-10",
@@ -39535,7 +41535,7 @@
     "13561": "rare-40",
     "13562": "rare-20",
     "13563": "rare-40",
-    "13564": "rare-5",
+    "13564": "set_024-05_05",
     "13565": "rare-40",
     "13566": "rare-20",
     "13567": "rare-20",
@@ -39891,7 +41891,7 @@
     "13917": "set_005-40_28",
     "13918": "rare-40",
     "13919": "rare-20",
-    "13920": "rare-40",
+    "13920": "set_024-40_30",
     "13921": "rare-10",
     "13922": "rare-4",
     "13923": "rare-40",
@@ -40517,7 +42517,7 @@
     "14543": "rare-10",
     "14544": "rare-40",
     "14545": "rare-40",
-    "14546": "rare-4",
+    "14546": "set_024-04_02",
     "14547": "rare-40",
     "14548": "rare-20",
     "14549": "set_003-20",
@@ -40777,7 +42777,7 @@
     "14803": "set_004-40_30",
     "14804": "rare-20",
     "14805": "rare-40",
-    "14806": "rare-10",
+    "14806": "set_024-10_10",
     "14807": "rare-40",
     "14808": "rare-20",
     "14809": "rare-10",
@@ -40996,7 +42996,7 @@
     "15022": "set_012-40",
     "15023": "rare-10",
     "15024": "rare-40",
-    "15025": "rare-40",
+    "15025": "set_024-40_13",
     "15026": "rare-40",
     "15027": "rare-40",
     "15028": "rare-1",
@@ -41060,7 +43060,7 @@
     "15086": "rare-20",
     "15087": "rare-40",
     "15088": "rare-20",
-    "15089": "rare-40",
+    "15089": "set_024-40_35",
     "15090": "set_010-40",
     "15091": "rare-20",
     "15092": "rare-20",
@@ -41191,7 +43191,7 @@
     "15217": "set_005-40_37",
     "15218": "rare-20",
     "15219": "rare-20",
-    "15220": "rare-40",
+    "15220": "set_024-40_38",
     "15221": "rare-20",
     "15222": "rare-40",
     "15223": "set_014-04_04",
@@ -41369,7 +43369,7 @@
     "15395": "rare-20",
     "15396": "rare-40",
     "15397": "rare-5",
-    "15398": "rare-10",
+    "15398": "set_024-10_03",
     "15399": "rare-40",
     "15400": "rare-40",
     "15401": "rare-40",
@@ -41649,7 +43649,7 @@
     "15675": "rare-40",
     "15676": "set_011-40_18",
     "15677": "rare-40",
-    "15678": "rare-40",
+    "15678": "set_024-40_21",
     "15679": "rare-4",
     "15680": "rare-40",
     "15681": "rare-10",
@@ -41680,7 +43680,7 @@
     "15706": "rare-40",
     "15707": "rare-20",
     "15708": "rare-4",
-    "15709": "rare-40",
+    "15709": "set_024-40_29",
     "15710": "rare-40",
     "15711": "set_004-40_35",
     "15712": "rare-20",
@@ -41707,7 +43707,7 @@
     "15733": "rare-40",
     "15734": "rare-4",
     "15735": "rare-40",
-    "15736": "rare-4",
+    "15736": "set_024-04_01",
     "15737": "set_009-20",
     "15738": "rare-10",
     "15739": "rare-10",

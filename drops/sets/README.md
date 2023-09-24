@@ -229,3 +229,13 @@ Full Script: `python3 randomize.py --seed "0xcdfdbca657e9686067be7718033e9e9fa90
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x02c4d9c16e2067db2adc00454fe827b2dd1b334a6fb2e96b5e79cfff64e3a9cc_brick in the vvall" --set 023`
+
+### Set `024`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1706023910595051724)
+- [Block & Block Hash (18207699)](https://etherscan.io/block/18207699): `0x01d46224aa2bbf9d71ef4eae8b28fefadbb0b7f8da84828ff9a8be5105877970`
+- [Salt](https://x.com/jalil_eth/status/1706023911933051263): `vvelcome home`
+- [Submissions](https://ipfs.io/ipfs/QmZvB16T3B4Q2w2R8jKDWaFqCbhWqpjiEmMf5uRZxmfUkF)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x01d46224aa2bbf9d71ef4eae8b28fefadbb0b7f8da84828ff9a8be5105877970_vvelcome home" --set 024`
