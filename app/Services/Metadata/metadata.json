@@ -27969,6 +27969,2086 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_025-01_01": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/1-1.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=1&id=1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Hyper"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_025-04_01": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/4-1.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=4&id=1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Fuzzy"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_025-04_02": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/4-2.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=4&id=2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Fuzzy"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_025-04_03": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/4-3.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=4&id=3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Fuzzy"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_025-04_04": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/4-4.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=4&id=4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Fuzzy"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_025-05_01": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/5-1.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=5&id=1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Full"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_025-05_02": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/5-2.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=5&id=2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Full"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_025-05_03": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/5-3.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=5&id=3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Full"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_025-05_04": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/5-4.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=5&id=4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Full"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_025-05_05": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/5-5.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=5&id=5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Full"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_025-10_01": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-1.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-10_02": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-2.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-10_03": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-3.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-10_04": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-4.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-10_05": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-5.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-10_06": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-6.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=6",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-10_07": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-7.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=7",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-10_08": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-8.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=8",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-10_09": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-9.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=9",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-10_10": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/10-10.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=10&id=10",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Slinky"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_025-20_01": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-1.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_02": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-2.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_03": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-3.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_04": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-4.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_05": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-5.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_06": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-6.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=6",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_07": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-7.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=7",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_08": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-8.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=8",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_09": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-9.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=9",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_10": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-10.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=10",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_11": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-11.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=11",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_12": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-12.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=12",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_13": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-13.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=13",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_14": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-14.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=14",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_15": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-15.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=15",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_16": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-16.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=16",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_17": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-17.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=17",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_18": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-18.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=18",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_19": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-19.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=19",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-20_20": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/20-20.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=20&id=20",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Ribbed"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_025-40_01": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-1.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=1",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_02": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-2.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=2",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_03": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-3.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=3",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_04": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-4.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_05": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-5.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=5",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_06": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-6.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=6",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_07": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-7.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=7",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_08": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-8.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=8",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_09": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-9.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=9",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_10": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-10.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=10",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_11": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-11.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=11",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_12": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-12.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=12",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_13": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-13.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=13",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_14": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-14.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=14",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_15": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-15.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=15",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_16": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-16.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=16",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_17": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-17.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=17",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_18": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-18.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=18",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_19": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-19.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=19",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_20": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-20.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=20",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_21": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-21.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=21",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_22": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-22.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=22",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_23": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-23.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=23",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_24": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-24.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=24",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_25": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-25.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=25",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_26": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-26.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=26",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_27": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-27.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=27",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_28": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-28.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=28",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_29": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-29.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=29",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_30": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-30.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=30",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_31": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-31.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=31",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_32": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-32.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=32",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_33": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-33.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=33",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_34": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-34.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=34",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_35": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-35.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=35",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_36": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-36.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=36",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_37": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-37.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=37",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_38": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-38.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=38",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_39": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-39.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=39",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_025-40_40": {
+      "image": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/40-40.png",
+      "animation_url": "ipfs://QmYbvrSYR7qzLpFqH3nK2D6xnX3Zd6W5ebca3YgXrJNq9L/?edition=40&id=40",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Snowfro × VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "025"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Snowpepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Normal"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {
@@ -28407,7 +30487,7 @@
     "433": "rare-10",
     "434": "rare-40",
     "435": "rare-5",
-    "436": "rare-10",
+    "436": "set_025-10_05",
     "437": "rare-10",
     "438": "rare-40",
     "439": "rare-40",
@@ -28419,7 +30499,7 @@
     "445": "rare-20",
     "446": "rare-40",
     "447": "rare-40",
-    "448": "rare-20",
+    "448": "set_025-20_09",
     "449": "rare-20",
     "450": "rare-40",
     "451": "rare-20",
@@ -28615,7 +30695,7 @@
     "641": "rare-40",
     "642": "rare-20",
     "643": "rare-40",
-    "644": "rare-40",
+    "644": "set_025-40_03",
     "645": "rare-40",
     "646": "rare-40",
     "647": "rare-40",
@@ -28806,7 +30886,7 @@
     "832": "rare-5",
     "833": "set_014-40_20",
     "834": "rare-20",
-    "835": "rare-5",
+    "835": "set_025-05_01",
     "836": "rare-40",
     "837": "rare-40",
     "838": "set_014-40_23",
@@ -28849,7 +30929,7 @@
     "875": "rare-40",
     "876": "set_011-10_03",
     "877": "rare-20",
-    "878": "rare-40",
+    "878": "set_025-40_36",
     "879": "set_006-10",
     "880": "rare-4",
     "881": "rare-20",
@@ -29253,7 +31333,7 @@
     "1279": "rare-40",
     "1280": "rare-40",
     "1281": "rare-40",
-    "1282": "rare-40",
+    "1282": "set_025-40_01",
     "1283": "rare-20",
     "1284": "rare-40",
     "1285": "rare-40",
@@ -29375,7 +31455,7 @@
     "1401": "rare-4",
     "1402": "rare-20",
     "1403": "rare-5",
-    "1404": "rare-20",
+    "1404": "set_025-20_20",
     "1405": "rare-40",
     "1406": "rare-40",
     "1407": "rare-40",
@@ -30461,7 +32541,7 @@
     "2487": "rare-40",
     "2488": "rare-40",
     "2489": "rare-20",
-    "2490": "rare-40",
+    "2490": "set_025-40_20",
     "2491": "rare-40",
     "2492": "rare-10",
     "2493": "rare-40",
@@ -30472,7 +32552,7 @@
     "2498": "set_010-20",
     "2499": "rare-40",
     "2500": "rare-40",
-    "2501": "rare-40",
+    "2501": "set_025-40_26",
     "2502": "rare-20",
     "2503": "set_001-40_21",
     "2504": "rare-4",
@@ -30591,7 +32671,7 @@
     "2617": "rare-20",
     "2618": "rare-20",
     "2619": "rare-40",
-    "2620": "rare-40",
+    "2620": "set_025-40_23",
     "2621": "rare-40",
     "2622": "rare-40",
     "2623": "set_010-40",
@@ -30725,7 +32805,7 @@
     "2751": "rare-40",
     "2752": "rare-20",
     "2753": "rare-4",
-    "2754": "rare-40",
+    "2754": "set_025-40_25",
     "2755": "rare-20",
     "2756": "rare-5",
     "2757": "rare-40",
@@ -30877,7 +32957,7 @@
     "2903": "rare-40",
     "2904": "rare-10",
     "2905": "rare-40",
-    "2906": "rare-10",
+    "2906": "set_025-10_09",
     "2907": "rare-40",
     "2908": "rare-40",
     "2909": "rare-20",
@@ -31208,7 +33288,7 @@
     "3234": "rare-40",
     "3235": "rare-20",
     "3236": "rare-40",
-    "3237": "rare-20",
+    "3237": "set_025-20_05",
     "3238": "rare-20",
     "3239": "rare-40",
     "3240": "rare-40",
@@ -31890,7 +33970,7 @@
     "3916": "rare-20",
     "3917": "rare-40",
     "3918": "rare-40",
-    "3919": "rare-20",
+    "3919": "set_025-20_16",
     "3920": "rare-20",
     "3921": "rare-40",
     "3922": "rare-10",
@@ -31946,7 +34026,7 @@
     "3972": "rare-20",
     "3973": "rare-20",
     "3974": "rare-4",
-    "3975": "rare-40",
+    "3975": "set_025-40_04",
     "3976": "rare-5",
     "3977": "rare-10",
     "3978": "rare-5",
@@ -32124,7 +34204,7 @@
     "4150": "rare-5",
     "4151": "rare-40",
     "4152": "set_023-04_04",
-    "4153": "rare-5",
+    "4153": "set_025-05_05",
     "4154": "rare-20",
     "4155": "rare-10",
     "4156": "rare-5",
@@ -32144,7 +34224,7 @@
     "4170": "rare-40",
     "4171": "rare-40",
     "4172": "rare-40",
-    "4173": "rare-10",
+    "4173": "set_025-10_03",
     "4174": "rare-40",
     "4175": "rare-20",
     "4176": "rare-10",
@@ -32249,7 +34329,7 @@
     "4275": "rare-40",
     "4276": "rare-10",
     "4277": "rare-20",
-    "4278": "rare-40",
+    "4278": "set_025-40_19",
     "4279": "rare-40",
     "4280": "rare-40",
     "4281": "rare-40",
@@ -32281,7 +34361,7 @@
     "4307": "rare-40",
     "4308": "rare-1",
     "4309": "rare-40",
-    "4310": "rare-40",
+    "4310": "set_025-40_30",
     "4311": "rare-40",
     "4312": "rare-20",
     "4313": "rare-20",
@@ -32452,7 +34532,7 @@
     "4478": "rare-40",
     "4479": "rare-20",
     "4480": "rare-40",
-    "4481": "rare-20",
+    "4481": "set_025-20_01",
     "4482": "rare-40",
     "4483": "rare-20",
     "4484": "set_023-40_01",
@@ -32560,7 +34640,7 @@
     "4586": "rare-5",
     "4587": "rare-40",
     "4588": "set_009-40",
-    "4589": "rare-40",
+    "4589": "set_025-40_35",
     "4590": "rare-40",
     "4591": "rare-20",
     "4592": "rare-40",
@@ -32955,7 +35035,7 @@
     "4981": "rare-4",
     "4982": "set_002-40",
     "4983": "rare-20",
-    "4984": "rare-40",
+    "4984": "set_025-40_39",
     "4985": "rare-4",
     "4986": "rare-20",
     "4987": "rare-20",
@@ -33278,7 +35358,7 @@
     "5304": "set_001-40_14",
     "5305": "rare-40",
     "5306": "rare-20",
-    "5307": "rare-20",
+    "5307": "set_025-20_07",
     "5308": "set_010-40",
     "5309": "rare-4",
     "5310": "rare-20",
@@ -33469,7 +35549,7 @@
     "5495": "rare-40",
     "5496": "rare-20",
     "5497": "set_009-20",
-    "5498": "rare-40",
+    "5498": "set_025-40_40",
     "5499": "rare-20",
     "5500": "set_012-20",
     "5501": "rare-20",
@@ -33477,7 +35557,7 @@
     "5503": "set_005-05_05",
     "5504": "set_020-10",
     "5505": "rare-40",
-    "5506": "rare-10",
+    "5506": "set_025-10_02",
     "5507": "rare-10",
     "5508": "rare-20",
     "5509": "rare-20",
@@ -33754,7 +35834,7 @@
     "5780": "rare-40",
     "5781": "rare-20",
     "5782": "set_012-20",
-    "5783": "rare-40",
+    "5783": "set_025-40_08",
     "5784": "rare-20",
     "5785": "rare-20",
     "5786": "rare-40",
@@ -33905,7 +35985,7 @@
     "5931": "rare-20",
     "5932": "rare-40",
     "5933": "rare-40",
-    "5934": "rare-40",
+    "5934": "set_025-40_16",
     "5935": "set_020-40",
     "5936": "rare-4",
     "5937": "rare-40",
@@ -34105,7 +36185,7 @@
     "6131": "rare-20",
     "6132": "set_006-40",
     "6133": "rare-20",
-    "6134": "rare-20",
+    "6134": "set_025-20_19",
     "6135": "set_011-20_17",
     "6136": "rare-10",
     "6137": "rare-10",
@@ -34482,7 +36562,7 @@
     "6508": "rare-40",
     "6509": "rare-40",
     "6510": "set_011-10_04",
-    "6511": "rare-40",
+    "6511": "set_025-40_37",
     "6512": "rare-40",
     "6513": "rare-40",
     "6514": "rare-40",
@@ -34490,7 +36570,7 @@
     "6516": "set_019-20_17",
     "6517": "rare-20",
     "6518": "rare-10",
-    "6519": "rare-40",
+    "6519": "set_025-40_38",
     "6520": "rare-40",
     "6521": "rare-40",
     "6522": "rare-10",
@@ -35081,7 +37161,7 @@
     "7107": "rare-40",
     "7108": "rare-40",
     "7109": "rare-20",
-    "7110": "rare-40",
+    "7110": "set_025-40_28",
     "7111": "rare-20",
     "7112": "rare-40",
     "7113": "rare-4",
@@ -35344,7 +37424,7 @@
     "7370": "rare-40",
     "7371": "rare-20",
     "7372": "set_018-05",
-    "7373": "rare-5",
+    "7373": "set_025-05_02",
     "7374": "rare-40",
     "7375": "set_024-40_26",
     "7376": "set_023-01_01",
@@ -36226,7 +38306,7 @@
     "8252": "rare-40",
     "8253": "rare-40",
     "8254": "rare-40",
-    "8255": "rare-20",
+    "8255": "set_025-20_08",
     "8256": "rare-40",
     "8257": "set_015-40_18",
     "8258": "rare-20",
@@ -36589,7 +38669,7 @@
     "8615": "rare-40",
     "8616": "rare-4",
     "8617": "rare-5",
-    "8618": "rare-40",
+    "8618": "set_025-40_15",
     "8619": "rare-20",
     "8620": "rare-10",
     "8621": "rare-40",
@@ -36703,7 +38783,7 @@
     "8729": "rare-40",
     "8730": "rare-40",
     "8731": "rare-5",
-    "8732": "rare-20",
+    "8732": "set_025-20_04",
     "8733": "rare-5",
     "8734": "rare-40",
     "8735": "set_023-40_13",
@@ -36740,7 +38820,7 @@
     "8766": "rare-5",
     "8767": "rare-40",
     "8768": "rare-10",
-    "8769": "rare-20",
+    "8769": "set_025-20_10",
     "8770": "rare-4",
     "8771": "rare-20",
     "8772": "rare-20",
@@ -36767,7 +38847,7 @@
     "8793": "rare-40",
     "8794": "rare-40",
     "8795": "rare-20",
-    "8796": "rare-20",
+    "8796": "set_025-20_17",
     "8797": "rare-4",
     "8798": "rare-40",
     "8799": "rare-10",
@@ -36845,7 +38925,7 @@
     "8871": "rare-20",
     "8872": "rare-40",
     "8873": "rare-40",
-    "8874": "rare-40",
+    "8874": "set_025-40_14",
     "8875": "set_021-20_09",
     "8876": "rare-40",
     "8877": "rare-40",
@@ -36861,7 +38941,7 @@
     "8887": "rare-40",
     "8888": "rare-40",
     "8889": "rare-20",
-    "8890": "rare-40",
+    "8890": "set_025-40_21",
     "8891": "rare-10",
     "8892": "rare-40",
     "8893": "rare-20",
@@ -37011,7 +39091,7 @@
     "9037": "rare-20",
     "9038": "rare-40",
     "9039": "set_023-20_11",
-    "9040": "rare-20",
+    "9040": "set_025-20_15",
     "9041": "rare-10",
     "9042": "rare-20",
     "9043": "rare-20",
@@ -37117,7 +39197,7 @@
     "9143": "rare-40",
     "9144": "rare-20",
     "9145": "rare-40",
-    "9146": "rare-40",
+    "9146": "set_025-40_22",
     "9147": "set_003-40",
     "9148": "rare-20",
     "9149": "rare-20",
@@ -37149,7 +39229,7 @@
     "9175": "rare-1",
     "9176": "rare-40",
     "9177": "rare-40",
-    "9178": "rare-10",
+    "9178": "set_025-10_01",
     "9179": "rare-5",
     "9180": "rare-4",
     "9181": "rare-40",
@@ -37246,7 +39326,7 @@
     "9272": "rare-5",
     "9273": "rare-40",
     "9274": "rare-20",
-    "9275": "rare-40",
+    "9275": "set_025-40_24",
     "9276": "rare-20",
     "9277": "rare-10",
     "9278": "rare-40",
@@ -37350,7 +39430,7 @@
     "9376": "rare-40",
     "9377": "rare-40",
     "9378": "rare-20",
-    "9379": "rare-40",
+    "9379": "set_025-40_10",
     "9380": "rare-40",
     "9381": "rare-4",
     "9382": "rare-40",
@@ -37767,7 +39847,7 @@
     "9793": "rare-20",
     "9794": "rare-40",
     "9795": "rare-20",
-    "9796": "rare-20",
+    "9796": "set_025-20_11",
     "9797": "set_004-20_12",
     "9798": "rare-20",
     "9799": "rare-5",
@@ -38049,7 +40129,7 @@
     "10075": "rare-20",
     "10076": "rare-40",
     "10077": "rare-40",
-    "10078": "rare-40",
+    "10078": "set_025-40_31",
     "10079": "rare-10",
     "10080": "rare-20",
     "10081": "rare-20",
@@ -38290,7 +40370,7 @@
     "10316": "rare-40",
     "10317": "set_018-40",
     "10318": "rare-40",
-    "10319": "rare-20",
+    "10319": "set_025-20_14",
     "10320": "rare-20",
     "10321": "rare-20",
     "10322": "rare-10",
@@ -38358,7 +40438,7 @@
     "10384": "rare-20",
     "10385": "rare-40",
     "10386": "set_024-40_06",
-    "10387": "rare-20",
+    "10387": "set_025-20_02",
     "10388": "rare-40",
     "10389": "rare-20",
     "10390": "rare-10",
@@ -38566,7 +40646,7 @@
     "10592": "set_014-05_01",
     "10593": "rare-5",
     "10594": "rare-5",
-    "10595": "rare-40",
+    "10595": "set_025-40_33",
     "10596": "rare-40",
     "10597": "rare-40",
     "10598": "set_016-40_32",
@@ -38597,7 +40677,7 @@
     "10623": "set_014-05_05",
     "10624": "set_017-20_01",
     "10625": "set_003-40",
-    "10626": "rare-40",
+    "10626": "set_025-40_02",
     "10627": "rare-5",
     "10628": "rare-40",
     "10629": "set_024-40_01",
@@ -38743,7 +40823,7 @@
     "10769": "rare-40",
     "10770": "rare-40",
     "10771": "rare-20",
-    "10772": "rare-4",
+    "10772": "set_025-04_03",
     "10773": "rare-40",
     "10774": "rare-20",
     "10775": "rare-40",
@@ -38772,12 +40852,12 @@
     "10798": "rare-20",
     "10799": "rare-40",
     "10800": "rare-40",
-    "10801": "rare-40",
+    "10801": "set_025-40_17",
     "10802": "rare-20",
     "10803": "rare-40",
     "10804": "rare-20",
     "10805": "rare-20",
-    "10806": "rare-20",
+    "10806": "set_025-20_06",
     "10807": "rare-40",
     "10808": "rare-40",
     "10809": "rare-20",
@@ -38833,7 +40913,7 @@
     "10859": "rare-40",
     "10860": "rare-20",
     "10861": "rare-5",
-    "10862": "rare-10",
+    "10862": "set_025-10_04",
     "10863": "set_019-40_38",
     "10864": "set_006-40",
     "10865": "set_003-40",
@@ -39014,7 +41094,7 @@
     "11040": "rare-5",
     "11041": "rare-40",
     "11042": "rare-40",
-    "11043": "rare-40",
+    "11043": "set_025-40_11",
     "11044": "rare-10",
     "11045": "set_018-40",
     "11046": "rare-20",
@@ -39103,7 +41183,7 @@
     "11129": "rare-5",
     "11130": "rare-10",
     "11131": "rare-40",
-    "11132": "rare-20",
+    "11132": "set_025-20_12",
     "11133": "rare-5",
     "11134": "rare-4",
     "11135": "rare-4",
@@ -39285,7 +41365,7 @@
     "11311": "rare-40",
     "11312": "rare-20",
     "11313": "rare-40",
-    "11314": "rare-40",
+    "11314": "set_025-40_18",
     "11315": "rare-20",
     "11316": "set_006-40",
     "11317": "rare-10",
@@ -39777,7 +41857,7 @@
     "11803": "rare-40",
     "11804": "set_005-40_12",
     "11805": "rare-40",
-    "11806": "rare-10",
+    "11806": "set_025-10_10",
     "11807": "rare-10",
     "11808": "rare-5",
     "11809": "rare-40",
@@ -40026,7 +42106,7 @@
     "12052": "rare-40",
     "12053": "rare-20",
     "12054": "rare-40",
-    "12055": "rare-40",
+    "12055": "set_025-40_07",
     "12056": "rare-40",
     "12057": "rare-5",
     "12058": "rare-40",
@@ -40210,7 +42290,7 @@
     "12236": "rare-20",
     "12237": "rare-20",
     "12238": "rare-40",
-    "12239": "rare-40",
+    "12239": "set_025-40_29",
     "12240": "rare-40",
     "12241": "rare-4",
     "12242": "rare-40",
@@ -40248,7 +42328,7 @@
     "12274": "rare-20",
     "12275": "rare-10",
     "12276": "rare-40",
-    "12277": "rare-10",
+    "12277": "set_025-10_07",
     "12278": "rare-40",
     "12279": "rare-40",
     "12280": "set_017-40_39",
@@ -40407,7 +42487,7 @@
     "12433": "rare-20",
     "12434": "rare-20",
     "12435": "set_011-20_05",
-    "12436": "rare-20",
+    "12436": "set_025-20_03",
     "12437": "rare-20",
     "12438": "set_008-05",
     "12439": "rare-20",
@@ -40547,7 +42627,7 @@
     "12573": "set_023-20_05",
     "12574": "rare-40",
     "12575": "rare-20",
-    "12576": "rare-4",
+    "12576": "set_025-04_01",
     "12577": "rare-40",
     "12578": "rare-40",
     "12579": "rare-40",
@@ -40660,7 +42740,7 @@
     "12686": "rare-20",
     "12687": "rare-5",
     "12688": "set_014-10_04",
-    "12689": "rare-5",
+    "12689": "set_025-05_03",
     "12690": "rare-40",
     "12691": "rare-40",
     "12692": "rare-4",
@@ -40698,7 +42778,7 @@
     "12724": "rare-40",
     "12725": "rare-20",
     "12726": "rare-20",
-    "12727": "rare-4",
+    "12727": "set_025-04_04",
     "12728": "rare-40",
     "12729": "rare-40",
     "12730": "rare-20",
@@ -40713,7 +42793,7 @@
     "12739": "rare-1",
     "12740": "rare-40",
     "12741": "rare-5",
-    "12742": "rare-40",
+    "12742": "set_025-40_27",
     "12743": "rare-40",
     "12744": "set_010-40",
     "12745": "rare-40",
@@ -41381,7 +43461,7 @@
     "13407": "rare-40",
     "13408": "rare-40",
     "13409": "rare-40",
-    "13410": "rare-40",
+    "13410": "set_025-40_32",
     "13411": "rare-10",
     "13412": "rare-4",
     "13413": "rare-40",
@@ -41465,7 +43545,7 @@
     "13491": "rare-20",
     "13492": "rare-20",
     "13493": "rare-40",
-    "13494": "rare-10",
+    "13494": "set_025-10_08",
     "13495": "rare-40",
     "13496": "rare-40",
     "13497": "rare-40",
@@ -41592,7 +43672,7 @@
     "13618": "rare-40",
     "13619": "rare-5",
     "13620": "set_002-40",
-    "13621": "rare-5",
+    "13621": "set_025-05_04",
     "13622": "rare-20",
     "13623": "set_021-40_13",
     "13624": "rare-40",
@@ -41944,7 +44024,7 @@
     "13970": "set_003-40",
     "13971": "set_011-40_03",
     "13972": "rare-40",
-    "13973": "rare-40",
+    "13973": "set_025-40_06",
     "13974": "rare-20",
     "13975": "rare-10",
     "13976": "set_019-40_05",
@@ -42071,7 +44151,7 @@
     "14097": "rare-40",
     "14098": "rare-10",
     "14099": "rare-40",
-    "14100": "rare-10",
+    "14100": "set_025-10_06",
     "14101": "rare-4",
     "14102": "rare-4",
     "14103": "rare-40",
@@ -42083,7 +44163,7 @@
     "14109": "rare-40",
     "14110": "rare-10",
     "14111": "rare-40",
-    "14112": "rare-4",
+    "14112": "set_025-04_02",
     "14113": "rare-10",
     "14114": "rare-40",
     "14115": "rare-40",
@@ -42093,7 +44173,7 @@
     "14119": "rare-40",
     "14120": "set_020-40",
     "14121": "rare-20",
-    "14122": "rare-40",
+    "14122": "set_025-40_13",
     "14123": "rare-20",
     "14124": "set_009-40",
     "14125": "rare-4",
@@ -42406,7 +44486,7 @@
     "14432": "rare-40",
     "14433": "rare-40",
     "14434": "rare-10",
-    "14435": "rare-40",
+    "14435": "set_025-40_34",
     "14436": "rare-40",
     "14437": "rare-4",
     "14438": "rare-40",
@@ -42702,7 +44782,7 @@
     "14728": "rare-40",
     "14729": "rare-10",
     "14730": "rare-20",
-    "14731": "rare-40",
+    "14731": "set_025-40_05",
     "14732": "rare-10",
     "14733": "rare-20",
     "14734": "set_013-40",
@@ -42766,7 +44846,7 @@
     "14792": "rare-20",
     "14793": "rare-20",
     "14794": "rare-40",
-    "14795": "rare-20",
+    "14795": "set_025-20_13",
     "14796": "rare-40",
     "14797": "rare-20",
     "14798": "rare-5",
@@ -42857,7 +44937,7 @@
     "14883": "rare-10",
     "14884": "rare-20",
     "14885": "rare-40",
-    "14886": "rare-40",
+    "14886": "set_025-40_12",
     "14887": "rare-40",
     "14888": "rare-40",
     "14889": "set_021-20_08",
@@ -43493,7 +45573,7 @@
     "15519": "rare-40",
     "15520": "rare-10",
     "15521": "rare-1",
-    "15522": "rare-40",
+    "15522": "set_025-40_09",
     "15523": "rare-40",
     "15524": "rare-40",
     "15525": "rare-20",
@@ -43840,7 +45920,7 @@
     "15866": "rare-40",
     "15867": "rare-40",
     "15868": "rare-10",
-    "15869": "rare-1",
+    "15869": "set_025-01_01",
     "15870": "rare-40",
     "15871": "rare-40",
     "15872": "rare-20",
@@ -43954,7 +46034,7 @@
     "15980": "rare-20",
     "15981": "rare-10",
     "15982": "rare-40",
-    "15983": "rare-20",
+    "15983": "set_025-20_18",
     "15984": "rare-40",
     "15985": "rare-5",
     "15986": "rare-10",

@@ -239,3 +239,13 @@ Full Script: `python3 randomize.py --seed "0x02c4d9c16e2067db2adc00454fe827b2dd1
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x01d46224aa2bbf9d71ef4eae8b28fefadbb0b7f8da84828ff9a8be5105877970_vvelcome home" --set 024`
+
+### Set `025`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1719102987438637423)
+- [Block & Block Hash (18465825)](https://etherscan.io/block/18465825): `0x222e47889fe81266a1b8a3e9f2e3641fcb49929472f042b686f1d18bbaba3a36`
+- [Salt](https://x.com/jalil_eth/status/1719103219341647889): `in 0xc2cb7...b9cd5 at 11338811, 0x96dC7...77660 made 0x059ed...7ac3a`
+- [Submissions](https://ipfs.io/ipfs/QmQeCNnvLSk1WPeMPE3RnWWYjJ7B5apfTeLENfeyUANzhm)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x222e47889fe81266a1b8a3e9f2e3641fcb49929472f042b686f1d18bbaba3a36_in 0xc2cb7...b9cd5 at 11338811, 0x96dC7...77660 made 0x059ed...7ac3a" --set 025`
