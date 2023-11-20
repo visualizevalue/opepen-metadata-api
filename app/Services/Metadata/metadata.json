@@ -30049,6 +30049,2086 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_028-01_01": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/1-sway/sway.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/1-sway/sway.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SWAY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_028-04_01": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/4-saunter/saunter-01.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/4-saunter/saunter-01.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SAUNTER"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_028-04_02": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/4-saunter/saunter-02.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/4-saunter/saunter-02.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SAUNTER"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_028-04_03": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/4-saunter/saunter-03.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/4-saunter/saunter-03.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SAUNTER"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_028-04_04": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/4-saunter/saunter-04.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/4-saunter/saunter-04.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SAUNTER"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_028-05_01": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-01.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-01.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "STRIDE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_028-05_02": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-02.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-02.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "STRIDE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_028-05_03": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-03.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-03.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "STRIDE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_028-05_04": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-04.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-04.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "STRIDE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_028-05_05": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-05.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/5-stride/stride-05.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "STRIDE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_028-10_01": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-01.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-01.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-10_02": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-02.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-02.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-10_03": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-03.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-03.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-10_04": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-04.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-04.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-10_05": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-05.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-05.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-10_06": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-06.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-06.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-10_07": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-07.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-07.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-10_08": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-08.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-08.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-10_09": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-09.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-09.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-10_10": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-10.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/10-sprint/sprint-10.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "SPRINT"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_028-20_01": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-01.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-01.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_02": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-02.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-02.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_03": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-03.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-03.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_04": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-04.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-04.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_05": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-05.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-05.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_06": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-06.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-06.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_07": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-07.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-07.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_08": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-08.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-08.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_09": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-09.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-09.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_10": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-10.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-10.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_11": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-11.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-11.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_12": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-12.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-12.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_13": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-13.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-13.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_14": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-14.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-14.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_15": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-15.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-15.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_16": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-16.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-16.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_17": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-17.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-17.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_18": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-18.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-18.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_19": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-19.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-19.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-20_20": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-20.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/20-tiptoe/tiptoe-20.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TIPTOE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_028-40_01": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-01.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-01.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_02": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-02.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-02.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_03": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-03.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-03.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_04": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-04.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-04.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_05": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-05.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-05.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_06": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-06.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-06.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_07": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-07.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-07.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_08": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-08.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-08.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_09": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-09.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-09.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_10": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-10.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-10.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_11": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-11.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-11.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_12": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-12.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-12.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_13": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-13.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-13.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_14": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-14.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-14.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_15": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-15.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-15.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_16": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-16.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-16.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_17": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-17.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-17.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_18": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-18.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-18.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_19": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-19.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-19.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_20": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-20.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-20.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_21": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-21.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-21.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_22": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-22.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-22.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_23": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-23.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-23.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_24": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-24.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-24.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_25": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-25.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-25.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_26": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-26.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-26.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_27": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-27.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-27.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_28": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-28.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-28.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_29": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-29.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-29.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_30": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-30.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-30.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_31": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-31.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-31.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_32": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-32.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-32.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_33": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-33.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-33.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_34": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-34.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-34.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_35": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-35.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-35.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_36": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-36.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-36.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_37": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-37.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-37.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_38": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-38.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-38.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_39": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-39.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-39.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_028-40_40": {
+      "image": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-40.svg",
+      "animation_url": "ipfs://QmRF2xqLxSZtwVRXvXN9hoMGvhd3mibokACbTuax3Q7F9P/40-walk/walk-40.svg",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Lors"
+        },
+        {
+          "trait_type": "Release",
+          "value": "028"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Stepepen"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "WALK"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {
@@ -30293,7 +32373,7 @@
     "239": "rare-40",
     "240": "rare-40",
     "241": "rare-40",
-    "242": "rare-40",
+    "242": "set_028-40_36",
     "243": "rare-40",
     "244": "rare-20",
     "245": "rare-10",
@@ -30313,7 +32393,7 @@
     "259": "rare-40",
     "260": "rare-20",
     "261": "rare-40",
-    "262": "rare-40",
+    "262": "set_028-40_02",
     "263": "rare-40",
     "264": "rare-40",
     "265": "rare-40",
@@ -30512,7 +32592,7 @@
     "458": "rare-20",
     "459": "rare-20",
     "460": "rare-10",
-    "461": "rare-40",
+    "461": "set_028-40_23",
     "462": "rare-10",
     "463": "rare-40",
     "464": "rare-20",
@@ -30543,7 +32623,7 @@
     "489": "rare-40",
     "490": "rare-1",
     "491": "rare-20",
-    "492": "rare-4",
+    "492": "set_028-04_04",
     "493": "rare-40",
     "494": "rare-20",
     "495": "rare-10",
@@ -30615,7 +32695,7 @@
     "561": "rare-40",
     "562": "rare-1",
     "563": "set_018-10",
-    "564": "rare-10",
+    "564": "set_028-10_07",
     "565": "rare-40",
     "566": "rare-40",
     "567": "rare-40",
@@ -30634,7 +32714,7 @@
     "580": "rare-20",
     "581": "rare-40",
     "582": "rare-40",
-    "583": "rare-40",
+    "583": "set_028-40_21",
     "584": "rare-20",
     "585": "rare-40",
     "586": "rare-40",
@@ -30892,7 +32972,7 @@
     "838": "set_014-40_23",
     "839": "rare-20",
     "840": "rare-40",
-    "841": "rare-40",
+    "841": "set_028-40_22",
     "842": "rare-4",
     "843": "rare-40",
     "844": "rare-40",
@@ -31238,7 +33318,7 @@
     "1184": "rare-40",
     "1185": "rare-40",
     "1186": "rare-40",
-    "1187": "rare-1",
+    "1187": "set_028-01_01",
     "1188": "rare-40",
     "1189": "set_016-05_01",
     "1190": "rare-20",
@@ -31379,7 +33459,7 @@
     "1325": "rare-40",
     "1326": "rare-40",
     "1327": "rare-40",
-    "1328": "rare-40",
+    "1328": "set_028-40_16",
     "1329": "rare-20",
     "1330": "rare-20",
     "1331": "rare-20",
@@ -32118,7 +34198,7 @@
     "2064": "rare-20",
     "2065": "set_016-10_05",
     "2066": "rare-20",
-    "2067": "rare-40",
+    "2067": "set_028-40_05",
     "2068": "rare-10",
     "2069": "set_020-20",
     "2070": "rare-20",
@@ -32139,7 +34219,7 @@
     "2085": "set_017-40_13",
     "2086": "rare-40",
     "2087": "rare-40",
-    "2088": "rare-40",
+    "2088": "set_028-40_13",
     "2089": "rare-40",
     "2090": "rare-40",
     "2091": "rare-40",
@@ -33553,7 +35633,7 @@
     "3499": "rare-40",
     "3500": "rare-40",
     "3501": "rare-40",
-    "3502": "rare-20",
+    "3502": "set_028-20_12",
     "3503": "rare-40",
     "3504": "rare-40",
     "3505": "rare-40",
@@ -33671,7 +35751,7 @@
     "3617": "rare-20",
     "3618": "rare-20",
     "3619": "rare-5",
-    "3620": "rare-10",
+    "3620": "set_028-10_02",
     "3621": "rare-40",
     "3622": "rare-40",
     "3623": "rare-20",
@@ -33766,7 +35846,7 @@
     "3712": "rare-40",
     "3713": "set_014-40_02",
     "3714": "rare-4",
-    "3715": "rare-40",
+    "3715": "set_028-40_01",
     "3716": "rare-20",
     "3717": "rare-40",
     "3718": "rare-40",
@@ -34237,7 +36317,7 @@
     "4183": "rare-10",
     "4184": "rare-40",
     "4185": "rare-4",
-    "4186": "rare-40",
+    "4186": "set_028-40_27",
     "4187": "rare-20",
     "4188": "rare-40",
     "4189": "rare-10",
@@ -34552,7 +36632,7 @@
     "4498": "rare-40",
     "4499": "rare-10",
     "4500": "rare-40",
-    "4501": "rare-10",
+    "4501": "set_028-10_08",
     "4502": "rare-40",
     "4503": "rare-5",
     "4504": "rare-10",
@@ -34647,7 +36727,7 @@
     "4593": "rare-40",
     "4594": "rare-5",
     "4595": "rare-4",
-    "4596": "rare-20",
+    "4596": "set_028-20_18",
     "4597": "rare-20",
     "4598": "rare-40",
     "4599": "rare-10",
@@ -34723,7 +36803,7 @@
     "4669": "rare-40",
     "4670": "set_021-04_04",
     "4671": "rare-40",
-    "4672": "rare-40",
+    "4672": "set_028-40_20",
     "4673": "rare-40",
     "4674": "rare-40",
     "4675": "rare-40",
@@ -35404,7 +37484,7 @@
     "5350": "rare-40",
     "5351": "rare-40",
     "5352": "rare-40",
-    "5353": "rare-20",
+    "5353": "set_028-20_16",
     "5354": "rare-40",
     "5355": "rare-10",
     "5356": "rare-40",
@@ -35467,7 +37547,7 @@
     "5413": "rare-40",
     "5414": "rare-40",
     "5415": "rare-40",
-    "5416": "rare-40",
+    "5416": "set_028-40_14",
     "5417": "rare-20",
     "5418": "set_016-20_07",
     "5419": "rare-20",
@@ -35560,7 +37640,7 @@
     "5506": "set_025-10_02",
     "5507": "rare-10",
     "5508": "rare-20",
-    "5509": "rare-20",
+    "5509": "set_028-20_02",
     "5510": "rare-40",
     "5511": "rare-40",
     "5512": "rare-40",
@@ -35675,7 +37755,7 @@
     "5621": "rare-20",
     "5622": "rare-20",
     "5623": "rare-10",
-    "5624": "rare-40",
+    "5624": "set_028-40_37",
     "5625": "rare-10",
     "5626": "rare-40",
     "5627": "rare-20",
@@ -35846,7 +37926,7 @@
     "5792": "rare-10",
     "5793": "set_008-40",
     "5794": "rare-40",
-    "5795": "rare-20",
+    "5795": "set_028-20_10",
     "5796": "set_008-20",
     "5797": "rare-10",
     "5798": "rare-40",
@@ -35883,7 +37963,7 @@
     "5829": "set_003-20",
     "5830": "rare-40",
     "5831": "rare-40",
-    "5832": "rare-5",
+    "5832": "set_028-05_02",
     "5833": "rare-40",
     "5834": "rare-10",
     "5835": "rare-20",
@@ -35906,7 +37986,7 @@
     "5852": "rare-40",
     "5853": "rare-10",
     "5854": "rare-40",
-    "5855": "rare-40",
+    "5855": "set_028-40_29",
     "5856": "rare-40",
     "5857": "rare-10",
     "5858": "rare-20",
@@ -36241,7 +38321,7 @@
     "6187": "rare-40",
     "6188": "rare-40",
     "6189": "rare-40",
-    "6190": "rare-40",
+    "6190": "set_028-40_15",
     "6191": "rare-40",
     "6192": "rare-20",
     "6193": "rare-40",
@@ -36288,7 +38368,7 @@
     "6234": "rare-4",
     "6235": "rare-40",
     "6236": "rare-20",
-    "6237": "rare-40",
+    "6237": "set_028-40_28",
     "6238": "rare-20",
     "6239": "rare-20",
     "6240": "rare-20",
@@ -36440,7 +38520,7 @@
     "6386": "rare-20",
     "6387": "set_023-20_19",
     "6388": "rare-20",
-    "6389": "rare-20",
+    "6389": "set_028-20_19",
     "6390": "rare-40",
     "6391": "rare-20",
     "6392": "rare-20",
@@ -36686,11 +38766,11 @@
     "6632": "rare-5",
     "6633": "rare-40",
     "6634": "rare-40",
-    "6635": "rare-40",
+    "6635": "set_028-40_34",
     "6636": "rare-40",
     "6637": "rare-10",
     "6638": "rare-40",
-    "6639": "rare-10",
+    "6639": "set_028-10_06",
     "6640": "rare-20",
     "6641": "rare-20",
     "6642": "rare-10",
@@ -36732,7 +38812,7 @@
     "6678": "set_016-40_09",
     "6679": "rare-40",
     "6680": "rare-5",
-    "6681": "rare-4",
+    "6681": "set_028-04_01",
     "6682": "set_024-40_07",
     "6683": "rare-20",
     "6684": "rare-1",
@@ -36776,7 +38856,7 @@
     "6722": "rare-20",
     "6723": "rare-40",
     "6724": "rare-1",
-    "6725": "rare-20",
+    "6725": "set_028-20_14",
     "6726": "rare-10",
     "6727": "rare-40",
     "6728": "rare-40",
@@ -36867,7 +38947,7 @@
     "6813": "rare-20",
     "6814": "rare-40",
     "6815": "rare-20",
-    "6816": "rare-40",
+    "6816": "set_028-40_09",
     "6817": "rare-20",
     "6818": "rare-10",
     "6819": "rare-40",
@@ -37182,7 +39262,7 @@
     "7128": "rare-10",
     "7129": "rare-10",
     "7130": "rare-20",
-    "7131": "rare-4",
+    "7131": "set_028-04_03",
     "7132": "set_012-40",
     "7133": "rare-10",
     "7134": "rare-40",
@@ -37560,7 +39640,7 @@
     "7506": "rare-20",
     "7507": "rare-20",
     "7508": "set_016-20_13",
-    "7509": "rare-40",
+    "7509": "set_028-40_24",
     "7510": "rare-40",
     "7511": "rare-40",
     "7512": "rare-4",
@@ -37596,7 +39676,7 @@
     "7542": "rare-10",
     "7543": "rare-40",
     "7544": "rare-40",
-    "7545": "rare-20",
+    "7545": "set_028-20_20",
     "7546": "rare-5",
     "7547": "set_011-40_39",
     "7548": "rare-40",
@@ -37605,7 +39685,7 @@
     "7551": "rare-40",
     "7552": "rare-40",
     "7553": "rare-20",
-    "7554": "rare-10",
+    "7554": "set_028-10_01",
     "7555": "rare-40",
     "7556": "rare-20",
     "7557": "set_022-40_02",
@@ -37826,7 +39906,7 @@
     "7772": "rare-4",
     "7773": "rare-40",
     "7774": "rare-40",
-    "7775": "rare-10",
+    "7775": "set_028-10_10",
     "7776": "set_001-40_30",
     "7777": "rare-40",
     "7778": "rare-20",
@@ -38238,7 +40318,7 @@
     "8184": "rare-40",
     "8185": "rare-40",
     "8186": "rare-4",
-    "8187": "rare-40",
+    "8187": "set_028-40_39",
     "8188": "rare-40",
     "8189": "rare-40",
     "8190": "rare-20",
@@ -38635,7 +40715,7 @@
     "8581": "rare-40",
     "8582": "rare-5",
     "8583": "rare-40",
-    "8584": "rare-20",
+    "8584": "set_028-20_04",
     "8585": "rare-20",
     "8586": "rare-40",
     "8587": "rare-40",
@@ -39015,7 +41095,7 @@
     "8961": "set_018-40",
     "8962": "rare-10",
     "8963": "rare-40",
-    "8964": "rare-10",
+    "8964": "set_028-10_03",
     "8965": "rare-20",
     "8966": "rare-40",
     "8967": "rare-40",
@@ -39088,7 +41168,7 @@
     "9034": "rare-10",
     "9035": "rare-5",
     "9036": "rare-10",
-    "9037": "rare-20",
+    "9037": "set_028-20_15",
     "9038": "rare-40",
     "9039": "set_023-20_11",
     "9040": "set_025-20_15",
@@ -39133,7 +41213,7 @@
     "9079": "rare-10",
     "9080": "rare-40",
     "9081": "rare-40",
-    "9082": "rare-4",
+    "9082": "set_028-04_02",
     "9083": "rare-20",
     "9084": "rare-20",
     "9085": "rare-4",
@@ -39174,7 +41254,7 @@
     "9120": "rare-40",
     "9121": "rare-10",
     "9122": "rare-10",
-    "9123": "rare-20",
+    "9123": "set_028-20_09",
     "9124": "set_003-20",
     "9125": "set_019-40_10",
     "9126": "rare-40",
@@ -39354,7 +41434,7 @@
     "9300": "rare-40",
     "9301": "rare-20",
     "9302": "rare-40",
-    "9303": "rare-40",
+    "9303": "set_028-40_25",
     "9304": "rare-20",
     "9305": "rare-40",
     "9306": "set_013-40",
@@ -39526,7 +41606,7 @@
     "9472": "rare-20",
     "9473": "rare-20",
     "9474": "rare-40",
-    "9475": "rare-20",
+    "9475": "set_028-20_01",
     "9476": "rare-20",
     "9477": "rare-40",
     "9478": "rare-40",
@@ -39586,7 +41666,7 @@
     "9532": "set_022-01_01",
     "9533": "rare-10",
     "9534": "set_005-40_22",
-    "9535": "rare-40",
+    "9535": "set_028-40_18",
     "9536": "rare-40",
     "9537": "rare-40",
     "9538": "rare-40",
@@ -39600,7 +41680,7 @@
     "9546": "rare-10",
     "9547": "rare-40",
     "9548": "rare-4",
-    "9549": "rare-10",
+    "9549": "set_028-10_04",
     "9550": "rare-40",
     "9551": "rare-40",
     "9552": "rare-40",
@@ -39752,7 +41832,7 @@
     "9698": "rare-20",
     "9699": "rare-40",
     "9700": "rare-40",
-    "9701": "rare-40",
+    "9701": "set_028-40_32",
     "9702": "rare-10",
     "9703": "set_007-10",
     "9704": "rare-5",
@@ -40285,7 +42365,7 @@
     "10231": "rare-40",
     "10232": "rare-40",
     "10233": "rare-20",
-    "10234": "rare-40",
+    "10234": "set_028-40_10",
     "10235": "rare-20",
     "10236": "rare-5",
     "10237": "rare-20",
@@ -40320,14 +42400,14 @@
     "10266": "rare-40",
     "10267": "rare-5",
     "10268": "rare-5",
-    "10269": "rare-20",
+    "10269": "set_028-20_08",
     "10270": "rare-40",
     "10271": "rare-40",
     "10272": "rare-20",
     "10273": "rare-10",
     "10274": "set_015-10_02",
     "10275": "rare-20",
-    "10276": "rare-40",
+    "10276": "set_028-40_12",
     "10277": "rare-20",
     "10278": "rare-40",
     "10279": "rare-40",
@@ -40380,7 +42460,7 @@
     "10326": "rare-5",
     "10327": "set_011-20_12",
     "10328": "rare-20",
-    "10329": "rare-40",
+    "10329": "set_028-40_26",
     "10330": "rare-40",
     "10331": "set_007-20",
     "10332": "rare-40",
@@ -40611,7 +42691,7 @@
     "10557": "rare-40",
     "10558": "rare-40",
     "10559": "rare-10",
-    "10560": "rare-40",
+    "10560": "set_028-40_19",
     "10561": "rare-40",
     "10562": "rare-20",
     "10563": "rare-40",
@@ -40671,14 +42751,14 @@
     "10617": "rare-20",
     "10618": "rare-40",
     "10619": "set_003-20",
-    "10620": "rare-10",
+    "10620": "set_028-10_09",
     "10621": "rare-40",
     "10622": "rare-10",
     "10623": "set_014-05_05",
     "10624": "set_017-20_01",
     "10625": "set_003-40",
     "10626": "set_025-40_02",
-    "10627": "rare-5",
+    "10627": "set_028-05_01",
     "10628": "rare-40",
     "10629": "set_024-40_01",
     "10630": "rare-40",
@@ -40710,7 +42790,7 @@
     "10656": "rare-4",
     "10657": "set_013-40",
     "10658": "rare-40",
-    "10659": "rare-20",
+    "10659": "set_028-20_11",
     "10660": "rare-40",
     "10661": "rare-20",
     "10662": "rare-20",
@@ -40958,7 +43038,7 @@
     "10904": "rare-40",
     "10905": "rare-40",
     "10906": "rare-10",
-    "10907": "rare-40",
+    "10907": "set_028-40_07",
     "10908": "rare-10",
     "10909": "rare-40",
     "10910": "rare-10",
@@ -41089,7 +43169,7 @@
     "11035": "set_011-10_08",
     "11036": "rare-20",
     "11037": "rare-4",
-    "11038": "rare-40",
+    "11038": "set_028-40_08",
     "11039": "rare-40",
     "11040": "rare-5",
     "11041": "rare-40",
@@ -41200,7 +43280,7 @@
     "11146": "rare-20",
     "11147": "rare-40",
     "11148": "rare-20",
-    "11149": "rare-10",
+    "11149": "set_028-10_05",
     "11150": "rare-40",
     "11151": "set_009-05",
     "11152": "rare-40",
@@ -41313,7 +43393,7 @@
     "11259": "rare-40",
     "11260": "rare-20",
     "11261": "rare-40",
-    "11262": "rare-40",
+    "11262": "set_028-40_40",
     "11263": "rare-40",
     "11264": "rare-5",
     "11265": "set_024-20_01",
@@ -41691,7 +43771,7 @@
     "11637": "rare-40",
     "11638": "rare-5",
     "11639": "rare-40",
-    "11640": "rare-5",
+    "11640": "set_028-05_05",
     "11641": "rare-40",
     "11642": "rare-10",
     "11643": "rare-40",
@@ -42184,7 +44264,7 @@
     "12130": "rare-4",
     "12131": "rare-1",
     "12132": "rare-40",
-    "12133": "rare-40",
+    "12133": "set_028-40_33",
     "12134": "rare-20",
     "12135": "rare-40",
     "12136": "rare-40",
@@ -42457,7 +44537,7 @@
     "12403": "rare-4",
     "12404": "rare-40",
     "12405": "rare-40",
-    "12406": "rare-5",
+    "12406": "set_028-05_04",
     "12407": "rare-40",
     "12408": "rare-4",
     "12409": "rare-20",
@@ -43131,7 +45211,7 @@
     "13077": "rare-40",
     "13078": "rare-20",
     "13079": "rare-10",
-    "13080": "rare-40",
+    "13080": "set_028-40_06",
     "13081": "set_017-40_08",
     "13082": "rare-40",
     "13083": "rare-40",
@@ -43192,7 +45272,7 @@
     "13138": "rare-5",
     "13139": "rare-20",
     "13140": "set_015-40_27",
-    "13141": "rare-5",
+    "13141": "set_028-05_03",
     "13142": "rare-40",
     "13143": "rare-40",
     "13144": "rare-10",
@@ -43241,7 +45321,7 @@
     "13187": "rare-40",
     "13188": "rare-40",
     "13189": "rare-4",
-    "13190": "rare-20",
+    "13190": "set_028-20_03",
     "13191": "set_004-20_01",
     "13192": "set_021-20_03",
     "13193": "rare-40",
@@ -43631,7 +45711,7 @@
     "13577": "rare-4",
     "13578": "rare-20",
     "13579": "rare-20",
-    "13580": "rare-20",
+    "13580": "set_028-20_06",
     "13581": "rare-40",
     "13582": "rare-40",
     "13583": "rare-20",
@@ -44123,7 +46203,7 @@
     "14069": "rare-40",
     "14070": "rare-40",
     "14071": "set_020-40",
-    "14072": "rare-40",
+    "14072": "set_028-40_04",
     "14073": "rare-40",
     "14074": "rare-10",
     "14075": "rare-5",
@@ -44230,7 +46310,7 @@
     "14176": "rare-10",
     "14177": "rare-20",
     "14178": "rare-40",
-    "14179": "rare-40",
+    "14179": "set_028-40_30",
     "14180": "set_011-40_31",
     "14181": "rare-20",
     "14182": "rare-40",
@@ -44487,7 +46567,7 @@
     "14433": "rare-40",
     "14434": "rare-10",
     "14435": "set_025-40_34",
-    "14436": "rare-40",
+    "14436": "set_028-40_31",
     "14437": "rare-4",
     "14438": "rare-40",
     "14439": "rare-40",
@@ -44551,7 +46631,7 @@
     "14497": "set_005-04_02",
     "14498": "rare-20",
     "14499": "rare-4",
-    "14500": "rare-40",
+    "14500": "set_028-40_11",
     "14501": "rare-10",
     "14502": "rare-40",
     "14503": "set_008-40",
@@ -44694,7 +46774,7 @@
     "14640": "rare-5",
     "14641": "rare-10",
     "14642": "rare-40",
-    "14643": "rare-40",
+    "14643": "set_028-40_17",
     "14644": "rare-40",
     "14645": "rare-40",
     "14646": "set_016-05_04",
@@ -44781,7 +46861,7 @@
     "14727": "rare-5",
     "14728": "rare-40",
     "14729": "rare-10",
-    "14730": "rare-20",
+    "14730": "set_028-20_05",
     "14731": "set_025-40_05",
     "14732": "rare-10",
     "14733": "rare-20",
@@ -44884,7 +46964,7 @@
     "14830": "rare-10",
     "14831": "set_005-40_36",
     "14832": "rare-40",
-    "14833": "rare-40",
+    "14833": "set_028-40_35",
     "14834": "rare-40",
     "14835": "rare-10",
     "14836": "rare-40",
@@ -45217,7 +47297,7 @@
     "15163": "rare-40",
     "15164": "set_016-40_22",
     "15165": "rare-20",
-    "15166": "rare-20",
+    "15166": "set_028-20_13",
     "15167": "rare-40",
     "15168": "set_011-10_01",
     "15169": "rare-40",
@@ -45395,7 +47475,7 @@
     "15341": "rare-20",
     "15342": "rare-40",
     "15343": "rare-20",
-    "15344": "rare-20",
+    "15344": "set_028-20_17",
     "15345": "rare-40",
     "15346": "rare-40",
     "15347": "set_016-40_36",
@@ -45425,7 +47505,7 @@
     "15371": "rare-40",
     "15372": "rare-40",
     "15373": "rare-20",
-    "15374": "rare-20",
+    "15374": "set_028-20_07",
     "15375": "rare-40",
     "15376": "rare-40",
     "15377": "rare-40",
@@ -45661,7 +47741,7 @@
     "15607": "rare-40",
     "15608": "rare-40",
     "15609": "rare-10",
-    "15610": "rare-40",
+    "15610": "set_028-40_38",
     "15611": "rare-40",
     "15612": "rare-20",
     "15613": "rare-10",
@@ -45935,7 +48015,7 @@
     "15881": "rare-40",
     "15882": "rare-40",
     "15883": "rare-10",
-    "15884": "rare-40",
+    "15884": "set_028-40_03",
     "15885": "rare-10",
     "15886": "rare-40",
     "15887": "set_002-40",

@@ -249,3 +249,17 @@ Full Script: `python3 randomize.py --seed "0x01d46224aa2bbf9d71ef4eae8b28fefadbb
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x222e47889fe81266a1b8a3e9f2e3641fcb49929472f042b686f1d18bbaba3a36_in 0xc2cb7...b9cd5 at 11338811, 0x96dC7...77660 made 0x059ed...7ac3a" --set 025`
+
+### Set `026`
+
+### Set `027`
+
+### Set `028`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1726640731740344523)
+- [Block & Block Hash (18614355)](https://etherscan.io/block/18614355): `0x1bf77b99fbcf2562b2afff5785d6d4fc84055ac4e41cc5e2ddf6dbc2951587e3`
+- [Salt](https://x.com/jalil_eth/status/1726640736144327071): `tvvo steps forward;; one step back;`
+- [Submissions](https://ipfs.io/ipfs/QmaQT6vU8DLKYt8bY6Kyof4ePyxyKKcxdKYZBisv3imzpW)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x1bf77b99fbcf2562b2afff5785d6d4fc84055ac4e41cc5e2ddf6dbc2951587e3_tvvo steps forward;; one step back;" --set 028`
