@@ -71,6 +71,8 @@ export default class MetadataParser {
       image: this.getAttribute('image', definition) as string,
       image_dark: this.getAttribute('image_dark', definition) as string,
       animation_url: this.getAttribute('animation_url', definition) as string,
+      embed_url: this.getAttribute('embed_url', definition) as string,
+      download_url: this.getAttribute('download_url', definition) as string,
       attributes: [
         ...this.getAttribute('attributes', definition) as Attribute[],
         {

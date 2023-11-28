@@ -30052,7 +30052,9 @@
     },
     "set_028-01_01": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/1-sway/sway.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/1-sway/sway.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sway.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sway.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/1-sway/sway.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30078,7 +30080,9 @@
     },
     "set_028-04_01": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-01.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-01.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/saunter-01.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/saunter-01.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-01.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30104,7 +30108,9 @@
     },
     "set_028-04_02": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-02.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-02.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/saunter-02.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/saunter-02.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-02.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30130,7 +30136,9 @@
     },
     "set_028-04_03": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-03.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-03.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/saunter-03.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/saunter-03.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-03.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30156,7 +30164,9 @@
     },
     "set_028-04_04": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-04.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-04.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/saunter-04.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/saunter-04.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/4-saunter/saunter-04.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30182,7 +30192,9 @@
     },
     "set_028-05_01": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-01.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-01.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-01.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-01.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-01.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30208,7 +30220,9 @@
     },
     "set_028-05_02": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-02.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-02.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-02.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-02.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-02.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30234,7 +30248,9 @@
     },
     "set_028-05_03": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-03.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-03.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-03.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-03.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-03.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30260,7 +30276,9 @@
     },
     "set_028-05_04": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-04.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-04.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-04.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-04.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-04.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30286,7 +30304,9 @@
     },
     "set_028-05_05": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-05.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-05.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-05.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/stride-05.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/5-stride/stride-05.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30312,7 +30332,9 @@
     },
     "set_028-10_01": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-01.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-01.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-01.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-01.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-01.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30338,7 +30360,9 @@
     },
     "set_028-10_02": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-02.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-02.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-02.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-02.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-02.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30364,7 +30388,9 @@
     },
     "set_028-10_03": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-03.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-03.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-03.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-03.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-03.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30390,7 +30416,9 @@
     },
     "set_028-10_04": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-04.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-04.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-04.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-04.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-04.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30416,7 +30444,9 @@
     },
     "set_028-10_05": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-05.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-05.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-05.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-05.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-05.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30442,7 +30472,9 @@
     },
     "set_028-10_06": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-06.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-06.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-06.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-06.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-06.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30468,7 +30500,9 @@
     },
     "set_028-10_07": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-07.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-07.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-07.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-07.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-07.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30494,7 +30528,9 @@
     },
     "set_028-10_08": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-08.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-08.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-08.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-08.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-08.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30520,7 +30556,9 @@
     },
     "set_028-10_09": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-09.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-09.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-09.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-09.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-09.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30546,7 +30584,9 @@
     },
     "set_028-10_10": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-10.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-10.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-10.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/sprint-10.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/10-sprint/sprint-10.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30572,7 +30612,9 @@
     },
     "set_028-20_01": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-01.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-01.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-01.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-01.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-01.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30598,7 +30640,9 @@
     },
     "set_028-20_02": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-02.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-02.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-02.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-02.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-02.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30624,7 +30668,9 @@
     },
     "set_028-20_03": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-03.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-03.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-03.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-03.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-03.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30650,7 +30696,9 @@
     },
     "set_028-20_04": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-04.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-04.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-04.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-04.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-04.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30676,7 +30724,9 @@
     },
     "set_028-20_05": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-05.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-05.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-05.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-05.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-05.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30702,7 +30752,9 @@
     },
     "set_028-20_06": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-06.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-06.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-06.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-06.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-06.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30728,7 +30780,9 @@
     },
     "set_028-20_07": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-07.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-07.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-07.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-07.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-07.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30754,7 +30808,9 @@
     },
     "set_028-20_08": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-08.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-08.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-08.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-08.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-08.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30780,7 +30836,9 @@
     },
     "set_028-20_09": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-09.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-09.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-09.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-09.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-09.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30806,7 +30864,9 @@
     },
     "set_028-20_10": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-10.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-10.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-10.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-10.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-10.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30832,7 +30892,9 @@
     },
     "set_028-20_11": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-11.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-11.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-11.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-11.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-11.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30858,7 +30920,9 @@
     },
     "set_028-20_12": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-12.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-12.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-12.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-12.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-12.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30884,7 +30948,9 @@
     },
     "set_028-20_13": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-13.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-13.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-13.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-13.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-13.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30910,7 +30976,9 @@
     },
     "set_028-20_14": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-14.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-14.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-14.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-14.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-14.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30936,7 +31004,9 @@
     },
     "set_028-20_15": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-15.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-15.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-15.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-15.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-15.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30962,7 +31032,9 @@
     },
     "set_028-20_16": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-16.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-16.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-16.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-16.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-16.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -30988,7 +31060,9 @@
     },
     "set_028-20_17": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-17.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-17.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-17.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-17.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-17.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31014,7 +31088,9 @@
     },
     "set_028-20_18": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-18.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-18.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-18.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-18.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-18.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31040,7 +31116,9 @@
     },
     "set_028-20_19": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-19.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-19.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-19.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-19.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-19.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31066,7 +31144,9 @@
     },
     "set_028-20_20": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-20.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-20.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-20.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/tiptoe-20.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/20-tiptoe/tiptoe-20.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31092,7 +31172,9 @@
     },
     "set_028-40_01": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-01.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-01.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-01.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-01.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-01.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31118,7 +31200,9 @@
     },
     "set_028-40_02": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-02.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-02.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-02.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-02.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-02.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31144,7 +31228,9 @@
     },
     "set_028-40_03": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-03.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-03.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-03.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-03.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-03.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31170,7 +31256,9 @@
     },
     "set_028-40_04": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-04.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-04.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-04.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-04.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-04.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31196,7 +31284,9 @@
     },
     "set_028-40_05": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-05.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-05.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-05.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-05.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-05.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31222,7 +31312,9 @@
     },
     "set_028-40_06": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-06.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-06.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-06.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-06.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-06.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31248,7 +31340,9 @@
     },
     "set_028-40_07": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-07.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-07.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-07.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-07.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-07.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31274,7 +31368,9 @@
     },
     "set_028-40_08": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-08.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-08.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-08.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-08.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-08.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31300,7 +31396,9 @@
     },
     "set_028-40_09": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-09.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-09.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-09.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-09.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-09.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31326,7 +31424,9 @@
     },
     "set_028-40_10": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-10.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-10.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-10.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-10.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-10.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31352,7 +31452,9 @@
     },
     "set_028-40_11": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-11.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-11.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-11.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-11.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-11.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31378,7 +31480,9 @@
     },
     "set_028-40_12": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-12.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-12.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-12.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-12.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-12.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31404,7 +31508,9 @@
     },
     "set_028-40_13": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-13.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-13.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-13.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-13.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-13.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31430,7 +31536,9 @@
     },
     "set_028-40_14": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-14.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-14.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-14.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-14.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-14.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31456,7 +31564,9 @@
     },
     "set_028-40_15": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-15.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-15.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-15.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-15.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-15.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31482,7 +31592,9 @@
     },
     "set_028-40_16": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-16.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-16.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-16.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-16.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-16.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31508,7 +31620,9 @@
     },
     "set_028-40_17": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-17.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-17.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-17.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-17.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-17.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31534,7 +31648,9 @@
     },
     "set_028-40_18": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-18.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-18.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-18.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-18.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-18.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31560,7 +31676,9 @@
     },
     "set_028-40_19": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-19.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-19.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-19.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-19.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-19.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31586,7 +31704,9 @@
     },
     "set_028-40_20": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-20.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-20.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-20.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-20.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-20.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31612,7 +31732,9 @@
     },
     "set_028-40_21": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-21.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-21.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-21.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-21.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-21.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31638,7 +31760,9 @@
     },
     "set_028-40_22": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-22.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-22.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-22.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-22.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-22.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31664,7 +31788,9 @@
     },
     "set_028-40_23": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-23.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-23.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-23.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-23.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-23.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31690,7 +31816,9 @@
     },
     "set_028-40_24": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-24.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-24.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-24.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-24.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-24.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31716,7 +31844,9 @@
     },
     "set_028-40_25": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-25.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-25.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-25.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-25.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-25.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31742,7 +31872,9 @@
     },
     "set_028-40_26": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-26.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-26.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-26.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-26.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-26.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31768,7 +31900,9 @@
     },
     "set_028-40_27": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-27.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-27.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-27.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-27.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-27.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31794,7 +31928,9 @@
     },
     "set_028-40_28": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-28.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-28.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-28.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-28.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-28.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31820,7 +31956,9 @@
     },
     "set_028-40_29": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-29.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-29.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-29.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-29.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-29.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31846,7 +31984,9 @@
     },
     "set_028-40_30": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-30.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-30.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-30.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-30.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-30.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31872,7 +32012,9 @@
     },
     "set_028-40_31": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-31.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-31.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-31.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-31.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-31.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31898,7 +32040,9 @@
     },
     "set_028-40_32": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-32.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-32.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-32.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-32.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-32.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31924,7 +32068,9 @@
     },
     "set_028-40_33": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-33.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-33.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-33.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-33.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-33.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31950,7 +32096,9 @@
     },
     "set_028-40_34": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-34.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-34.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-34.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-34.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-34.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -31976,7 +32124,9 @@
     },
     "set_028-40_35": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-35.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-35.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-35.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-35.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-35.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -32002,7 +32152,9 @@
     },
     "set_028-40_36": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-36.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-36.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-36.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-36.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-36.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -32028,7 +32180,9 @@
     },
     "set_028-40_37": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-37.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-37.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-37.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-37.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-37.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -32054,7 +32208,9 @@
     },
     "set_028-40_38": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-38.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-38.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-38.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-38.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-38.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -32080,7 +32236,9 @@
     },
     "set_028-40_39": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-39.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-39.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-39.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-39.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-39.svg",
       "attributes": [
         {
           "trait_type": "Artist",
@@ -32106,7 +32264,9 @@
     },
     "set_028-40_40": {
       "image": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-40.gif",
-      "animation_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-40.svg",
+      "animation_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-40.gif",
+      "download_url": "ipfs://QmSjJxQS5GS18uiARvoR6rPyfR1vX9YgaBpgmfseWPPRCQ/walk-40.gif",
+      "embed_url": "ipfs://QmRXFJJRVrpQJbKNcuE4jkwhKL6xmua35dCsnUt8WNqdjz/40-walk/walk-40.svg",
       "attributes": [
         {
           "trait_type": "Artist",
