@@ -254,6 +254,14 @@ Full Script: `python3 randomize.py --seed "0x222e47889fe81266a1b8a3e9f2e3641fcb4
 
 ### Set `027`
 
+- [Provenance Post](https://x.com/jalil_eth/status/1734706241144864881)
+- [Block & Block Hash (18773252)](https://etherscan.io/block/18773252): `0x0666e6c50b767d6b32df7e246a0aee3ea733d8f83341136fdd28831dc38588b0`
+- [Salt](https://x.com/jalil_eth/status/1734706244928114784): `AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZzVVvv`
+- [Submissions](https://ipfs.vv.xyz/ipfs/Qmd1tTk12Y91bS5EyNWckbiZsV2Yd2CqEEdjVwoehYEVME)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x0666e6c50b767d6b32df7e246a0aee3ea733d8f83341136fdd28831dc38588b0_AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZzVVvv" --set 027`
+
 ### Set `028`
 
 - [Provenance Post](https://x.com/jalil_eth/status/1726640731740344523)
