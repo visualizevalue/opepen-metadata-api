@@ -32289,6 +32289,2006 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_027-01_01": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/01-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "ONE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_027-04_01": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/04-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FOUR"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_027-04_02": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/04-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FOUR"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_027-04_03": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/04-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FOUR"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_027-04_04": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/04-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FOUR"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_027-05_01": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/05-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FIVE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_027-05_02": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/05-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FIVE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_027-05_03": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/05-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FIVE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_027-05_04": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/05-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FIVE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_027-05_05": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/05-05.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FIVE"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_027-10_01": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-10_02": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-10_03": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-10_04": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-10_05": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-05.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-10_06": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-06.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-10_07": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-07.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-10_08": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-08.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-10_09": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-09.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-10_10": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/10-10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TEN"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_027-20_01": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_02": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_03": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_04": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_05": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-05.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_06": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-06.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_07": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-07.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_08": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-08.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_09": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-09.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_10": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_11": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-11.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_12": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-12.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_13": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-13.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_14": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-14.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_15": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-15.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_16": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-16.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_17": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-17.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_18": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-18.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_19": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-19.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-20_20": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/20-20.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "TWENTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_027-40_01": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-01.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_02": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-02.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_03": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-03.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_04": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-04.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_05": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-05.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_06": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-06.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_07": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-07.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_08": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-08.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_09": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-09.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_10": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-10.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_11": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-11.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_12": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-12.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_13": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-13.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_14": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-14.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_15": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-15.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_16": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-16.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_17": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-17.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_18": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-18.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_19": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-19.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_20": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-20.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_21": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-21.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_22": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-22.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_23": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-23.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_24": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-24.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_25": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-25.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_26": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-26.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_27": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-27.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_28": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-28.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_29": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-29.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_30": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-30.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_31": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-31.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_32": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-32.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_33": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-33.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_34": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-34.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_35": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-35.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_36": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-36.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_37": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-37.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_38": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-38.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_39": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-39.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_027-40_40": {
+      "image": "ipfs://QmabR2b14vZ2xcwdj1AwWug6SCwvrY2CM5nb6ZqS8jHkS2/40-40.png",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Jack Butcher"
+        },
+        {
+          "trait_type": "Release",
+          "value": "027"
+        },
+        {
+          "trait_type": "Set",
+          "value": "The 27th Character"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "FORTY"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {
