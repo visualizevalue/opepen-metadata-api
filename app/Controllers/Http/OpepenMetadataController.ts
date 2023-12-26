@@ -3,6 +3,7 @@ import { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
 import { ResponseContract } from '@ioc:Adonis/Core/Response'
 import MetadataParser from '@ioc:MetadataParser'
 import Drive from '@ioc:Adonis/Core/Drive'
+import { getBrowser } from 'App/Services/PageRenderer'
 
 export default class OpepenMetadataController {
 
@@ -88,6 +89,38 @@ export default class OpepenMetadataController {
     const { uri } = await this.imageURI(ctx)
 
     return this.resolveImage(uri, response)
+  }
+
+  public async render (ctx: HttpContextContract) {
+    const { params, response } = ctx
+    await this.validate(params)
+
+    let { animation_url } = await MetadataParser.forId(params.id)
+
+    if (! animation_url) return await this.image(ctx)
+
+    if (animation_url.startsWith('ipfs://')) {
+      animation_url = `https://ipfs.io/ipfs/${animation_url.replace('ipfs://', '')}`
+    }
+
+    const browser = await getBrowser()
+    const page = await browser.newPage()
+
+    await page.setViewport({width: 960, height: 960})
+    await page.goto(animation_url)
+    try {
+      await page.waitForFunction("RENDERED === true", {
+        timeout: 1000,
+      })
+    } catch (e) {}
+    const image = await page.screenshot({});
+
+    await page.close()
+
+    return response
+      .header('Content-Type', 'image/png')
+      .header('Content-Length', Buffer.byteLength(image))
+      .send(image)
   }
 
   /**
