@@ -79,6 +79,7 @@ export default class OpepenCharacters {
     window.addEventListener('resize', () => this.onResize())
     this.formElement.addEventListener('submit', (e) => this.onWordSubmit(e))
     this.inputElement.addEventListener('input', (e) => this.onInput(e))
+    this.inputElement.addEventListener('keydown', (e) => this.onKeyDown(e))
     this.checkIcon.addEventListener('click', () => this.onWordSubmit())
     this.uncheckIcon.addEventListener('click', () => this.clearInput())
 
@@ -123,6 +124,12 @@ export default class OpepenCharacters {
     this.opepenElement.style.setProperty("--width", this.width + 'px')
 
     this.render()
+  }
+
+  onKeyDown (e) {
+    if (e.keyCode === 13) {
+      this.onWordSubmit()
+    }
   }
 
   onInput () {
