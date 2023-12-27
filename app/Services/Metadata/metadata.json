@@ -34289,6 +34289,2086 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_026-01_01": {
+      "image": "https://metadata.opepen.art/8378/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=1&id=8378",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "4 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_026-04_01": {
+      "image": "https://metadata.opepen.art/14437/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=4&id=14437",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "9 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_026-04_02": {
+      "image": "https://metadata.opepen.art/15449/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=4&id=15449",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "9 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_026-04_03": {
+      "image": "https://metadata.opepen.art/12605/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=4&id=12605",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "9 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_026-04_04": {
+      "image": "https://metadata.opepen.art/15413/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=4&id=15413",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "9 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_026-05_01": {
+      "image": "https://metadata.opepen.art/9186/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=5&id=9186",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "16 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_026-05_02": {
+      "image": "https://metadata.opepen.art/15367/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=5&id=15367",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "16 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_026-05_03": {
+      "image": "https://metadata.opepen.art/12424/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=5&id=12424",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "16 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_026-05_04": {
+      "image": "https://metadata.opepen.art/786/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=5&id=786",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "16 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_026-05_05": {
+      "image": "https://metadata.opepen.art/7251/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=5&id=7251",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "16 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_026-10_01": {
+      "image": "https://metadata.opepen.art/14624/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=14624",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-10_02": {
+      "image": "https://metadata.opepen.art/131/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=131",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-10_03": {
+      "image": "https://metadata.opepen.art/11942/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=11942",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-10_04": {
+      "image": "https://metadata.opepen.art/10120/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=10120",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-10_05": {
+      "image": "https://metadata.opepen.art/719/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=719",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-10_06": {
+      "image": "https://metadata.opepen.art/15184/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=15184",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-10_07": {
+      "image": "https://metadata.opepen.art/8722/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=8722",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-10_08": {
+      "image": "https://metadata.opepen.art/2708/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=2708",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-10_09": {
+      "image": "https://metadata.opepen.art/8054/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=8054",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-10_10": {
+      "image": "https://metadata.opepen.art/10334/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=10&id=10334",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "25 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_026-20_01": {
+      "image": "https://metadata.opepen.art/1542/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=1542",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_02": {
+      "image": "https://metadata.opepen.art/6665/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=6665",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_03": {
+      "image": "https://metadata.opepen.art/15500/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=15500",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_04": {
+      "image": "https://metadata.opepen.art/4111/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=4111",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_05": {
+      "image": "https://metadata.opepen.art/14748/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=14748",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_06": {
+      "image": "https://metadata.opepen.art/4381/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=4381",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_07": {
+      "image": "https://metadata.opepen.art/2471/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=2471",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_08": {
+      "image": "https://metadata.opepen.art/1705/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=1705",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_09": {
+      "image": "https://metadata.opepen.art/62/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=62",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_10": {
+      "image": "https://metadata.opepen.art/3780/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=3780",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_11": {
+      "image": "https://metadata.opepen.art/331/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=331",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_12": {
+      "image": "https://metadata.opepen.art/15058/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=15058",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_13": {
+      "image": "https://metadata.opepen.art/4947/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=4947",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_14": {
+      "image": "https://metadata.opepen.art/12116/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=12116",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_15": {
+      "image": "https://metadata.opepen.art/1365/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=1365",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_16": {
+      "image": "https://metadata.opepen.art/14677/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=14677",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_17": {
+      "image": "https://metadata.opepen.art/15571/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=15571",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_18": {
+      "image": "https://metadata.opepen.art/14301/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=14301",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_19": {
+      "image": "https://metadata.opepen.art/6393/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=6393",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-20_20": {
+      "image": "https://metadata.opepen.art/1916/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=20&id=1916",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "36 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_026-40_01": {
+      "image": "https://metadata.opepen.art/12293/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=12293",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_02": {
+      "image": "https://metadata.opepen.art/8966/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=8966",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_03": {
+      "image": "https://metadata.opepen.art/2823/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=2823",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_04": {
+      "image": "https://metadata.opepen.art/6661/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=6661",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_05": {
+      "image": "https://metadata.opepen.art/10759/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=10759",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_06": {
+      "image": "https://metadata.opepen.art/6286/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=6286",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_07": {
+      "image": "https://metadata.opepen.art/10262/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=10262",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_08": {
+      "image": "https://metadata.opepen.art/7318/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=7318",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_09": {
+      "image": "https://metadata.opepen.art/12568/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=12568",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_10": {
+      "image": "https://metadata.opepen.art/7063/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=7063",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_11": {
+      "image": "https://metadata.opepen.art/1690/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=1690",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_12": {
+      "image": "https://metadata.opepen.art/13342/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=13342",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_13": {
+      "image": "https://metadata.opepen.art/4259/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=4259",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_14": {
+      "image": "https://metadata.opepen.art/3236/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=3236",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_15": {
+      "image": "https://metadata.opepen.art/8740/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=8740",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_16": {
+      "image": "https://metadata.opepen.art/12582/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=12582",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_17": {
+      "image": "https://metadata.opepen.art/1827/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=1827",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_18": {
+      "image": "https://metadata.opepen.art/11429/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=11429",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_19": {
+      "image": "https://metadata.opepen.art/14890/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=14890",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_20": {
+      "image": "https://metadata.opepen.art/8363/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=8363",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_21": {
+      "image": "https://metadata.opepen.art/5549/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=5549",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_22": {
+      "image": "https://metadata.opepen.art/14511/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=14511",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_23": {
+      "image": "https://metadata.opepen.art/4541/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=4541",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_24": {
+      "image": "https://metadata.opepen.art/2496/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=2496",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_25": {
+      "image": "https://metadata.opepen.art/4418/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=4418",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_26": {
+      "image": "https://metadata.opepen.art/4930/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=4930",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_27": {
+      "image": "https://metadata.opepen.art/4294/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=4294",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_28": {
+      "image": "https://metadata.opepen.art/2636/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=2636",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_29": {
+      "image": "https://metadata.opepen.art/1101/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=1101",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_30": {
+      "image": "https://metadata.opepen.art/10316/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=10316",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_31": {
+      "image": "https://metadata.opepen.art/15823/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=15823",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_32": {
+      "image": "https://metadata.opepen.art/4315/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=4315",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_33": {
+      "image": "https://metadata.opepen.art/11870/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=11870",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_34": {
+      "image": "https://metadata.opepen.art/8034/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=8034",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_35": {
+      "image": "https://metadata.opepen.art/3812/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=3812",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_36": {
+      "image": "https://metadata.opepen.art/12263/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=12263",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_37": {
+      "image": "https://metadata.opepen.art/3695/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=3695",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_38": {
+      "image": "https://metadata.opepen.art/9715/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=9715",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_39": {
+      "image": "https://metadata.opepen.art/14069/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=14069",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_026-40_40": {
+      "image": "https://metadata.opepen.art/5495/render",
+      "animation_url": "https://metadata.opepen.art/sets/026/?edition=40&id=5495",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "026"
+        },
+        {
+          "trait_type": "Set",
+          "value": "vvords"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "49 characters"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {
@@ -34353,7 +36433,7 @@
     "59": "rare-20",
     "60": "rare-40",
     "61": "rare-40",
-    "62": "rare-20",
+    "62": "set_026-20_09",
     "63": "set_019-04_04",
     "64": "rare-40",
     "65": "set_013-04",
@@ -34422,7 +36502,7 @@
     "128": "rare-10",
     "129": "rare-10",
     "130": "rare-40",
-    "131": "rare-10",
+    "131": "set_026-10_02",
     "132": "rare-40",
     "133": "rare-40",
     "134": "rare-5",
@@ -34622,7 +36702,7 @@
     "328": "rare-5",
     "329": "rare-10",
     "330": "rare-20",
-    "331": "rare-20",
+    "331": "set_026-20_11",
     "332": "rare-10",
     "333": "rare-20",
     "334": "rare-20",
@@ -35010,7 +37090,7 @@
     "716": "set_004-40_26",
     "717": "rare-40",
     "718": "rare-20",
-    "719": "rare-10",
+    "719": "set_026-10_05",
     "720": "rare-10",
     "721": "rare-40",
     "722": "rare-40",
@@ -35077,7 +37157,7 @@
     "783": "rare-40",
     "784": "rare-20",
     "785": "rare-40",
-    "786": "rare-5",
+    "786": "set_026-05_04",
     "787": "rare-40",
     "788": "rare-40",
     "789": "rare-40",
@@ -35392,7 +37472,7 @@
     "1098": "set_022-10_03",
     "1099": "rare-5",
     "1100": "rare-40",
-    "1101": "rare-40",
+    "1101": "set_026-40_29",
     "1102": "rare-40",
     "1103": "rare-20",
     "1104": "rare-40",
@@ -35656,7 +37736,7 @@
     "1362": "rare-40",
     "1363": "rare-40",
     "1364": "rare-20",
-    "1365": "rare-20",
+    "1365": "set_026-20_15",
     "1366": "rare-10",
     "1367": "rare-40",
     "1368": "rare-40",
@@ -35833,7 +37913,7 @@
     "1539": "rare-40",
     "1540": "rare-40",
     "1541": "rare-20",
-    "1542": "rare-20",
+    "1542": "set_026-20_01",
     "1543": "rare-40",
     "1544": "rare-40",
     "1545": "set_004-40_05",
@@ -35981,7 +38061,7 @@
     "1687": "rare-40",
     "1688": "rare-20",
     "1689": "rare-40",
-    "1690": "rare-40",
+    "1690": "set_026-40_11",
     "1691": "rare-40",
     "1692": "rare-5",
     "1693": "rare-20",
@@ -35996,7 +38076,7 @@
     "1702": "rare-1",
     "1703": "rare-20",
     "1704": "rare-20",
-    "1705": "rare-20",
+    "1705": "set_026-20_08",
     "1706": "rare-40",
     "1707": "rare-40",
     "1708": "rare-40",
@@ -36118,7 +38198,7 @@
     "1824": "rare-10",
     "1825": "set_018-40",
     "1826": "rare-10",
-    "1827": "rare-40",
+    "1827": "set_026-40_17",
     "1828": "rare-40",
     "1829": "rare-20",
     "1830": "rare-20",
@@ -36207,7 +38287,7 @@
     "1913": "rare-10",
     "1914": "rare-20",
     "1915": "rare-4",
-    "1916": "rare-20",
+    "1916": "set_026-20_20",
     "1917": "rare-40",
     "1918": "rare-20",
     "1919": "rare-40",
@@ -36762,7 +38842,7 @@
     "2468": "set_004-20_08",
     "2469": "rare-40",
     "2470": "rare-40",
-    "2471": "rare-20",
+    "2471": "set_026-20_07",
     "2472": "set_003-40",
     "2473": "rare-20",
     "2474": "rare-20",
@@ -36787,7 +38867,7 @@
     "2493": "rare-40",
     "2494": "rare-40",
     "2495": "rare-40",
-    "2496": "rare-40",
+    "2496": "set_026-40_24",
     "2497": "rare-4",
     "2498": "set_010-20",
     "2499": "rare-40",
@@ -36927,7 +39007,7 @@
     "2633": "rare-40",
     "2634": "rare-40",
     "2635": "rare-4",
-    "2636": "rare-40",
+    "2636": "set_026-40_28",
     "2637": "rare-40",
     "2638": "rare-10",
     "2639": "set_018-20",
@@ -36999,7 +39079,7 @@
     "2705": "rare-4",
     "2706": "rare-10",
     "2707": "rare-1",
-    "2708": "rare-10",
+    "2708": "set_026-10_08",
     "2709": "rare-40",
     "2710": "rare-40",
     "2711": "rare-40",
@@ -37114,7 +39194,7 @@
     "2820": "rare-5",
     "2821": "rare-40",
     "2822": "rare-20",
-    "2823": "rare-40",
+    "2823": "set_026-40_03",
     "2824": "rare-40",
     "2825": "rare-40",
     "2826": "rare-20",
@@ -37527,7 +39607,7 @@
     "3233": "rare-40",
     "3234": "rare-40",
     "3235": "rare-20",
-    "3236": "rare-40",
+    "3236": "set_026-40_14",
     "3237": "set_025-20_05",
     "3238": "rare-20",
     "3239": "rare-40",
@@ -37986,7 +40066,7 @@
     "3692": "rare-20",
     "3693": "set_005-40_34",
     "3694": "rare-10",
-    "3695": "rare-40",
+    "3695": "set_026-40_37",
     "3696": "rare-40",
     "3697": "rare-40",
     "3698": "rare-20",
@@ -38071,7 +40151,7 @@
     "3777": "rare-40",
     "3778": "rare-40",
     "3779": "rare-40",
-    "3780": "rare-20",
+    "3780": "set_026-20_10",
     "3781": "rare-40",
     "3782": "rare-40",
     "3783": "rare-20",
@@ -38103,7 +40183,7 @@
     "3809": "rare-40",
     "3810": "set_021-20_16",
     "3811": "rare-20",
-    "3812": "rare-40",
+    "3812": "set_026-40_35",
     "3813": "rare-20",
     "3814": "rare-40",
     "3815": "rare-10",
@@ -38402,7 +40482,7 @@
     "4108": "rare-40",
     "4109": "rare-40",
     "4110": "set_013-40",
-    "4111": "rare-20",
+    "4111": "set_026-20_04",
     "4112": "rare-40",
     "4113": "rare-20",
     "4114": "rare-20",
@@ -38550,7 +40630,7 @@
     "4256": "rare-40",
     "4257": "rare-40",
     "4258": "rare-40",
-    "4259": "rare-40",
+    "4259": "set_026-40_13",
     "4260": "set_016-40_13",
     "4261": "rare-20",
     "4262": "rare-20",
@@ -38585,7 +40665,7 @@
     "4291": "set_011-40_25",
     "4292": "rare-40",
     "4293": "rare-20",
-    "4294": "rare-40",
+    "4294": "set_026-40_27",
     "4295": "rare-20",
     "4296": "rare-40",
     "4297": "rare-40",
@@ -38606,7 +40686,7 @@
     "4312": "rare-20",
     "4313": "rare-20",
     "4314": "set_006-40",
-    "4315": "rare-40",
+    "4315": "set_026-40_32",
     "4316": "rare-40",
     "4317": "rare-5",
     "4318": "rare-10",
@@ -38672,7 +40752,7 @@
     "4378": "rare-40",
     "4379": "rare-40",
     "4380": "rare-20",
-    "4381": "rare-20",
+    "4381": "set_026-20_06",
     "4382": "rare-40",
     "4383": "rare-40",
     "4384": "rare-40",
@@ -38709,7 +40789,7 @@
     "4415": "rare-4",
     "4416": "rare-10",
     "4417": "rare-20",
-    "4418": "rare-40",
+    "4418": "set_026-40_25",
     "4419": "rare-20",
     "4420": "rare-10",
     "4421": "rare-10",
@@ -38832,7 +40912,7 @@
     "4538": "rare-20",
     "4539": "set_006-40",
     "4540": "rare-1",
-    "4541": "rare-40",
+    "4541": "set_026-40_23",
     "4542": "rare-40",
     "4543": "rare-40",
     "4544": "rare-40",
@@ -39221,7 +41301,7 @@
     "4927": "rare-40",
     "4928": "rare-40",
     "4929": "rare-40",
-    "4930": "rare-40",
+    "4930": "set_026-40_26",
     "4931": "rare-40",
     "4932": "rare-40",
     "4933": "rare-20",
@@ -39238,7 +41318,7 @@
     "4944": "rare-10",
     "4945": "rare-40",
     "4946": "rare-40",
-    "4947": "rare-20",
+    "4947": "set_026-20_13",
     "4948": "rare-40",
     "4949": "rare-40",
     "4950": "set_001-40_28",
@@ -39786,7 +41866,7 @@
     "5492": "rare-40",
     "5493": "rare-10",
     "5494": "rare-10",
-    "5495": "rare-40",
+    "5495": "set_026-40_40",
     "5496": "rare-20",
     "5497": "set_009-20",
     "5498": "set_025-40_40",
@@ -39840,7 +41920,7 @@
     "5546": "rare-4",
     "5547": "rare-20",
     "5548": "rare-40",
-    "5549": "rare-40",
+    "5549": "set_026-40_21",
     "5550": "rare-40",
     "5551": "rare-40",
     "5552": "set_020-40",
@@ -40577,7 +42657,7 @@
     "6283": "rare-20",
     "6284": "rare-40",
     "6285": "rare-40",
-    "6286": "rare-40",
+    "6286": "set_026-40_06",
     "6287": "set_013-40",
     "6288": "rare-20",
     "6289": "rare-40",
@@ -40684,7 +42764,7 @@
     "6390": "rare-40",
     "6391": "rare-20",
     "6392": "rare-20",
-    "6393": "rare-20",
+    "6393": "set_026-20_19",
     "6394": "rare-4",
     "6395": "rare-40",
     "6396": "rare-40",
@@ -40952,11 +43032,11 @@
     "6658": "rare-40",
     "6659": "rare-40",
     "6660": "rare-5",
-    "6661": "rare-40",
+    "6661": "set_026-40_04",
     "6662": "rare-40",
     "6663": "rare-20",
     "6664": "rare-40",
-    "6665": "rare-20",
+    "6665": "set_026-20_02",
     "6666": "rare-40",
     "6667": "rare-40",
     "6668": "rare-10",
@@ -41354,7 +43434,7 @@
     "7060": "rare-40",
     "7061": "set_015-40_05",
     "7062": "rare-40",
-    "7063": "rare-40",
+    "7063": "set_026-40_10",
     "7064": "rare-1",
     "7065": "rare-5",
     "7066": "set_005-20_04",
@@ -41542,7 +43622,7 @@
     "7248": "rare-4",
     "7249": "rare-40",
     "7250": "rare-40",
-    "7251": "rare-5",
+    "7251": "set_026-05_05",
     "7252": "rare-4",
     "7253": "rare-40",
     "7254": "rare-20",
@@ -41609,7 +43689,7 @@
     "7315": "rare-40",
     "7316": "rare-40",
     "7317": "rare-10",
-    "7318": "rare-40",
+    "7318": "set_026-40_08",
     "7319": "rare-10",
     "7320": "rare-40",
     "7321": "rare-20",
@@ -42325,7 +44405,7 @@
     "8031": "rare-40",
     "8032": "rare-40",
     "8033": "rare-10",
-    "8034": "rare-40",
+    "8034": "set_026-40_34",
     "8035": "rare-1",
     "8036": "rare-40",
     "8037": "set_021-40_28",
@@ -42345,7 +44425,7 @@
     "8051": "rare-20",
     "8052": "rare-40",
     "8053": "rare-40",
-    "8054": "rare-10",
+    "8054": "set_026-10_09",
     "8055": "rare-40",
     "8056": "rare-40",
     "8057": "rare-4",
@@ -42654,7 +44734,7 @@
     "8360": "rare-10",
     "8361": "rare-10",
     "8362": "rare-40",
-    "8363": "rare-40",
+    "8363": "set_026-40_20",
     "8364": "rare-20",
     "8365": "rare-10",
     "8366": "rare-40",
@@ -42669,7 +44749,7 @@
     "8375": "set_013-20",
     "8376": "rare-40",
     "8377": "rare-40",
-    "8378": "rare-1",
+    "8378": "set_026-01_01",
     "8379": "set_019-20_08",
     "8380": "set_019-10_06",
     "8381": "rare-10",
@@ -43013,7 +45093,7 @@
     "8719": "rare-20",
     "8720": "rare-40",
     "8721": "rare-20",
-    "8722": "rare-10",
+    "8722": "set_026-10_07",
     "8723": "rare-5",
     "8724": "rare-4",
     "8725": "rare-20",
@@ -43031,7 +45111,7 @@
     "8737": "rare-40",
     "8738": "rare-10",
     "8739": "rare-20",
-    "8740": "rare-40",
+    "8740": "set_026-40_15",
     "8741": "set_009-10",
     "8742": "rare-20",
     "8743": "rare-40",
@@ -43257,7 +45337,7 @@
     "8963": "rare-40",
     "8964": "set_028-10_03",
     "8965": "rare-20",
-    "8966": "rare-40",
+    "8966": "set_026-40_02",
     "8967": "rare-40",
     "8968": "rare-4",
     "8969": "rare-4",
@@ -43477,7 +45557,7 @@
     "9183": "rare-40",
     "9184": "rare-40",
     "9185": "rare-10",
-    "9186": "rare-5",
+    "9186": "set_026-05_01",
     "9187": "rare-40",
     "9188": "rare-40",
     "9189": "rare-40",
@@ -44006,7 +46086,7 @@
     "9712": "rare-40",
     "9713": "rare-40",
     "9714": "rare-4",
-    "9715": "rare-40",
+    "9715": "set_026-40_38",
     "9716": "rare-40",
     "9717": "rare-10",
     "9718": "rare-20",
@@ -44411,7 +46491,7 @@
     "10117": "rare-10",
     "10118": "rare-40",
     "10119": "rare-10",
-    "10120": "rare-10",
+    "10120": "set_026-10_04",
     "10121": "rare-20",
     "10122": "rare-5",
     "10123": "rare-40",
@@ -44553,7 +46633,7 @@
     "10259": "rare-10",
     "10260": "rare-20",
     "10261": "rare-40",
-    "10262": "rare-40",
+    "10262": "set_026-40_07",
     "10263": "rare-20",
     "10264": "rare-20",
     "10265": "rare-40",
@@ -44607,7 +46687,7 @@
     "10313": "set_007-01",
     "10314": "rare-20",
     "10315": "rare-20",
-    "10316": "rare-40",
+    "10316": "set_026-40_30",
     "10317": "set_018-40",
     "10318": "rare-40",
     "10319": "set_025-20_14",
@@ -44625,7 +46705,7 @@
     "10331": "set_007-20",
     "10332": "rare-40",
     "10333": "rare-40",
-    "10334": "rare-10",
+    "10334": "set_026-10_10",
     "10335": "rare-40",
     "10336": "rare-40",
     "10337": "rare-20",
@@ -45050,7 +47130,7 @@
     "10756": "rare-40",
     "10757": "rare-40",
     "10758": "set_012-40",
-    "10759": "rare-40",
+    "10759": "set_026-40_05",
     "10760": "set_018-20",
     "10761": "rare-5",
     "10762": "rare-10",
@@ -45720,7 +47800,7 @@
     "11426": "set_011-40_06",
     "11427": "rare-20",
     "11428": "rare-20",
-    "11429": "rare-40",
+    "11429": "set_026-40_18",
     "11430": "rare-5",
     "11431": "rare-20",
     "11432": "rare-40",
@@ -46161,7 +48241,7 @@
     "11867": "rare-20",
     "11868": "rare-40",
     "11869": "rare-40",
-    "11870": "rare-40",
+    "11870": "set_026-40_33",
     "11871": "rare-40",
     "11872": "rare-10",
     "11873": "rare-40",
@@ -46233,7 +48313,7 @@
     "11939": "rare-40",
     "11940": "rare-40",
     "11941": "rare-20",
-    "11942": "rare-10",
+    "11942": "set_026-10_03",
     "11943": "rare-40",
     "11944": "rare-10",
     "11945": "rare-40",
@@ -46407,7 +48487,7 @@
     "12113": "rare-10",
     "12114": "rare-40",
     "12115": "rare-40",
-    "12116": "rare-20",
+    "12116": "set_026-20_14",
     "12117": "set_021-40_21",
     "12118": "rare-40",
     "12119": "rare-40",
@@ -46554,7 +48634,7 @@
     "12260": "set_012-05",
     "12261": "rare-40",
     "12262": "rare-20",
-    "12263": "rare-40",
+    "12263": "set_026-40_36",
     "12264": "rare-40",
     "12265": "rare-40",
     "12266": "rare-4",
@@ -46584,7 +48664,7 @@
     "12290": "rare-40",
     "12291": "rare-20",
     "12292": "set_001-10_03",
-    "12293": "rare-40",
+    "12293": "set_026-40_01",
     "12294": "rare-20",
     "12295": "rare-40",
     "12296": "rare-20",
@@ -46715,7 +48795,7 @@
     "12421": "rare-40",
     "12422": "set_003-20",
     "12423": "rare-40",
-    "12424": "rare-5",
+    "12424": "set_026-05_03",
     "12425": "rare-40",
     "12426": "rare-40",
     "12427": "rare-40",
@@ -46859,7 +48939,7 @@
     "12565": "rare-40",
     "12566": "rare-40",
     "12567": "set_023-20_04",
-    "12568": "rare-40",
+    "12568": "set_026-40_09",
     "12569": "set_001-20_03",
     "12570": "rare-20",
     "12571": "rare-40",
@@ -46873,7 +48953,7 @@
     "12579": "rare-40",
     "12580": "rare-20",
     "12581": "rare-40",
-    "12582": "rare-40",
+    "12582": "set_026-40_16",
     "12583": "rare-40",
     "12584": "rare-5",
     "12585": "rare-4",
@@ -46896,7 +48976,7 @@
     "12602": "rare-40",
     "12603": "rare-40",
     "12604": "rare-20",
-    "12605": "rare-4",
+    "12605": "set_026-04_03",
     "12606": "rare-1",
     "12607": "rare-20",
     "12608": "rare-40",
@@ -47633,7 +49713,7 @@
     "13339": "rare-40",
     "13340": "rare-4",
     "13341": "rare-40",
-    "13342": "rare-40",
+    "13342": "set_026-40_12",
     "13343": "rare-5",
     "13344": "rare-20",
     "13345": "rare-40",
@@ -48360,7 +50440,7 @@
     "14066": "rare-20",
     "14067": "set_027-40_37",
     "14068": "rare-40",
-    "14069": "rare-40",
+    "14069": "set_026-40_39",
     "14070": "rare-40",
     "14071": "set_020-40",
     "14072": "set_028-40_04",
@@ -48592,7 +50672,7 @@
     "14298": "rare-40",
     "14299": "rare-20",
     "14300": "rare-4",
-    "14301": "rare-20",
+    "14301": "set_026-20_18",
     "14302": "rare-40",
     "14303": "rare-20",
     "14304": "rare-4",
@@ -48728,7 +50808,7 @@
     "14434": "rare-10",
     "14435": "set_025-40_34",
     "14436": "set_028-40_31",
-    "14437": "rare-4",
+    "14437": "set_026-04_01",
     "14438": "rare-40",
     "14439": "rare-40",
     "14440": "rare-5",
@@ -48802,7 +50882,7 @@
     "14508": "rare-40",
     "14509": "rare-40",
     "14510": "rare-40",
-    "14511": "rare-40",
+    "14511": "set_026-40_22",
     "14512": "rare-20",
     "14513": "rare-40",
     "14514": "rare-40",
@@ -48915,7 +50995,7 @@
     "14621": "rare-20",
     "14622": "rare-10",
     "14623": "rare-10",
-    "14624": "rare-10",
+    "14624": "set_026-10_01",
     "14625": "rare-10",
     "14626": "rare-40",
     "14627": "rare-40",
@@ -48968,7 +51048,7 @@
     "14674": "rare-5",
     "14675": "set_013-40",
     "14676": "rare-40",
-    "14677": "rare-20",
+    "14677": "set_026-20_16",
     "14678": "rare-40",
     "14679": "rare-40",
     "14680": "rare-40",
@@ -49039,7 +51119,7 @@
     "14745": "rare-40",
     "14746": "rare-40",
     "14747": "rare-40",
-    "14748": "rare-20",
+    "14748": "set_026-20_05",
     "14749": "rare-20",
     "14750": "rare-40",
     "14751": "rare-20",
@@ -49181,7 +51261,7 @@
     "14887": "rare-40",
     "14888": "rare-40",
     "14889": "set_021-20_08",
-    "14890": "rare-40",
+    "14890": "set_026-40_19",
     "14891": "rare-20",
     "14892": "rare-40",
     "14893": "rare-4",
@@ -49349,7 +51429,7 @@
     "15055": "rare-40",
     "15056": "rare-4",
     "15057": "rare-40",
-    "15058": "rare-20",
+    "15058": "set_026-20_12",
     "15059": "rare-4",
     "15060": "rare-40",
     "15061": "rare-40",
@@ -49475,7 +51555,7 @@
     "15181": "rare-40",
     "15182": "rare-10",
     "15183": "rare-20",
-    "15184": "rare-10",
+    "15184": "set_026-10_06",
     "15185": "rare-40",
     "15186": "rare-5",
     "15187": "rare-40",
@@ -49658,7 +51738,7 @@
     "15364": "rare-40",
     "15365": "rare-10",
     "15366": "set_007-04",
-    "15367": "rare-5",
+    "15367": "set_026-05_02",
     "15368": "rare-40",
     "15369": "set_009-05",
     "15370": "set_014-40_09",
@@ -49704,7 +51784,7 @@
     "15410": "rare-40",
     "15411": "rare-20",
     "15412": "rare-40",
-    "15413": "rare-4",
+    "15413": "set_026-04_04",
     "15414": "rare-20",
     "15415": "rare-40",
     "15416": "set_007-40",
@@ -49740,7 +51820,7 @@
     "15446": "set_001-20_14",
     "15447": "set_006-40",
     "15448": "rare-40",
-    "15449": "rare-4",
+    "15449": "set_026-04_02",
     "15450": "rare-40",
     "15451": "rare-10",
     "15452": "rare-40",
@@ -49791,7 +51871,7 @@
     "15497": "rare-20",
     "15498": "rare-20",
     "15499": "rare-5",
-    "15500": "rare-20",
+    "15500": "set_026-20_03",
     "15501": "rare-40",
     "15502": "rare-5",
     "15503": "rare-40",
@@ -49862,7 +51942,7 @@
     "15568": "rare-20",
     "15569": "rare-40",
     "15570": "rare-40",
-    "15571": "rare-20",
+    "15571": "set_026-20_17",
     "15572": "rare-40",
     "15573": "rare-40",
     "15574": "rare-1",
@@ -50114,7 +52194,7 @@
     "15820": "rare-20",
     "15821": "rare-40",
     "15822": "rare-20",
-    "15823": "rare-40",
+    "15823": "set_026-40_31",
     "15824": "set_013-40",
     "15825": "rare-5",
     "15826": "rare-20",

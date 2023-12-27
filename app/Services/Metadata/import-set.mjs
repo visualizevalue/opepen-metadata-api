@@ -16,7 +16,8 @@ const metadata = JSON.parse(fs.readFileSync('./metadata.json').toString())
 
 const addTokenDefinition = (key, file, edition) => {
   metadata.editions[key] = {
-    "image": `ipfs://${config.hash}/${file}`,
+    "image": `${config.protocol || 'ipfs://'}${config.hash || config.path}/${file}`,
+    "animation_url": config.animation_url || undefined,
     "attributes": [
       {
         "trait_type": "Artist",
