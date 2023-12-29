@@ -3,6 +3,7 @@ import { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
 import { ResponseContract } from '@ioc:Adonis/Core/Response'
 import MetadataParser from '@ioc:MetadataParser'
 import Drive from '@ioc:Adonis/Core/Drive'
+import Logger from '@ioc:Adonis/Core/Logger'
 import { getBrowser } from 'App/Services/PageRenderer'
 
 export default class OpepenMetadataController {
@@ -115,7 +116,13 @@ export default class OpepenMetadataController {
     } catch (e) {}
     const image = await page.screenshot({});
 
+    Logger.debug('Screenshot captured')
+
     await page.close()
+
+    Logger.debug('Page closed')
+
+    Logger.debug(JSON.stringify(await browser.pages()))
 
     return response
       .header('Content-Type', 'image/png')
