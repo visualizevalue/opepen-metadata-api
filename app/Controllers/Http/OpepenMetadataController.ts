@@ -122,8 +122,6 @@ export default class OpepenMetadataController {
 
     Logger.debug('Page closed')
 
-    Logger.debug(JSON.stringify(await browser.pages()))
-
     return response
       .header('Content-Type', 'image/png')
       .header('Content-Length', Buffer.byteLength(image))
