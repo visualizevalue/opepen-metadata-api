@@ -1,15 +1,23 @@
 export const generateSvg = ({
+  bg,
   dimension,
   fill,
+  fillEyes,
   position,
   lookingLeft,
+  positionIndicator
 } = {
+  bg: '#000',
   dimension: 512,
   fill: '#069420',
+  fillEyes: false,
   position: 0, // 0 - 1
+  positionIndicator: true,
   lookingLeft: true,
 }) => `<svg width="${dimension}" height="${dimension}" viewBox="0 0 8 8" xmlns="http://www.w3.org/2000/svg">
-  <g fill="${fill}" >
+  <rect fill="${bg}" width="8" height="8" />
+
+  <g fill="${fillEyes ? 'black' : fill}" >
     <!-- Left Eye -->
     <g transform="translate(2, 2)">
       <path d="M 0 0
@@ -21,13 +29,13 @@ export const generateSvg = ({
         L 2 1
         A 1 1, 0, 0, 1, 1 2
         Z"
-        fill="${lookingLeft ? 'white' : 'black'}"
+        fill="${fillEyes ? fill : lookingLeft ? 'white' : 'black'}"
       />
       <path d="M 1 1
         L 1 2
         A 1 1, 0, 0, 1, 0 1
         Z"
-        fill="${lookingLeft ? 'black' : 'white'}"
+        fill="${fillEyes ? fill : lookingLeft ? 'black' : 'white'}"
       />
     </g>
 
@@ -42,13 +50,13 @@ export const generateSvg = ({
         L 2 1
         A 1 1, 0, 0, 1, 1 2
         Z"
-        fill="${lookingLeft ? 'white' : 'black'}"
+        fill="${fillEyes ? fill : lookingLeft ? 'white' : 'black'}"
       />
       <path d="M 1 1
         L 1 2
         A 1 1, 0, 0, 1, 0 1
         Z"
-        fill="${lookingLeft ? 'black' : 'white'}"
+        fill="${fillEyes ? fill : lookingLeft ? 'black' : 'white'}"
       />
     </g>
 
@@ -63,9 +71,9 @@ export const generateSvg = ({
         Z"
       />
     </g>
-    <g stroke="#000000" stroke-width="0.06">
+    <g stroke="${bg}" stroke-width="0.06">
       <line x1="2" x2="6" y1="5" y2="5" />
-      <circle r="0.12" cx="${2 + 4 * position}" cy="5" />
+      ${ positionIndicator && `<circle r="0.12" cx="${2 + 4 * position}" cy="5" />` }
     </g>
 
     <!-- Torso -->

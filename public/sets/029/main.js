@@ -26,17 +26,23 @@ const render = async () => {
     }
   }
 
+  const bg = edition === 1 ? 'white' : 'black'
   const listingCount = totals[edition]
   const position = 1 - listingCount / edition // 0 - 1
   const hue = 8 + 106 * position // 8 - 114
   const fill = `hsl(${hue}, 100%, 50%)`
+  const fillEyes = edition === 1
   const lookingLeft = position < 0.5
+  const positionIndicator = edition !== 1
 
   container.innerHTML = generateSvg({
     dimension: Math.min(window.innerWidth, window.innerHeight),
+    bg,
     fill,
+    fillEyes,
     position, // 0 - 1
     lookingLeft,
+    positionIndicator,
   })
 
   console.log(`Within Set ${set} Edition ${edition}, there are ${listingCount} Opepen listings (${parseInt((1 - position) * 100)}%)`)
