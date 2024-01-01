@@ -1,4 +1,4 @@
-import { generateSvg } from './opepen-svg.js'
+import { generateMainSvg, generateCheckSvg } from './opepen-svg.js'
 
 const container = document.getElementById('opepen')
 const config  = new URLSearchParams(window.location.search)
@@ -34,15 +34,19 @@ const render = async () => {
   const fillEyes = edition === 1
   const lookingLeft = position < 0.5
   const positionIndicator = edition !== 1
+  const dimension = Math.min(window.innerWidth, window.innerHeight)
 
-  container.innerHTML = generateSvg({
-    dimension: Math.min(window.innerWidth, window.innerHeight),
+  container.innerHTML = generateMainSvg({
+    dimension,
     bg,
     fill,
     fillEyes,
     position, // 0 - 1
     lookingLeft,
     positionIndicator,
+  }) + generateCheckSvg({
+    dimension: dimension / 8 * 0.35,
+    fill,
   })
 
   console.log(`Within Set ${set} Edition ${edition}, there are ${listingCount} Opepen listings (${parseInt((1 - position) * 100)}%)`)

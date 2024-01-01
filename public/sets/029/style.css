@@ -1,4 +1,29 @@
+:root {
+  --dimension: min(100vw, 100vh);
+  --tile: calc(min(100vw, 100vh) / 8);
+}
+
 body {
   margin: 0;
   background: black;
+}
+
+#opepen {
+  position: relative;
+
+  & > svg {
+    position: absolute;
+  }
+
+  & > svg:first-child {
+    width: var(--dimension);
+    height: var(--dimension);
+  }
+
+  & > svg:last-child {
+    width: calc(var(--tile) * 0.35);
+    height: calc(var(--tile) * 0.35);
+    left: calc(var(--dimension) * 0.75);
+    top: calc(var(--tile) * 1.65);
+  }
 }
