@@ -279,3 +279,17 @@ Full Script: `python3 randomize.py --seed "0x0666e6c50b767d6b32df7e246a0aee3ea73
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
 Full Script: `python3 randomize.py --seed "0x1bf77b99fbcf2562b2afff5785d6d4fc84055ac4e41cc5e2ddf6dbc2951587e3_tvvo steps forward;; one step back;" --set 028`
+
+### Set `029`
+
+### Set `030`
+
+### Set `031`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1742706973118750949)
+- [Block & Block Hash (18930565)](https://etherscan.io/block/18930565): `0x68c4e6cba7acc89cfd8c34e0885869919c7a2e9abfceb88f8b5f6cd5dda8d8fb`
+- [Salt](https://x.com/jalil_eth/status/1742706976344195400): `the market can remain irrational longer than you can remain solvvent`
+- [Submissions](https://ipfs.io/ipfs/Qmcvj7LxnH9xhD4UFNtgoUUv7yZtxXuTqGNrczEAV2NsTn)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x68c4e6cba7acc89cfd8c34e0885869919c7a2e9abfceb88f8b5f6cd5dda8d8fb_the market can remain irrational longer than you can remain solvvent" --set 031`
