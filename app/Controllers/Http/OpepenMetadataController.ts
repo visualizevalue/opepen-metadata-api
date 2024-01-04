@@ -3,8 +3,7 @@ import { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
 import { ResponseContract } from '@ioc:Adonis/Core/Response'
 import MetadataParser from '@ioc:MetadataParser'
 import Drive from '@ioc:Adonis/Core/Drive'
-import Logger from '@ioc:Adonis/Core/Logger'
-import { getBrowser } from 'App/Services/PageRenderer'
+import { renderPage } from 'App/Services/PageRenderer'
 
 export default class OpepenMetadataController {
 
@@ -104,23 +103,7 @@ export default class OpepenMetadataController {
       animation_url = `https://ipfs.io/ipfs/${animation_url.replace('ipfs://', '')}`
     }
 
-    const browser = await getBrowser()
-    const page = await browser.newPage()
-
-    await page.setViewport({width: 960, height: 960})
-    await page.goto(animation_url)
-    try {
-      await page.waitForFunction("RENDERED === true", {
-        timeout: 1000,
-      })
-    } catch (e) {}
-    const image = await page.screenshot({});
-
-    Logger.debug('Screenshot captured')
-
-    await page.close()
-
-    Logger.debug('Page closed')
+    const image = await renderPage(animation_url)
 
     return response
       .header('Content-Type', 'image/png')
