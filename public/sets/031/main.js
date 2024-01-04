@@ -1,9 +1,10 @@
-import { generateMainSvg, generateCheckSvg } from './opepen-svg.js'
+import { generateSvg } from './opepen-svg.js'
+import { vvrite } from './vv0.js'
 
 const container = document.getElementById('opepen')
 const config  = new URLSearchParams(window.location.search)
 const edition = parseInt(config.get('edition'))
-const set = 26
+const set = 31
 
 const render = async () => {
   let totals
@@ -36,7 +37,7 @@ const render = async () => {
   const positionIndicator = edition !== 1
   const dimension = Math.min(window.innerWidth, window.innerHeight)
 
-  container.innerHTML = generateMainSvg({
+  container.innerHTML = generateSvg({
     dimension,
     bg,
     fill,
@@ -44,10 +45,7 @@ const render = async () => {
     position, // 0 - 1
     lookingLeft,
     positionIndicator,
-  }) + generateCheckSvg({
-    dimension: dimension / 8 * 0.35,
-    fill,
-  })
+  }) + vvrite(edition.toString(), fill)
 
   console.log(`Within Set ${set} Edition ${edition}, there are ${listingCount} Opepen listings (${parseInt((1 - position) * 100)}%)`)
 

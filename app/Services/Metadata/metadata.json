@@ -36369,6 +36369,2086 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_031-01_01": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "1x Listing"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_031-04_01": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "4x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_031-04_02": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "4x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_031-04_03": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "4x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_031-04_04": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "4x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_031-05_01": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "5x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_031-05_02": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "5x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_031-05_03": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "5x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_031-05_04": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "5x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_031-05_05": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "5x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_031-10_01": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-10_02": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-10_03": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-10_04": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-10_05": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-10_06": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-10_07": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-10_08": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-10_09": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-10_10": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "10x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_031-20_01": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_02": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_03": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_04": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_05": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_06": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_07": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_08": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_09": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_10": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_11": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_12": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_13": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_14": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_15": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_16": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_17": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_18": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_19": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-20_20": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "20x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_031-40_01": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_02": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_03": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_04": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_05": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_06": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_07": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_08": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_09": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_10": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_11": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_12": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_13": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_14": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_15": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_16": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_17": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_18": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_19": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_20": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_21": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_22": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_23": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_24": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_25": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_26": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_27": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_28": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_29": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_30": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_31": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_32": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_33": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_34": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_35": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_36": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_37": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_38": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_39": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
+    },
+    "set_031-40_40": {
+      "image": "https://metadata.opepen.art/{ID}/render",
+      "animation_url": "https://metadata.opepen.art/sets/031/?edition={EDITION}",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "VV"
+        },
+        {
+          "trait_type": "Release",
+          "value": "031"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Yearly Close"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "40x Listings"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {
