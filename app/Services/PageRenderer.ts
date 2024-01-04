@@ -19,32 +19,22 @@ export const getBrowser = async () => {
 }
 
 export const renderPage = async (url: string, dimension: number = 960) => {
+  const browser = await getBrowser()
+  const page = await browser.newPage()
+
+  await page.setViewport({width: dimension, height: dimension})
+  await page.goto(url)
   try {
-    const browser = await getBrowser()
-    const page = await browser.newPage()
+    await page.waitForFunction("RENDERED === true", {
+      timeout: 1000,
+    })
+  } catch (e) {}
 
-    await page.setViewport({width: dimension, height: dimension})
-    await page.goto(url)
-    try {
-      await page.waitForFunction("RENDERED === true", {
-        timeout: 1000,
-      })
-    } catch (e) {}
+  const image = await page.screenshot({});
+  Logger.debug('Screenshot captured')
 
-    const image = await page.screenshot({});
-    Logger.debug('Screenshot captured')
+  await page.close()
+  Logger.debug('Page closed')
 
-    await page.close()
-    Logger.debug('Page closed')
-
-    return image
-  } catch (e) {
-    if (browser) {
-      await browser.close()
-
-      await newBrowser()
-    }
-
-    return await renderPage(url, dimension)
-  }
+  return image
 }
