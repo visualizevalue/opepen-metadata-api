@@ -4,16 +4,25 @@ import Logger from '@ioc:Adonis/Core/Logger'
 let browser: Browser
 
 export const newBrowser = async () => {
-  Logger.debug(`Loading new browser`)
+  Logger.info(`Closing browser (if exists)`)
+  await browser?.close()
+
+  Logger.info(`Loading new browser`)
   browser = await puppeteer.launch({
     headless: 'new',
-    args: ['--single-process', '--no-zygote', '--no-sandbox', '--disable-setuid-sandbox'],
+    args: [
+      '--single-process',
+      '--no-zygote',
+      '--no-sandbox',
+      '--disable-setuid-sandbox',
+    ],
+    protocolTimeout: 10_000,
   })
-  Logger.debug(`New browser loaded`)
+  Logger.info(`New browser loaded`)
 }
 
 export const getBrowser = async () => {
-  Logger.debug(`Getting browser`)
+  Logger.info(`Getting browser`)
   if (! browser) {
     await newBrowser()
   }
@@ -21,25 +30,35 @@ export const getBrowser = async () => {
   return browser
 }
 
-export const renderPage = async (url: string, dimension: number = 960) => {
-  Logger.debug(`Trying to render page (${url})`)
-  const browser = await getBrowser()
-  const page = await browser.newPage()
-
-  await page.setViewport({width: dimension, height: dimension})
-  await page.goto(url)
+export const renderPage = async (url: string, dimension: number = 960, tries: number = 1) => {
   try {
-    await page.waitForFunction("RENDERED === true", {
-      timeout: 1000,
-    })
-    Logger.debug(`Rendered page (${url})`)
-  } catch (e) {}
+    Logger.info(`Trying to render page (${url}) (try ${tries})`)
+    const browser = await getBrowser()
+    const page = await browser.newPage()
 
-  const image = await page.screenshot({});
-  Logger.debug(`Screenshot captured (${url})`)
+    await page.setViewport({width: dimension, height: dimension})
+    await page.goto(url)
+    try {
+      await page.waitForFunction("RENDERED === true", {
+        timeout: 1000,
+      })
+      Logger.info(`Rendered page (${url})`)
+    } catch (e) {}
 
-  await page.close()
-  Logger.debug(`Page closed (${url})`)
+    const image = await page.screenshot({});
+    Logger.info(`Screenshot captured (${url})`)
 
-  return image
+    await page.close()
+    Logger.info(`Page closed (${url})`)
+
+    return image
+  } catch (e) {
+    if (tries > 3) throw e
+
+    Logger.info(`Encountered an error – retrying to render (${url})`)
+
+    await newBrowser()
+
+    return await renderPage(url, dimension, tries + 1)
+  }
 }
