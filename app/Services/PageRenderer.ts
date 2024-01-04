@@ -53,7 +53,11 @@ export const renderPage = async (url: string, dimension: number = 960, tries: nu
 
     return image
   } catch (e) {
-    if (tries > 3) throw e
+    if (tries > 3) {
+      await browser?.close()
+
+      throw e
+    }
 
     Logger.info(`Encountered an error – retrying to render (${url})`)
 
