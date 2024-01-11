@@ -292,4 +292,12 @@ Full Script: `python3 randomize.py --seed "0x1bf77b99fbcf2562b2afff5785d6d4fc840
 - [Submissions](https://ipfs.io/ipfs/Qmcvj7LxnH9xhD4UFNtgoUUv7yZtxXuTqGNrczEAV2NsTn)
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
-Full Script: `python3 randomize.py --seed "0x68c4e6cba7acc89cfd8c34e0885869919c7a2e9abfceb88f8b5f6cd5dda8d8fb_the market can remain irrational longer than you can remain solvvent" --set 031`
+### Set `100`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1745459325181825417)
+- [Block & Block Hash (18984444)](https://etherscan.io/block/18984444): `0xd344b4c896c6684fbfcfc6107c0e103ba4f2c33791a053b1d3b4282fa3cd12ac`
+- [Salt](https://x.com/jalil_eth/status/1745459327786520882): `cc0gopepen`
+- [Submissions](https://ipfs.io/ipfs/)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0xd344b4c896c6684fbfcfc6107c0e103ba4f2c33791a053b1d3b4282fa3cd12ac_cc0gopepen" --set 100`

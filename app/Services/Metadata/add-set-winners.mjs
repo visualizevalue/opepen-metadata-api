@@ -20,10 +20,10 @@ Object.keys(winners).forEach(edition => {
     if (DYNAMIC) key += `_${pad(idx + 1, 2)}`
 
     for (const interKey of INTERPOLATE_KEYS) {
-      if (metadata.editions[key][interKey].includes('{ID}')) {
+      if (metadata.editions[key][interKey]?.includes('{ID}')) {
         metadata.editions[key][interKey] = metadata.editions[key][interKey].replace('{ID}', token)
       }
-      if (metadata.editions[key][interKey].includes('{EDITION}')) {
+      if (metadata.editions[key][interKey]?.includes('{EDITION}')) {
         metadata.editions[key][interKey] = metadata.editions[key][interKey].replace('{EDITION}', edition)
       }
     }
