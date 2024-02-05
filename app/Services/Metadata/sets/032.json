@@ -1,0 +1,22 @@
+{
+  "hash": "QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy",
+  "artist": "Dutchtide",
+  "release": "032",
+  "set": "Permanence",
+  "names": {
+    "1": "Fresh",
+    "4": "Cosmic",
+    "5": "Lonely",
+    "10": "Divided",
+    "20": "Comfortable",
+    "40": "Tranquil"
+  },
+  "sets": {
+    "1": "1.mp4",
+    "4": "4.mp4",
+    "5": "5.mp4",
+    "10": "10.mp4",
+    "20": "20.mp4",
+    "40": "40.mp4"
+  }
+}

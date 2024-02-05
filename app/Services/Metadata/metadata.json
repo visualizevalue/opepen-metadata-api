@@ -42449,6 +42449,162 @@
           "value": "Forty"
         }
       ]
+    },
+    "set_032-01": {
+      "image": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/1.jpg",
+      "animation_url": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/1.mp4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dutchtide"
+        },
+        {
+          "trait_type": "Release",
+          "value": "032"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Permanence"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Fresh"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "One"
+        }
+      ]
+    },
+    "set_032-04": {
+      "image": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/4.jpg",
+      "animation_url": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/4.mp4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dutchtide"
+        },
+        {
+          "trait_type": "Release",
+          "value": "032"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Permanence"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Cosmic"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Four"
+        }
+      ]
+    },
+    "set_032-05": {
+      "image": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/5.jpg",
+      "animation_url": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/5.mp4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dutchtide"
+        },
+        {
+          "trait_type": "Release",
+          "value": "032"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Permanence"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Lonely"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Five"
+        }
+      ]
+    },
+    "set_032-10": {
+      "image": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/10.jpg",
+      "animation_url": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/10.mp4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dutchtide"
+        },
+        {
+          "trait_type": "Release",
+          "value": "032"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Permanence"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Divided"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Ten"
+        }
+      ]
+    },
+    "set_032-20": {
+      "image": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/20.jpg",
+      "animation_url": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/20.mp4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dutchtide"
+        },
+        {
+          "trait_type": "Release",
+          "value": "032"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Permanence"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Comfortable"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Twenty"
+        }
+      ]
+    },
+    "set_032-40": {
+      "image": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/40.jpg",
+      "animation_url": "ipfs://QmXFJj4XvvG2h7H8zNVH1rvfgME9UbEBWK9nVkdiMSAfzy/40.mp4",
+      "attributes": [
+        {
+          "trait_type": "Artist",
+          "value": "Dutchtide"
+        },
+        {
+          "trait_type": "Release",
+          "value": "032"
+        },
+        {
+          "trait_type": "Set",
+          "value": "Permanence"
+        },
+        {
+          "trait_type": "Opepen",
+          "value": "Tranquil"
+        },
+        {
+          "trait_type": "Edition Size",
+          "value": "Forty"
+        }
+      ]
     }
   },
   "tokens": {

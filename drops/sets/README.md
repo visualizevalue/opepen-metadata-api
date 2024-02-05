@@ -300,6 +300,16 @@ Full Script: `python3 randomize.py --seed "0x94b8cedb44da18b9db08d4bf7ecd855ce83
 - [Submissions](https://ipfs.io/ipfs/Qmcvj7LxnH9xhD4UFNtgoUUv7yZtxXuTqGNrczEAV2NsTn)
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
 
+### Set `032`
+
+- [Provenance Post](https://x.com/jalil_eth/status/1754544787628191844)
+- [Block & Block Hash (19163420)](https://etherscan.io/block/19163420): `0x682c9d1db9a3129325dfef78c8127ccad54969fc6485ac973a540fdc7efd89cf`
+- [Salt](https://x.com/jalil_eth/status/1754544789326844374): `movvie scenes`
+- [Submissions](https://ipfs.io/ipfs/QmNP35w2W4HvDH9oLiWSfFFf2JepQoqThrpUyHfLsj71S9)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x682c9d1db9a3129325dfef78c8127ccad54969fc6485ac973a540fdc7efd89cf_movvie scenes" --set 032`
+
 ### Set `100`
 
 - [Provenance Post](https://x.com/jalil_eth/status/1745459325181825417)
