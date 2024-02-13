@@ -292,6 +292,14 @@ Full Script: `python3 randomize.py --seed "0x94b8cedb44da18b9db08d4bf7ecd855ce83
 
 ### Set `030`
 
+- [Provenance Post](https://x.com/jalil_eth/status/1757442284331700390)
+- [Block & Block Hash (19220436)](https://etherscan.io/block/19220436): `0x7288d8d8ad6f6908973dec4d1b4f5d75c9781aeac5a1c569b089bd409c4de967`
+- [Salt](https://x.com/jalil_eth/status/1757442286437204268): `a8bf9099b691fd981fbb767cb9cbdb9001ed6edd06f06c3688c517a6025a16e1`
+- [Submissions](https://ipfs.io/ipfs/QmQGhUWqcw8M1ytXKXVFRF712GZawHrW2Y7e3FxPEDoBbe)
+- [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x7288d8d8ad6f6908973dec4d1b4f5d75c9781aeac5a1c569b089bd409c4de967_I WANT MY VVTV" --set 030`
+
 ### Set `031`
 
 - [Provenance Post](https://x.com/jalil_eth/status/1742706973118750949)
@@ -299,6 +307,8 @@ Full Script: `python3 randomize.py --seed "0x94b8cedb44da18b9db08d4bf7ecd855ce83
 - [Salt](https://x.com/jalil_eth/status/1742706976344195400): `the market can remain irrational longer than you can remain solvvent`
 - [Submissions](https://ipfs.io/ipfs/Qmcvj7LxnH9xhD4UFNtgoUUv7yZtxXuTqGNrczEAV2NsTn)
 - [Script Version v2.0.0](https://github.com/visualizevalue-dev/opepens-metadata-api/releases/tag/v2.0.0)
+
+Full Script: `python3 randomize.py --seed "0x68c4e6cba7acc89cfd8c34e0885869919c7a2e9abfceb88f8b5f6cd5dda8d8fb_the market can remain irrational longer than you can remain solvvent" --set 031`
 
 ### Set `032`
 

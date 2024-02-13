@@ -1,0 +1,22 @@
+{
+  "hash": "QmasXxev43z8UBLP2Yj8xv4ZEBAFq7VpT3Lhe5C18jHaZ5",
+  "artist": "alphacentaurikid",
+  "release": "030",
+  "set": "a.c.k.",
+  "names": {
+    "1": "supernatural",
+    "4": "the servant",
+    "5": "romeopepen",
+    "10": "Muse T.V.",
+    "20": "tiptoe",
+    "40": "da Vinci van Gogh"
+  },
+  "sets": {
+    "1": "supernatural.png",
+    "4": "the servant.png",
+    "5": "romeopepen.png",
+    "10": "Muse TV.png",
+    "20": "tiptoe.png",
+    "40": "da Vinci van Gogh.png"
+  }
+}
